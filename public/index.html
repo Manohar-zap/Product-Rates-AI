@@ -83,9 +83,9 @@
           Take a Photo
         </button>
 
-        <!-- Hidden file inputs -->
-        <input type="file" id="file-input" accept="image/*" class="hidden" />
-        <input type="file" id="camera-input" accept="image/*" capture="environment" class="hidden" />
+        <!-- Hidden file inputs (visually hidden instead of display:none to fix mobile Safari/Chrome bugs) -->
+        <input type="file" id="file-input" accept="image/*" class="visually-hidden" />
+        <input type="file" id="camera-input" accept="image/*" capture="environment" class="visually-hidden" />
 
         <button class="btn btn-ghost btn-full" onclick="UploadModal.close()">Cancel</button>
       </div>

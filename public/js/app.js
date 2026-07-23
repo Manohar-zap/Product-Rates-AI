@@ -345,6 +345,7 @@ const UploadModal = {
         overall_rating: data.overall_rating,
         imageDataUrl: State.uploadedImageDataUrl,
         date: new Date().toISOString(),
+        fullData: data
       });
 
       Loading.hide();
@@ -1034,7 +1035,16 @@ const History = {
     const items = Storage.getHistory();
     const item = items.find(i => i.id === id);
     if (!item) return;
-    Toast.show('Open the original scan to view full analysis');
+
+    if (!item.fullData) {
+      Toast.show('Sorry, this old scan does not have full details saved.');
+      return;
+    }
+
+    State.currentAnalysis = item.fullData;
+    State.uploadedImageDataUrl = item.imageDataUrl;
+    Pages.renderAll();
+    Router.go('analysis', 'overview');
   },
 
   clear() {
@@ -1095,7 +1105,8 @@ function initEvents() {
   });
 
   document.getElementById('file-input').addEventListener('change', e => {
-    UploadModal.handleFile(e.target.files[0]);
+    if (e.target.files[0]) UploadModal.handleFile(e.target.files[0]);
+    e.target.value = ''; // reset so same file can trigger 'change' again
   });
 
   document.getElementById('camera-btn').addEventListener('click', () => {
@@ -1104,7 +1115,8 @@ function initEvents() {
   });
 
   document.getElementById('camera-input').addEventListener('change', e => {
-    UploadModal.handleFile(e.target.files[0]);
+    if (e.target.files[0]) UploadModal.handleFile(e.target.files[0]);
+    e.target.value = ''; // reset
   });
 
   // Dark mode toggle
