@@ -1,0 +1,4 @@
+# Local dev only — not needed on Vercel
+server.py
+.env
+__pycache__
