@@ -1,0 +1,66 @@
+{
+    "routine_name": "Dandruff Hair Care Routine",
+    "routine_type": "Hair",
+    "description": "A professional dermatologist-inspired routine designed to manage and reduce dandruff, targeting both symptoms and underlying causes for long-term improvement.",
+    "frequency": "Daily morning, weekly night routine with special attention",
+    "estimated_time": "10-15 minutes daily, 30 minutes on special nights",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Apply a dandruff-targeting shampoo.",
+            "purpose": "Start the day with a clean scalp to prevent and reduce dandruff formation.",
+            "recommended_ingredients": [
+                "Zinc pyrithione",
+                "Salicylic acid",
+                "Coal tar"
+            ]
+        }
+    ],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Wash your hair thoroughly with the same shampoo used in the morning routine.",
+            "purpose": "Ensure no product residue remains, which can contribute to dandruff.",
+            "recommended_ingredients": [
+                "Zinc pyrithione",
+                "Salicylic acid",
+                "Coal tar"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Saturday",
+            "action": "Apply a leave-in scalp treatment or mask for at least 30 minutes."
+        }
+    ],
+    "do": [
+        "Rinse hair thoroughly after each application of shampoos and treatments.",
+        "Pat dry your hair gently instead of rubbing it with a towel to avoid irritation.",
+        "Use a soft-bristled brush to gently massage the scalp for a few minutes daily, enhancing circulation."
+    ],
+    "dont": [
+        "Over-wash your hair as this can strip natural oils and worsen dandruff.",
+        "Skip regular treatment days or use less effective products that do not contain active anti-dandruff ingredients.",
+        "Rely on over-the-counter remedies without consulting a dermatologist if symptoms persist."
+    ],
+    "common_mistakes": [
+        "Over-washing or under-washing the scalp, which can both contribute to dandruff.",
+        "Using hair care products that do not contain active anti-dandruff ingredients.",
+        "Ignoring underlying health issues that may be contributing to dandruff, such as stress or hormonal changes."
+    ],
+    "best_products_categories": [
+        "Anti-Dandruff Shampoos",
+        "Scalp Treatments/Masks"
+    ],
+    "expected_results": {
+        "2_weeks": "Reduction in flakiness and irritation. Hair may appear more manageable.",
+        "1_month": "Significant decrease in dandruff; scalp condition improves, hair texture becomes smoother.",
+        "3_months": "Persistent improvement in scalp health. Dandruff symptoms are significantly reduced or eliminated."
+    },
+    "expert_tips": [
+        "Monitor your scalp's response to products and adjust as necessary with guidance from a dermatologist.",
+        "Consider dietary changes if advised by a professional, as nutrition can affect scalp health.",
+        "Practice stress management techniques, as stress can exacerbate dandruff symptoms."
+    ]
+}

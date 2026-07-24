@@ -1,0 +1,79 @@
+{
+    "routine_name": "Straight Hair Care Routine",
+    "routine_type": "Hair",
+    "description": "A professional dermatologist-inspired skincare routine tailored for straight hair to maintain its health, manage frizz and promote overall hair strength.",
+    "frequency": "Daily (morning) and nightly, with a deep conditioning treatment once a week",
+    "estimated_time": "15-20 minutes daily; 30 minutes weekly for the deep conditioning treatment",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Apply a lightweight moisturizing shampoo focusing on hydration and detangling.",
+            "purpose": "Gently cleanse the hair to remove any overnight buildup while hydrating the strands.",
+            "recommended_ingredients": [
+                "Hydrating oils",
+                "Moisturizing agents"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Rinse thoroughly with lukewarm water and apply a light leave-in conditioner or detangling spray.",
+            "purpose": "Condition the hair to prevent frizz and maintain smoothness throughout the day.",
+            "recommended_ingredients": [
+                "Hydrating conditioners",
+                "Silicone-free agents"
+            ]
+        }
+    ],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Wash the hair with a gentle cleansing conditioner, focusing on areas prone to dryness like the ends.",
+            "purpose": "Condition the hair overnight for maximum hydration and reduce morning frizz.",
+            "recommended_ingredients": [
+                "Hydrating conditioners",
+                "Protein-rich ingredients"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Apply a leave-in treatment or hair mask to seal in moisture and nourish the hair.",
+            "purpose": "Provide deep hydration and protect the hair from environmental stressors during sleep.",
+            "recommended_ingredients": [
+                "Deep moisturizers",
+                "Repairing ingredients"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Sunday",
+            "action": "Perform a deep conditioning treatment using a mask or intensive conditioner."
+        }
+    ],
+    "do": [
+        "Use sulfate-free products to avoid stripping the hair of its natural oils.",
+        "Choose heat protectants when styling with heat tools."
+    ],
+    "dont": [
+        "Over-wash your hair as it can lead to dryness and frizz.",
+        "Skip moisture-rich treatments, especially in low-humidity environments."
+    ],
+    "common_mistakes": [
+        "Using overly heavy products that can weigh down straight hair",
+        "Failing to manage heat styling which can cause breakage"
+    ],
+    "best_products_categories": [
+        "Hydrating shampoos and conditioners",
+        "Leave-in conditioners",
+        "Hair masks and deep conditioning treatments"
+    ],
+    "expected_results": {
+        "2_weeks": "Significantly reduced frizz, improved manageability of the hair.",
+        "1_month": "Enhanced hair elasticity and strength with visible shine and healthiness.",
+        "3_months": "Reduced split ends and a noticeable decrease in breakage."
+    },
+    "expert_tips": [
+        "Regular trims can help maintain the overall length and health of your hair by removing split ends.",
+        "Invest in a high-quality brush or comb to detangle your hair without causing damage."
+    ]
+}

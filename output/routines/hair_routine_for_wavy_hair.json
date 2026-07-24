@@ -1,0 +1,73 @@
+{
+    "routine_name": "Wavy Hair Care Routine",
+    "routine_type": "Hair",
+    "description": "A dermatologist-inspired routine for managing and enhancing wavy hair, focusing on hydration, protection, and regular care to maintain healthy, vibrant waves.",
+    "frequency": "Daily with a weekly deep conditioning treatment",
+    "estimated_time": "20-30 minutes daily; 1 hour every 7 days",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Apply lightweight leave-in conditioner or mist",
+            "purpose": "Hydrate and detangle hair for a smooth texture",
+            "recommended_ingredients": [
+                "Hydrolyzed Collagen",
+                "Pro-Vitamin B5"
+            ]
+        }
+    ],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Gently massage shampoo into damp hair focusing on the scalp",
+            "purpose": "Cleanse without stripping natural oils, maintaining hair's moisture balance",
+            "recommended_ingredients": [
+                "Sulfate-Free Cleansers",
+                "Aloe Vera"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Rinse thoroughly and apply a leave-in conditioner or lightweight serum",
+            "purpose": "Hydrate and nourish the hair overnight, promoting smoothness in the morning",
+            "recommended_ingredients": [
+                "Macadamia Nut Oil",
+                "Shea Butter"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Saturday",
+            "action": "Deep condition with a heat protectant spray or cream"
+        }
+    ],
+    "do": [
+        "Use sulfate-free products to avoid stripping natural oils from the hair",
+        "Protect your hair from heat styling tools by applying heat protectants",
+        "Regularly trim split ends to maintain hair health and prevent breakage"
+    ],
+    "dont": [
+        "Overwash or use harsh, drying shampoos that can strip moisture from the hair",
+        "Use excessive heat styling tools which can damage the hair cuticle over time"
+    ],
+    "common_mistakes": [
+        "Using products with heavy oils and waxes during summer months",
+        "Failing to protect hair from environmental factors like UV rays and pollution",
+        "Neglecting regular trims, leading to split ends and frizz"
+    ],
+    "best_products_categories": [
+        "Sulfate-Free Shampoos and Conditioners",
+        "Leave-in Conditioners for Wavy Hair",
+        "Heat Protectants",
+        "Deep Conditioning Treatments"
+    ],
+    "expected_results": {
+        "2_weeks": "Improved manageability, reduced frizz, enhanced hair shine",
+        "1_month": "Healthier looking waves with less breakage and more definition",
+        "3_months": "Waves are stronger and more defined; overall hair health improved"
+    },
+    "expert_tips": [
+        "Consider the humidity levels in your environment to adjust product usage accordingly for best results",
+        "Experiment with different hairstyles using clips or headbands to manage waves without damaging the ends of your hair"
+    ]
+}

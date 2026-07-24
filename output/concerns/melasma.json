@@ -1,0 +1,95 @@
+{
+    "name": "Melasma",
+    "category": "Skin Condition",
+    "description": "Melasma is a common skin condition characterized by dark, irregularly shaped patches on the face. It usually affects women more than men and can be triggered by hormonal changes or exposure to sunlight.",
+    "causes": [
+        "Hormonal Changes (e.g., pregnancy, birth control pills)",
+        "Sun Exposure",
+        "Genetics",
+        "Certain Medications",
+        "Skin Irritation"
+    ],
+    "symptoms": [
+        "Dark, brownish-gray patches on the face, particularly the cheeks, forehead, bridge of the nose, and chin",
+        "Asymmetrical distribution",
+        "May worsen during summer months or with increased sun exposure"
+    ],
+    "risk_factors": [
+        "Women of reproductive age",
+        "Females who use hormonal birth control",
+        "People with a family history of melasma",
+        "Those with skin of color (African American, Hispanic, Asian)",
+        "Individuals with a higher Fitzpatrick skin type (III-VI)"
+    ],
+    "recommended_ingredients": [
+        "Hydroquinone",
+        "Kojic Acid",
+        "Azelaic Acid",
+        "Retinoids",
+        "Licorice Extract"
+    ],
+    "ingredients_to_avoid": [
+        "Harsh Scrubs or Exfoliants",
+        "Strong Sunscreen Actives (e.g., Avobenzone, Oxybenzone)",
+        "Irritating Ingredients (e.g., Salicylic Acid, Retinoids without professional guidance)"
+    ],
+    "recommended_product_categories": [
+        "Hydrating Serums",
+        "Sun Protection Lotions",
+        "Moisturizers with SPF",
+        "Patchy Creams for Dark Spots"
+    ],
+    "daily_routine": [
+        {
+            "step": "Cleanse",
+            "purpose": "Remove dirt and impurities from the skin."
+        },
+        {
+            "step": "Apply Toner",
+            "purpose": "Balance the skin's pH and prepare it for further products."
+        },
+        {
+            "step": "Use a Brightening Serum",
+            "purpose": "Helps to even out skin tone and reduce dark patches."
+        },
+        {
+            "step": "Apply Sunscreen",
+            "purpose": "Protect the skin from UV damage which can worsen melasma. Use broad-spectrum SPF 30 or higher every day."
+        }
+    ],
+    "professional_treatments": [
+        "Chemical Peels",
+        "Laser Therapy",
+        "Intense Pulsed Light (IPL) Treatment",
+        "Microdermabrasion"
+    ],
+    "natural_remedies": [
+        "Apply Aloe Vera Gel",
+        "Use Cucumber Slices for Cooling and Soothing",
+        "Consume Foods High in Antioxidants (e.g., berries, nuts)"
+    ],
+    "lifestyle_tips": [
+        "Wear Broad-Brimmed Hats to Protect from Sun",
+        "Seek Shade During Peak Sunlight Hours",
+        "Use Mineral Sunscreens with Zinc or Titanium Dioxide"
+    ],
+    "common_myths": [
+        "Melasma can be completely cured in one treatment.",
+        "The condition is purely cosmetic and does not require medical attention."
+    ],
+    "when_to_consult_doctor": "If self-care measures do not improve the condition, if there are sudden changes or new onset of patches, or if you have concerns about your symptoms.",
+    "prevention": [
+        "Use Sunscreen Regularly",
+        "Wear Protective Clothing and Hats",
+        "Limit Direct Sun Exposure"
+    ],
+    "severity_levels": {
+        "mild": "Visible dark patches that are not extensive. No significant impact on self-esteem or daily activities.",
+        "moderate": "Visible patches that cover a larger area of the face, causing mild discomfort or concern about appearance.",
+        "severe": "Widespread dark patches that significantly affect self-confidence and quality of life."
+    },
+    "expert_tips": [
+        "Consistency is key in treating melasma. Stick to your skincare routine even when you do not see immediate results.",
+        "Combining treatments can be more effective than using a single product or therapy alone."
+    ]
+}

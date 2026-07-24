@@ -1,0 +1,90 @@
+{
+    "routine_name": "Minimal Beginner Routine",
+    "routine_type": "Skincare",
+    "description": "A simple and effective daily skincare routine for beginners, focusing on hydration and protection. This routine can be easily adapted based on individual skin type and concerns.",
+    "frequency": "Daily",
+    "estimated_time": "10 minutes",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Cleanse face with gentle cleanser.",
+            "purpose": "Remove impurities and excess oils without stripping the skin's natural barrier.",
+            "recommended_ingredients": [
+                "Gentle foaming cleansers",
+                "Soothing aloe vera"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Apply moisturizer.",
+            "purpose": "Lock in moisture and provide essential hydration to maintain healthy skin.",
+            "recommended_ingredients": [
+                "Lightweight, non-comedogenic moisturizers",
+                "Hyaluronic acid"
+            ]
+        }
+    ],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Cleanse face with gentle cleanser.",
+            "purpose": "Remove impurities and excess oils without stripping the skin's natural barrier.",
+            "recommended_ingredients": [
+                "Gentle foaming cleansers",
+                "Soothing aloe vera"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Apply a serum or treatment product (if needed).",
+            "purpose": "Target specific concerns such as fine lines, hyperpigmentation, or acne.",
+            "recommended_ingredients": [
+                "Retinol for anti-aging",
+                "Niacinamide for skin brightening",
+                "Salicylic acid for acne"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Apply moisturizer.",
+            "purpose": "Moisturize the skin before bedtime to keep it hydrated overnight.",
+            "recommended_ingredients": [
+                "Rich, hydrating night creams",
+                "Ceramides"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Sunday",
+            "action": "Exfoliate once a week using a gentle physical or chemical exfoliant."
+        }
+    ],
+    "do": [
+        "Stay consistent with your routine.",
+        "Hydrate the skin regularly, especially in dry climates or during winter months."
+    ],
+    "dont": [
+        "Over-exfoliate as it can irritate the skin and cause redness or peeling.",
+        "Skip moisturizing, even if you have oily skin. All skin types benefit from hydration."
+    ],
+    "common_mistakes": [
+        "Not patch testing new products before full application.",
+        "Overusing active ingredients like retinol without consulting a dermatologist."
+    ],
+    "best_products_categories": [
+        "Cleansers",
+        "Moisturizers",
+        "Exfoliants",
+        "Serums"
+    ],
+    "expected_results": {
+        "2_weeks": "Improved skin texture and reduced dryness.",
+        "1_month": "Healthier-looking skin with enhanced hydration levels.",
+        "3_months": "Reduced appearance of fine lines and increased overall skin elasticity."
+    },
+    "expert_tips": [
+        "Listen to your skin and adjust the routine as needed based on its response.",
+        "Use sunscreen daily, even when it’s cloudy, to protect against UV damage."
+    ]
+}

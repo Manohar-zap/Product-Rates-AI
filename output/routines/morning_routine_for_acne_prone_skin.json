@@ -1,0 +1,79 @@
+{
+    "routine_name": "Acne-Prone Skin Morning Routine",
+    "routine_type": "Skincare",
+    "description": "A professional skincare routine tailored for acne-prone skin, designed to gently cleanse, tone, and protect the skin while minimizing breakouts.",
+    "frequency": "Daily",
+    "estimated_time": "5 minutes",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Apply a gentle foaming cleanser",
+            "purpose": "To remove excess oils and impurities without stripping natural skin moisture.",
+            "recommended_ingredients": [
+                "Salicylic Acid",
+                "Niacinamide"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Gently pat on a hydrating toner",
+            "purpose": "To restore the skin's pH balance and prep it for further products.",
+            "recommended_ingredients": [
+                "Sodium Hyaluronate",
+                "Tea Tree Oil"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Apply an acne-fighting serum",
+            "purpose": "To target existing breakouts and prevent new ones from forming.",
+            "recommended_ingredients": [
+                "Benzoyl Peroxide",
+                "Retinol"
+            ]
+        },
+        {
+            "step": 4,
+            "action": "Finish with a non-comedogenic moisturizer",
+            "purpose": "To maintain skin hydration without clogging pores.",
+            "recommended_ingredients": [
+                "Glycerin",
+                "Jojoba Oil"
+            ]
+        }
+    ],
+    "night_steps": [],
+    "weekly_steps": [
+        {
+            "day": "Sunday",
+            "action": "Exfoliate with a chemical exfoliant"
+        }
+    ],
+    "do": [
+        "Consistently follow the routine daily.",
+        "Stay hydrated by drinking plenty of water."
+    ],
+    "dont": [
+        "Over-exfoliate, as this can irritate acne-prone skin.",
+        "Skip sunscreen; even if you are using a moisturizer with SPF, consider an additional application during the day."
+    ],
+    "common_mistakes": [
+        "Using harsh scrubs that may irritate the skin and worsen acne conditions.",
+        "Not cleansing thoroughly enough before applying treatments or makeup."
+    ],
+    "best_products_categories": [
+        "Cleansers",
+        "Toners",
+        "Serums",
+        "Moisturizers"
+    ],
+    "expected_results": {
+        "2_weeks": "A reduction in visible breakouts and a decrease in redness.",
+        "1_month": "Improved skin texture, reduced inflammation, and clearer complexion.",
+        "3_months": "More balanced oil production, enhanced overall skin tone, and a noticeable improvement in the appearance of blemishes."
+    },
+    "expert_tips": [
+        "Always patch test new products before incorporating them into your routine to ensure you don't have an adverse reaction.",
+        "Consult with a dermatologist if your acne persists or worsens despite following this routine."
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "routine_name": "Morning Routine for Sensitive Skin",
+    "routine_type": "Skincare",
+    "description": "This routine is designed to gently cleanse and hydrate sensitive skin while preparing it for the day ahead.",
+    "frequency": "Daily",
+    "estimated_time": "10 minutes",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Use a gentle, fragrance-free cleanser.",
+            "purpose": "To remove any overnight oil and impurities without irritating the skin.",
+            "recommended_ingredients": [
+                "Gentle Cleansing Foam",
+                "Cleansing Milk"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Apply a light, non-comedogenic moisturizer.",
+            "purpose": "To lock in moisture and provide a barrier against environmental factors.",
+            "recommended_ingredients": [
+                "Hyaluronic Acid Moisturizer",
+                "Niacinamide Gel Cream"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Moisturized skin, apply sunscreen with at least SPF 30.",
+            "purpose": "To protect the skin from UV damage and further irritation.",
+            "recommended_ingredients": [
+                "Physical Sunscreen Lotion"
+            ]
+        }
+    ],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Gently cleanse the face using a non-irritating cleanser.",
+            "purpose": "To remove makeup, dirt, and impurities that have accumulated throughout the day.",
+            "recommended_ingredients": [
+                "Cleansing Balm"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Apply a hydrating serum or treatment cream targeted to specific skin concerns like hyperpigmentation or fine lines.",
+            "purpose": "To target specific issues and provide additional nourishment overnight.",
+            "recommended_ingredients": [
+                "Hyaluronic Acid Serum",
+                "Retinol Night Cream"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Finish with a hydrating night moisturizer suitable for sensitive skin types.",
+            "purpose": "To ensure the skin is properly hydrated while you sleep, promoting recovery and repair.",
+            "recommended_ingredients": [
+                "Gentle Night Moisturizer"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Every 7th day",
+            "action": "Exfoliate with a gentle chemical exfoliant."
+        }
+    ],
+    "do": [
+        "Use lukewarm water when cleansing the face.",
+        "Patch test new products before full application."
+    ],
+    "dont": [
+        "Avoid using harsh, alcohol-based toners or scrubs.",
+        "Do not skip sunscreen on cloudy days as UV rays penetrate clouds."
+    ],
+    "common_mistakes": [
+        "Using products with fragrances can irritate sensitive skin; opt for fragrance-free alternatives.",
+        "Over-exfoliation can damage the delicate skin barrier, leading to increased sensitivity and redness."
+    ],
+    "best_products_categories": [
+        "Gentle Cleansers",
+        "Non-Comedogenic Moisturizers",
+        "Physical Sunscreens",
+        "Hydrating Serums",
+        "Gentle Exfoliants"
+    ],
+    "expected_results": {
+        "2_weeks": "Skin appears more hydrated and less red or irritated.",
+        "1_month": "Significant reduction in dryness, flakiness, and overall sensitivity.",
+        "3_months": "Visible improvement in skin texture with a noticeable reduction in fine lines or discoloration."
+    },
+    "expert_tips": [
+        "Always follow up your sunscreen application by applying moisturizer to seal in the protection without causing irritation.",
+        "Stay hydrated from within by drinking plenty of water and eating foods rich in antioxidants."
+    ]
+}

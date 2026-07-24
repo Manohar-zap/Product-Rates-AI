@@ -1,0 +1,91 @@
+{
+    "name": "High Porosity Hair",
+    "description": "High porosity hair is characterized by large, open cuticles that allow for easy penetration of moisture and nutrients. This type of hair can absorb liquid quickly but also loses it just as fast, leading to dryness and frizz.",
+    "hair_texture": "Fine or coarse",
+    "porosity": "High",
+    "characteristics": [
+        "Prone to moisture loss",
+        "Difficult to style and maintain",
+        "Tends to be drier at the ends compared to the roots"
+    ],
+    "common_problems": [
+        "Dryness",
+        "Frizz",
+        "Split ends",
+        "Weak texture"
+    ],
+    "recommended_ingredients": [
+        "Hydrating agents like hyaluronic acid and glycerin",
+        "Intensive moisture ingredients such as shea butter and coconut oil",
+        "Humectants to attract moisture from the air, e.g., honey and aloe vera"
+    ],
+    "ingredients_to_avoid": [
+        "Harsh sulfates that strip natural oils",
+        "Alcohol-based products that dry out the hair",
+        "Formaldehyde-releasing preservatives like DMDM hydantoin"
+    ],
+    "recommended_product_categories": [
+        "Hydrating shampoos and conditioners",
+        "Moisturizing masks",
+        "Leave-in conditioners or serums",
+        "Deep conditioning treatments"
+    ],
+    "washing_frequency": "Every other day to once a week, depending on lifestyle",
+    "oil_recommendation": "Use lightweight oils like jojoba oil for detangling and protecting from frizz",
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Apply a small amount of lightweight leave-in conditioner or serum to damp hair.",
+            "purpose": "To protect the hair from drying out during the day."
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Thoroughly wash your hair with a hydrating shampoo followed by an intensive moisture mask.",
+            "purpose": "To replenish lost moisture and prepare for overnight recovery."
+        },
+        {
+            "step": 2,
+            "action": "Apply a heat protectant before styling, if needed.",
+            "purpose": "To prevent damage from hot tools."
+        }
+    ],
+    "weekly_care": [
+        "Deep condition your hair once a week to lock in moisture and strengthen strands."
+    ],
+    "deep_conditioning_frequency": "Once a week",
+    "heat_styling_recommendation": "Limit heat styling and use the lowest temperature setting possible. Consider using a heat protectant.",
+    "lifestyle_tips": [
+        "Eat a balanced diet rich in fruits, vegetables, and proteins to support hair health."
+    ],
+    "foods_for_healthy_hair": [
+        "Avocado",
+        "Salmon",
+        "Sweet potatoes"
+    ],
+    "common_mistakes": [
+        "Over-washing the hair, which can strip it of natural oils.",
+        "Using too much styling product, leading to buildup and greasiness."
+    ],
+    "do": [
+        "Apply a deep conditioning treatment regularly",
+        "Use a wide-toothed comb or brush gently"
+    ],
+    "dont": [
+        "Avoid harsh chemical treatments",
+        "Rely solely on water for hydration"
+    ],
+    "seasonal_care": {
+        "summer": "Increase use of protective styles and avoid excessive sun exposure.",
+        "winter": "Use more hydrating products to combat dry winter air.",
+        "monsoon": "Apply more moisture and seal in with heavy oils during humid months."
+    },
+    "compatible_hair_types": [
+        "Low Porosity Hair"
+    ],
+    "expert_tips": [
+        "Regular trims can help prevent split ends, even if the hair is growing faster due to better hydration.",
+        "Experiment with different types of oils and butters to find what works best for your specific needs."
+    ]
+}

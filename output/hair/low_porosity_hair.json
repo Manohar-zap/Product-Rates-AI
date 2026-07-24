@@ -1,0 +1,75 @@
+{
+    "name": "Low Porosity Hair",
+    "description": "Hair with low porosity has a tightly sealed cuticle, making it difficult for water and products to penetrate. This type of hair can be dense and resistant to changes in texture.",
+    "hair_texture": "Thick, dense, and may appear frizzy or wavy",
+    "porosity": "Low",
+    "characteristics": [
+        "Difficult to process with chemicals",
+        "Resistant to water and heat",
+        "May take longer to absorb products"
+    ],
+    "common_problems": [
+        "Difficult to style and maintain texture",
+        "Susceptible to buildup from product residue"
+    ],
+    "recommended_ingredients": [
+        "Hydrating agents like glycerin, panthenol, and hyaluronic acid",
+        "Lightweight oils such as argan or jojoba oil for moisture locking"
+    ],
+    "ingredients_to_avoid": [
+        "Highly processed silicones",
+        "Heavy creams and waxes that can weigh down hair"
+    ],
+    "recommended_product_categories": [
+        "Hydrating shampoos and conditioners",
+        "Leave-in conditioners and serums"
+    ],
+    "washing_frequency": "Every 2-3 days or as needed, being cautious not to overwash",
+    "oil_recommendation": "Use light oils that do not leave a residue, applied after washing",
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Wash hair with hydrating shampoo",
+            "purpose": "Cleanse without stripping natural oils"
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Apply lightweight oil or serum to seal in moisture",
+            "purpose": "Lock in hydration and protect overnight"
+        }
+    ],
+    "weekly_care": [
+        "Deep condition with a rich mask once a week"
+    ],
+    "deep_conditioning_frequency": "Once a week for best results",
+    "heat_styling_recommendation": "Use heat protectants and limit styling tools to prevent damage",
+    "lifestyle_tips": [],
+    "foods_for_healthy_hair": [
+        "Protein-rich foods like eggs, lean meats, and fish",
+        "Fruits and vegetables rich in vitamins and minerals"
+    ],
+    "common_mistakes": [
+        "Overwashing the hair, which can strip natural oils",
+        "Using too many heavy products that can weigh down hair"
+    ],
+    "do": [],
+    "dont": [
+        "Do not use high-heat styling tools frequently",
+        "Do not skip deep conditioning sessions"
+    ],
+    "seasonal_care": {
+        "summer": "Use lighter, oil-free products and avoid direct sunlight to prevent overheating of the scalp.",
+        "winter": "Increase hydration with richer products to combat dryness from cold weather.",
+        "monsoon": "Stay extra hydrated by drinking water and using hydrating shampoos and conditioners more frequently."
+    },
+    "compatible_hair_types": [
+        "Normal hair",
+        "Oily hair"
+    ],
+    "expert_tips": [
+        "Regular trims can help maintain the health of low porosity hair.",
+        "Experiment with different products to find what works best for your specific hair texture."
+    ]
+}

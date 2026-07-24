@@ -1,0 +1,48 @@
+{
+    "name": "Tea Tree Oil",
+    "scientific_name": "Melaleuca alternifolia",
+    "category": "Essential Oil",
+    "description": "Tea tree oil is an essential oil derived from the leaves of the Melaleuca alternifolia tree, commonly found in Australia. It has been traditionally used for its antiseptic and antibacterial properties.",
+    "benefits_skin": [
+        "Helps reduce acne due to its antimicrobial and anti-inflammatory properties",
+        "Can soothe minor skin irritations such as insect bites and rashes",
+        "May aid in reducing the appearance of scars and blemishes when used topically",
+        "Has been shown to help with dandruff when applied to the scalp"
+    ],
+    "benefits_hair": [
+        "Works as a natural conditioner for dry or damaged hair",
+        "Can be effective in treating scalp issues such as dandruff and psoriasis due to its antifungal properties",
+        "Helps in controlling excess oil production on the scalp"
+    ],
+    "best_for": [
+        "Individuals with oily skin or acne-prone skin",
+        "People seeking natural alternatives for skincare and haircare products",
+        "Those with a history of fungal infections on the scalp or skin",
+        "Persons looking to reduce the appearance of scars or blemishes"
+    ],
+    "avoid_for": [
+        "Individuals allergic to tea tree oil",
+        "Pregnant women should avoid use due to potential risks associated with topical application during pregnancy",
+        "Those using medications that make the skin more sensitive to sunlight as it may increase photosensitivity"
+    ],
+    "how_to_use": [
+        "Dilute 1-2 drops of tea tree oil in a carrier oil before applying to the skin or hair",
+        "Apply directly to clean, dry skin for acne treatment or add a few drops to a facial cleanser",
+        "Mix with shampoo or conditioner for scalp treatments and leave on for 5-10 minutes before washing out",
+        "Use as an ingredient in homemade face masks by adding to clay or honey-based recipes"
+    ],
+    "possible_side_effects": [
+        "May cause skin irritation, especially if not diluted properly",
+        "Can irritate the eyes if applied directly without dilution",
+        "Possible allergic reactions; discontinue use if redness, swelling, or other adverse effects occur",
+        "May increase photosensitivity in some individuals"
+    ],
+    "works_well_with": [
+        "Carrier oils such as coconut oil, jojoba oil, or almond oil for skin applications",
+        "Shampoos and conditioners for hair treatments",
+        "Facial cleansers and toners for acne-prone skin",
+        "Clay masks for deep cleansing of the skin"
+    ],
+    "scientific_evidence": "Several studies have shown the effectiveness of tea tree oil in treating acne, fungal infections, and other skin conditions. A 2016 study published in the Journal of Clinical and Diagnostic Research found that a 5% solution of tea tree oil was as effective as benzoyl peroxide in treating mild to moderate acne.",
+    "rating": 4
+}

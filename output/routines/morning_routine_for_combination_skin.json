@@ -1,0 +1,108 @@
+{
+    "routine_name": "Morning Routine for Combination Skin",
+    "routine_type": "Skincare",
+    "description": "This routine is designed to balance and hydrate combination skin while protecting it from daily environmental stressors.",
+    "frequency": "Daily",
+    "estimated_time": "10 minutes",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Cleansing",
+            "purpose": "Remove any residual oils and impurities from the skin, preparing it for further treatments.",
+            "recommended_ingredients": [
+                "Gentle foaming cleanser"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Toning",
+            "purpose": "Refine pores and restore skin's pH balance after cleansing.",
+            "recommended_ingredients": [
+                "Astringent with salicylic acid or witch hazel"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Moisturizing",
+            "purpose": "Provide hydration without leaving a greasy residue. Combining water and oil-based products can help maintain the skin’s natural barrier.",
+            "recommended_ingredients": [
+                "Lightweight gel moisturizer with hyaluronic acid"
+            ]
+        },
+        {
+            "step": 4,
+            "action": "Sun Protection",
+            "purpose": "Protect the skin from harmful UV rays which can cause premature aging and hyperpigmentation.",
+            "recommended_ingredients": [
+                "Broad-spectrum SPF 30+ sunscreen"
+            ]
+        }
+    ],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Cleansing",
+            "purpose": "Remove makeup, dirt, and excess oil from the skin before bed to prevent clogged pores.",
+            "recommended_ingredients": [
+                "Gentle cleansing balm or micellar water"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Exfoliating",
+            "purpose": "Remove dead skin cells and promote cell turnover. Be gentle on combination skin, especially in the T-zone.",
+            "recommended_ingredients": [
+                "Chemical exfoliant with lactic or salicylic acid"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Hydrating",
+            "purpose": "Lock in moisture overnight to support healthy skin turnover and repair.",
+            "recommended_ingredients": [
+                "Rich night cream with ceramides and peptides"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Sunday",
+            "action": "Deep Cleansing Mask"
+        },
+        {
+            "day": "Tuesday",
+            "action": "Exfoliating Treatment"
+        },
+        {
+            "day": "Thursday",
+            "action": "Intensive Eye Care"
+        }
+    ],
+    "do": [
+        "Drink plenty of water throughout the day to keep your skin hydrated from within.",
+        "Use gentle, non-comedogenic products to avoid clogging pores."
+    ],
+    "dont": [
+        "Avoid harsh exfoliants and heavy oils that can cause irritation or excess oil production in combination skin.",
+        "Do not skip SPF even on cloudy days as UVA rays penetrate clouds and affect the skin."
+    ],
+    "common_mistakes": [
+        "Over-exfoliating, which can lead to redness and increased sensitivity.",
+        "Using too many products at once, leading to potential irritation or clogged pores."
+    ],
+    "best_products_categories": [
+        "Gentle Cleansers",
+        "Water-based Moisturizers",
+        "Chemical Exfoliants",
+        "Broad-spectrum Sunscreens"
+    ],
+    "expected_results": {
+        "2_weeks": "Skin will appear more balanced and hydrated, with reduced oiliness in the T-zone.",
+        "1_month": "Fine lines may be less noticeable, skin texture should feel smoother, and pores appear smaller.",
+        "3_months": "Overall skin condition improves, with a more even tone and reduced occurrence of breakouts."
+    },
+    "expert_tips": [
+        "Always patch test new products to ensure you are not allergic or sensitive to any ingredients.",
+        "Adjust your routine according to seasonal changes in weather and environmental conditions."
+    ]
+}

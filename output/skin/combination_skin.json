@@ -1,0 +1,88 @@
+{
+    "name": "Combination Skin",
+    "description": "Combination skin refers to a condition where the skin is oily in some areas and dry in others. Typically, the T-zone (forehead, nose, chin) tends to be oilier while the cheeks may appear drier.",
+    "characteristics": [
+        "Oily T-Zone",
+        "Dry Cheeks",
+        "Mixed Skin Tone"
+    ],
+    "common_concerns": [
+        "Pore Size",
+        "Acne Breakouts",
+        "Uneven Texture"
+    ],
+    "recommended_ingredients": [
+        "Salicylic Acid",
+        "Niacinamide",
+        "Hyaluronic Acid",
+        "Squalane"
+    ],
+    "ingredients_to_avoid": [
+        "Heavy Oils",
+        "Highly Occlusive Ingredients (like Petrolatum)",
+        "Alcohol-Based Toners"
+    ],
+    "recommended_product_categories": [
+        "Oil-Free Moisturizers",
+        "Non-Comedogenic Serums",
+        "Balancing Cleansers"
+    ],
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Apply a non-comedogenic cleanser",
+            "purpose": "Gently remove any overnight oils and impurities without stripping the skin."
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Cleanse with a gentle, balancing cleanser",
+            "purpose": "Remove daily grime and excess oil while maintaining hydration in dry areas."
+        },
+        {
+            "step": 2,
+            "action": "Apply a lightweight hydrating serum or moisturizer focused on the T-zone",
+            "purpose": "Targeted moisture application to prevent overhydration and breakouts."
+        },
+        {
+            "step": 3,
+            "action": "Moisturize the cheeks with a richer cream",
+            "purpose": "Provide extra hydration where needed without exacerbating oiliness."
+        }
+    ],
+    "weekly_care": [
+        "Exfoliate once or twice per week using a gentle, chemical exfoliant to prevent congestion and maintain even skin tone."
+    ],
+    "lifestyle_tips": [
+        "Stay hydrated",
+        "Manage stress through relaxation techniques"
+    ],
+    "common_mistakes": [
+        "Using heavy products that can clog pores in the T-zone",
+        "Neglecting dry areas, leading to a patchy texture"
+    ],
+    "do": [
+        "Choose multi-purpose skincare products whenever possible",
+        "Use products with SPF daily"
+    ],
+    "dont": [
+        "Over-exfoliate which can irritate combination skin and worsen oil production in the T-zone",
+        "Skip moisturization, even on oily areas; it helps maintain barrier function"
+    ],
+    "seasonal_care": {
+        "summer": "Focus on lighter, cooling ingredients like aloe vera to soothe excess oils and protect from sun damage.",
+        "winter": "Use richer, hydrating products to combat dryness without adding excess oil. Avoid overly hot showers that can strip natural oils."
+    },
+    "compatible_skin_types": [
+        "Normal Skin",
+        "Dry Skin"
+    ],
+    "avoid_combinations": [
+        "Oily Skin",
+        "Acne-Prone Skin (if only in T-zone)"
+    ],
+    "expert_tips": [
+        "Regularly assess and adjust your skincare routine to match the changing needs of combination skin throughout the seasons."
+    ]
+}

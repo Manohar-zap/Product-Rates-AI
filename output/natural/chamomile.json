@@ -1,0 +1,44 @@
+{
+    "name": "Chamomile",
+    "scientific_name": "Matricaria recutita or Anthemis nobilis",
+    "category": "Herb",
+    "description": "Chamomile is a flowering plant known for its small, white ray florets surrounding delicate, feathery yellow discs. It has a long history of use in traditional medicine and as a natural ingredient in skincare and haircare products.",
+    "benefits_skin": [
+        "Anti-inflammatory",
+        "Antioxidant",
+        "Calming",
+        "Moisturizing"
+    ],
+    "benefits_hair": [
+        "Nourishing",
+        "Strengthens hair",
+        "Improves scalp health"
+    ],
+    "best_for": [
+        "Sensitive skin",
+        "Dry or irritated scalp",
+        "Those seeking natural ingredients"
+    ],
+    "avoid_for": [
+        "Individuals allergic to plants in the daisy family",
+        "Pregnant women due to lack of research on safety during pregnancy"
+    ],
+    "how_to_use": [
+        "Add chamomile tea bags to your bath for a soothing experience.",
+        "Apply chamomile-infused toners or serums after cleansing.",
+        "Use chamomile shampoo and conditioner for a healthier scalp.",
+        "Incorporate chamomile into face masks or moisturizers."
+    ],
+    "possible_side_effects": [
+        "Skin irritation in individuals with allergies",
+        "Allergic reactions such as hives, itching, swelling, severe dizziness, or difficulty breathing"
+    ],
+    "works_well_with": [
+        "Aloe vera",
+        "Calendula",
+        "Lavender",
+        "Rosehip oil"
+    ],
+    "scientific_evidence": "Studies have shown that chamomile can provide anti-inflammatory and antioxidant properties beneficial for skin health. Research also indicates its potential to promote wound healing and reduce inflammation in the scalp.",
+    "rating": 4
+}

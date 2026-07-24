@@ -1,0 +1,87 @@
+{
+    "name": "Dark Spots",
+    "category": "Skin Conditions",
+    "description": "Dark spots, also known as hyperpigmentation, are areas of the skin that appear darker than the surrounding skin. These spots can be caused by various factors including sun exposure, hormonal changes, and skin damage.",
+    "causes": [
+        "Sun Exposure",
+        "Aging",
+        "Hormonal Changes (e.g., Pregnancy, Birth Control)",
+        "Skin Damage or Inflammation",
+        "Genetics"
+    ],
+    "symptoms": [
+        "Dark patches on the skin",
+        "Uneven skin tone",
+        "Visible changes in color compared to surrounding skin"
+    ],
+    "risk_factors": [
+        "Excessive sun exposure",
+        "Use of certain medications (e.g., antibiotics, hormonal treatments)",
+        "History of acne or other inflammatory conditions",
+        "Family history of hyperpigmentation"
+    ],
+    "recommended_ingredients": [
+        "Hydroquinone",
+        "Kojic Acid",
+        "Azelaic Acid",
+        "Vitamin C",
+        "Niacinamide (Vitamin B3)"
+    ],
+    "ingredients_to_avoid": [
+        "Harsh Exfoliants",
+        "Certain Preservatives and Additives"
+    ],
+    "recommended_product_categories": [
+        "Sunscreen",
+        "Spot Treatments",
+        "Serums and Moisturizers Containing Active Ingredients"
+    ],
+    "daily_routine": [
+        {
+            "step": "Apply Sunscreen Daily",
+            "purpose": "Protection against UV rays that can worsen hyperpigmentation."
+        },
+        {
+            "step": "Cleanse Skin Gently",
+            "purpose": "Maintain skin health and remove impurities without causing irritation."
+        },
+        {
+            "step": "Moisturize Regularly",
+            "purpose": "Hydrate the skin to improve overall texture and appearance."
+        }
+    ],
+    "professional_treatments": [
+        "Chemical Peels",
+        "Laser Treatment",
+        "Microdermabrasion"
+    ],
+    "natural_remedies": [
+        "Application of Aloe Vera Gel",
+        "Use of Licorice Extract",
+        "Application of Lemon Juice (in moderation)"
+    ],
+    "lifestyle_tips": [
+        "Protect Your Skin from Sun Exposure",
+        "Eat a Balanced Diet Rich in Antioxidants",
+        "Stay Hydrated"
+    ],
+    "common_myths": [
+        "Dark spots can be completely removed with over-the-counter products.",
+        "Sun exposure is the only cause of dark spots."
+    ],
+    "when_to_consult_doctor": "If dark spots persist despite home care or if they are accompanied by other symptoms like pain, redness, or swelling.",
+    "prevention": [
+        "Use Sunscreen Regularly",
+        "Protect Skin with Clothing and Hats",
+        "Avoid Picking at the Skin"
+    ],
+    "severity_levels": {
+        "mild": "Visible dark spots that do not cover large areas of skin.",
+        "moderate": "Visible dark spots covering a significant portion of the face or body, affecting self-confidence.",
+        "severe": "Extensive and noticeable hyperpigmentation requiring professional treatment."
+    },
+    "expert_tips": [
+        "Consistency is key in treating and preventing dark spots. Products containing active ingredients may take several months to show visible results.",
+        "Always patch test new products before full application to ensure no adverse reactions occur."
+    ]
+}

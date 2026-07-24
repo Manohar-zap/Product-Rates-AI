@@ -1,0 +1,66 @@
+{
+    "routine_name": "Hair Fall Prevention Routine",
+    "routine_type": "Hair Care",
+    "description": "A professional dermatologist-inspired routine to address hair fall and promote healthy hair growth.",
+    "frequency": "Daily morning, daily night, weekly",
+    "estimated_time": "15-20 minutes per day, 30 minutes every week",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Gentle cleansing with a mild shampoo containing biotin or keratin.",
+            "purpose": "To remove any buildup and stimulate blood circulation in the scalp.",
+            "recommended_ingredients": [
+                "Biotin",
+                "Keratin"
+            ]
+        }
+    ],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Use a hydrating conditioner, focusing on the mid-lengths to ends of your hair.",
+            "purpose": "To lock in moisture and prevent protein loss that could lead to breakage and fall.",
+            "recommended_ingredients": [
+                "Hydrolyzed Keratin",
+                "Collagen"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Apply a leave-in treatment or serum rich in vitamins B, E, and A for extra nourishment.",
+            "purpose": "To provide additional support to the hair shafts and promote a healthy scalp environment.",
+            "recommended_ingredients": [
+                "Vitamin B Complex",
+                "Vitamin E",
+                "Retinol"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Sunday",
+            "action": "Deep conditioning treatment or scalp massage with an oil blend (e.g., argan, coconut) followed by a scalp mask."
+        }
+    ],
+    "do": [],
+    "dont": [],
+    "common_mistakes": [
+        "Using harsh chemicals too frequently",
+        "Over-washing the hair",
+        "Neglecting proper scalp hygiene"
+    ],
+    "best_products_categories": [
+        "Mild Shampoos",
+        "Hydrating Conditioners",
+        "Nourishing Oils and Serums"
+    ],
+    "expected_results": {
+        "2_weeks": "Reduced hair fall, improved scalp health",
+        "1_month": "Enhanced hair strength and density",
+        "3_months": "Significantly reduced hair loss, healthier hair overall"
+    },
+    "expert_tips": [
+        "Regular scalp massages can improve blood circulation",
+        "Balanced diet rich in proteins and vitamins supports hair growth"
+    ]
+}

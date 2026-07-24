@@ -16,6 +16,7 @@ const State = {
   analysisSubPage: 'overview',
   history: [],
   theme: 'light',
+  notificationSoundEnabled: false,
 };
 
 // ─────────────────────────────────────────────────────────────
@@ -36,8 +37,25 @@ const Router = {
 
     State.currentPage = page;
 
-    const el = document.getElementById(`page-${page}`);
-    if (el) el.classList.add('active');
+    if (page === 'explore') {
+      // Hide all pages, show the explore subpage
+      const el = document.getElementById(`subpage-explore-${subPage}`);
+      if (el) {
+        el.classList.add('active');
+        // Reset tabs innerHTML so they rebuild fresh on every visit
+        const tabsEl = document.getElementById(`${subPage}-tabs`);
+        if (tabsEl) tabsEl.innerHTML = '';
+        // Defer call so ExploreAPI is always defined at runtime
+        setTimeout(() => {
+          if (typeof ExploreAPI !== 'undefined') {
+            ExploreAPI.load(subPage);
+          }
+        }, 0);
+      }
+    } else {
+      const el = document.getElementById(`page-${page}`);
+      if (el) el.classList.add('active');
+    }
 
     if (page === 'analysis') {
       Router.showAnalysisTab(subPage || State.analysisSubPage);
@@ -78,6 +96,12 @@ const Router = {
       Router.go('analysis', 'ingredients');
       return;
     }
+    // If on explore subpage → go back to home
+    const isExplore = Array.from(document.querySelectorAll('.subpage')).some(p => p.id.startsWith('subpage-explore-') && p.classList.contains('active'));
+    if (isExplore) {
+      Router.go('home');
+      return;
+    }
     Router.go('home');
   },
 };
@@ -88,6 +112,7 @@ const Router = {
 const Storage = {
   KEY_HISTORY: 'prai_history',
   KEY_THEME:   'prai_theme',
+  KEY_NOTIFICATION_SOUND: 'prai_notification_sound',
 
   getHistory() {
     try { return JSON.parse(localStorage.getItem(this.KEY_HISTORY) || '[]'); }
@@ -113,6 +138,14 @@ const Storage = {
 
   getTheme() { return localStorage.getItem(this.KEY_THEME) || 'light'; },
   setTheme(t) { localStorage.setItem(this.KEY_THEME, t); },
+
+  getNotificationSoundEnabled() {
+    return localStorage.getItem(this.KEY_NOTIFICATION_SOUND) === 'true';
+  },
+
+  setNotificationSoundEnabled(enabled) {
+    localStorage.setItem(this.KEY_NOTIFICATION_SOUND, String(Boolean(enabled)));
+  },
 };
 
 // ─────────────────────────────────────────────────────────────
@@ -134,6 +167,82 @@ const Theme = {
 
   init() {
     Theme.apply(Storage.getTheme());
+  },
+};
+
+
+const Notifications = {
+  _ctx: null,
+
+  init() {
+    State.notificationSoundEnabled = Storage.getNotificationSoundEnabled();
+    this.syncBell();
+  },
+
+  syncBell() {
+    const bell = document.getElementById('notification-bell');
+    if (!bell) return;
+    bell.classList.toggle('active', State.notificationSoundEnabled);
+    bell.setAttribute('aria-pressed', String(State.notificationSoundEnabled));
+    bell.setAttribute('title', State.notificationSoundEnabled ? 'Analysis sound on' : 'Analysis sound off');
+  },
+
+  async toggle() {
+    State.notificationSoundEnabled = !State.notificationSoundEnabled;
+    Storage.setNotificationSoundEnabled(State.notificationSoundEnabled);
+    this.syncBell();
+
+    if (State.notificationSoundEnabled) {
+      await this._ensureContext();
+      this.playAnalysisComplete(0.35);
+      Toast.show('Analysis sound turned on');
+    } else {
+      Toast.show('Analysis sound turned off');
+    }
+  },
+
+  async _ensureContext() {
+    if (!this._ctx) {
+      const AudioCtx = window.AudioContext || window.webkitAudioContext;
+      if (!AudioCtx) return null;
+      this._ctx = new AudioCtx();
+    }
+    if (this._ctx.state === 'suspended') {
+      try { await this._ctx.resume(); }
+      catch { return null; }
+    }
+    return this._ctx;
+  },
+
+  async playAnalysisComplete(volume = 0.24) {
+    if (!State.notificationSoundEnabled) return;
+    const ctx = await this._ensureContext();
+    if (!ctx) return;
+
+    const master = ctx.createGain();
+    master.gain.value = Math.max(0, Math.min(0.35, volume));
+    master.connect(ctx.destination);
+
+    const now = ctx.currentTime + 0.02;
+    const notes = [
+      { freq: 523.25, time: 0.00, dur: 0.22, gain: 0.55 },
+      { freq: 659.25, time: 0.11, dur: 0.24, gain: 0.42 },
+      { freq: 783.99, time: 0.23, dur: 0.42, gain: 0.3 },
+    ];
+
+    notes.forEach(note => {
+      const osc = ctx.createOscillator();
+      const gain = ctx.createGain();
+      osc.type = 'triangle';
+      osc.frequency.setValueAtTime(note.freq, now + note.time);
+      gain.gain.setValueAtTime(0.0001, now + note.time);
+      gain.gain.exponentialRampToValueAtTime(note.gain, now + note.time + 0.025);
+      gain.gain.exponentialRampToValueAtTime(0.0001, now + note.time + note.dur);
+      osc.connect(gain);
+      gain.connect(master);
+      osc.start(now + note.time);
+      osc.stop(now + note.time + note.dur + 0.05);
+    });
   },
 };
 
@@ -349,6 +458,7 @@ const UploadModal = {
       });
 
       Loading.hide();
+      Notifications.playAnalysisComplete();
       Pages.renderHome();   // refresh recent scans on home page
       Pages.renderAll();
       Router.go('analysis', 'overview');
@@ -1135,10 +1245,550 @@ function initEvents() {
 }
 
 // ─────────────────────────────────────────────────────────────
+// SEARCH PAGE
+// ─────────────────────────────────────────────────────────────
+const SearchPage = {
+  async submit(e) {
+    e.preventDefault();
+    const query = document.getElementById('search-input').value.trim();
+    if (!query) return;
+
+    const resultsEl = document.getElementById('search-results');
+    const ctaEl = document.getElementById('search-upload-cta');
+    
+    ctaEl.style.display = 'none';
+    resultsEl.style.display = 'block';
+    resultsEl.innerHTML = `
+      <div style="display:flex;align-items:center;gap:12px;padding:16px;background:var(--clr-surface-2);border-radius:16px;margin-bottom:12px">
+        <div style="width:24px;height:24px;border:3px solid var(--clr-primary);border-top-color:transparent;border-radius:50%;animation:spin 0.8s linear infinite;flex-shrink:0"></div>
+        <div style="font-size:14px;color:var(--clr-text-secondary)">Searching for "<strong>${query}</strong>"…</div>
+      </div>
+    `;
+
+    try {
+      const res = await fetch('/api/search-product', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ query })
+      });
+      const data = await res.json();
+
+      if (data.error) {
+        resultsEl.innerHTML = `<div class="empty-state"><div class="empty-icon">😔</div><div class="empty-title">No results found</div><div class="empty-sub">${data.error}</div></div>`;
+        return;
+      }
+
+      const products = data.products || [];
+      if (products.length === 0) {
+        resultsEl.innerHTML = `<div class="empty-state"><div class="empty-icon">🔍</div><div class="empty-title">No products found</div><div class="empty-sub">Try a different search term or scan a product image instead.</div></div>`;
+        return;
+      }
+
+      resultsEl.innerHTML = `
+        <div style="font-size:12px;color:var(--clr-text-tertiary);margin-bottom:12px">${products.length} results for "${query}"</div>
+        ${products.map((p, i) => `
+          <div class="card" style="margin-bottom:10px;display:flex;align-items:center;gap:12px;padding:14px">
+            <div style="width:48px;height:48px;border-radius:10px;background:var(--clr-surface-2);display:flex;align-items:center;justify-content:center;font-size:24px;flex-shrink:0">
+              ${p.image ? `<img src="${p.image}" style="width:48px;height:48px;object-fit:cover;border-radius:10px" onerror="this.parentElement.textContent='🧴'">` : '🧴'}
+            </div>
+            <div style="flex:1;min-width:0">
+              <div style="font-size:14px;font-weight:700;color:var(--clr-text-primary);white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${p.name || query}</div>
+              ${p.brand ? `<div style="font-size:12px;color:var(--clr-text-secondary)">${p.brand}</div>` : ''}
+            </div>
+            <button class="btn btn-primary" style="padding:8px 14px;font-size:12px;flex-shrink:0" onclick="SearchPage.analyzeByName(decodeURIComponent('${encodeURIComponent(p.name || query)}'), decodeURIComponent('${encodeURIComponent(p.brand || '')}'), decodeURIComponent('${encodeURIComponent(p.image || '')}'))">
+              Analyze
+            </button>
+          </div>
+        `).join('')}
+        <div class="card" style="text-align:center;padding:16px;margin-top:8px">
+          <div style="font-size:13px;color:var(--clr-text-secondary);margin-bottom:10px">Don't see your product? Scan it directly</div>
+          <button class="btn btn-ghost" onclick="UploadModal.open()">📸 Scan Image</button>
+        </div>
+      `;
+
+    } catch (err) {
+      resultsEl.innerHTML = `<div class="empty-state"><div class="empty-icon">⚠️</div><div class="empty-title">Search failed</div><div class="empty-sub">${err.message}</div></div>`;
+    }
+  },
+
+  async analyzeByName(productName, brand = '', imageUrl = '') {
+    Loading.show();
+    try {
+      const res = await fetch('/api/analyze-by-name', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ product_name: productName, brand })
+      });
+      const data = await res.json();
+      if (data.error) throw new Error(data.error);
+
+      State.currentAnalysis = data;
+      State.uploadedImageDataUrl = imageUrl || null;
+
+      Storage.addScan({
+        id: Date.now(),
+        product_name: data.product_name || productName || 'Unknown Product',
+        brand: data.brand || brand || '',
+        overall_rating: data.overall_rating,
+        imageDataUrl: imageUrl || null,
+        date: new Date().toISOString(),
+        fullData: data
+      });
+
+      Loading.hide();
+      Notifications.playAnalysisComplete();
+      Pages.renderHome();
+      Pages.renderAll();
+      Router.go('analysis', 'overview');
+    } catch (err) {
+      Loading.hide();
+      ErrorModal.show(err.message || 'Analysis failed. Try again.');
+    }
+  }
+};
+
+// ─────────────────────────────────────────────────────────────
+// EXPLORE API
+// ─────────────────────────────────────────────────────────────
+const ExploreAPI = {
+  cache: {},
+  async fetchJSON(path) {
+    if (this.cache[path]) return this.cache[path];
+    try {
+      const res = await fetch(`/api/data/${path}`);
+      if (!res.ok) throw new Error('Network error');
+      const data = await res.json();
+      this.cache[path] = data;
+      return data;
+    } catch (e) {
+      console.error('Failed to load', path, e);
+      return null;
+    }
+  },
+
+  async fetchList(folder) {
+    try {
+      const res = await fetch(`/api/list/${folder}`);
+      if (!res.ok) throw new Error('Not found');
+      return await res.json();
+    } catch (e) {
+      console.error('Failed to list', folder, e);
+      return [];
+    }
+  },
+
+  async load(category) {
+    const container = document.getElementById(`explore-${category}-content`);
+    if (!container) return;
+    
+    container.innerHTML = '<div style="text-align:center;padding:40px;color:var(--clr-text-tertiary)">Loading...</div>';
+    
+    if (category === 'budget') {
+      const data = await this.fetchJSON('budget/budget.json');
+      this.renderProductPage(data, 'budget');
+
+    } else if (category === 'premium') {
+      const data = await this.fetchJSON('premium/premium.json');
+      this.renderProductPage(data, 'premium');
+
+    } else if (category === 'natural') {
+      const files = await this.fetchList('natural');
+      const tabsEl = document.getElementById('natural-tabs');
+      if (tabsEl && tabsEl.innerHTML === '') {
+        tabsEl.innerHTML = `
+          <button class="et-tab active" onclick="ExploreAPI.filterNatural('all', this)">All</button>
+          <button class="et-tab" onclick="ExploreAPI.filterNatural('skin', this)">Skin</button>
+          <button class="et-tab" onclick="ExploreAPI.filterNatural('hair', this)">Hair</button>
+        `;
+      }
+      this._naturalFiles = files;
+      this.renderNaturalList(files, container);
+
+    } else if (category === 'guides') {
+      // Combine skin + hair + concerns + routines as guide categories
+      const skinFiles = await this.fetchList('skin');
+      const hairFiles = await this.fetchList('hair');
+      const concernFiles = await this.fetchList('concerns');
+      const routineFiles = await this.fetchList('routines');
+      
+      container.innerHTML = '';
+      
+      const sections = [
+        { label: '🧬 Skin Types', files: skinFiles, folder: 'skin' },
+        { label: '⚠️ Skin Concerns', files: concernFiles, folder: 'concerns' },
+        { label: '📅 Routines', files: routineFiles, folder: 'routines' },
+        { label: '💇 Hair Care', files: hairFiles, folder: 'hair' },
+      ];
+
+      sections.forEach(({ label, files, folder }) => {
+        if (!files || files.length === 0) return;
+        const sec = document.createElement('div');
+        sec.style.marginBottom = '8px';
+        sec.innerHTML = `<div style="font-size:13px;font-weight:700;color:var(--clr-text-tertiary);padding:12px 0 6px;text-transform:uppercase;letter-spacing:0.5px">${label}</div>`;
+        files.forEach(f => {
+          const name = this.prettyName(f);
+          const item = document.createElement('div');
+          item.className = 'cat-item';
+          item.innerHTML = `<div class="cat-icon" style="background:var(--clr-surface-2)">&#128214;</div><div class="cat-info"><div class="cat-title">${name}</div><div class="cat-sub">Tap to read guide</div></div><div class="cat-arrow">&rsaquo;</div>`;
+          item.style.cursor = 'pointer';
+          item.onclick = () => this.openKnowledgeDetail('guides', folder, f);
+          sec.appendChild(item);
+        });
+        container.appendChild(sec);
+      });
+
+    } else if (category === 'routine') {
+      const files = await this.fetchList('routines');
+      this._routineFiles = files;
+      this.filterRoutine('morning', null);
+      // Set up tab click handlers
+      document.querySelectorAll('#routine-tabs .et-tab').forEach(btn => {
+        btn.onclick = () => {
+          document.querySelectorAll('#routine-tabs .et-tab').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          ExploreAPI.filterRoutine(btn.dataset.filter, btn);
+        };
+      });
+    }
+  },
+
+  filterNatural(type, btn) {
+    if (btn) {
+      document.querySelectorAll('#natural-tabs .et-tab').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+    }
+    const container = document.getElementById('explore-natural-content');
+    if (!this._naturalFiles) return;
+    let files = this._naturalFiles;
+    // For now show all — can be filtered by metadata once loaded
+    this.renderNaturalList(files, container);
+  },
+
+  filterRoutine(type, btn) {
+    const container = document.getElementById('explore-routine-content');
+    if (!container || !this._routineFiles) return;
+    const filtered = this._routineFiles.filter(f => f.toLowerCase().includes(type));
+    container.innerHTML = '';
+    if (filtered.length === 0) {
+      container.innerHTML = '<div style="text-align:center;padding:20px;color:var(--clr-text-tertiary)">No routines found.</div>';
+      return;
+    }
+    filtered.forEach(f => {
+      const name = this.prettyName(f);
+      const item = document.createElement('div');
+      item.className = 'cat-item';
+      item.innerHTML = `<div class="cat-icon" style="background:var(--clr-surface-2)">&#128203;</div><div class="cat-info"><div class="cat-title">${name}</div><div class="cat-sub">Open routine details</div></div><div class="cat-arrow">&rsaquo;</div>`;
+      item.style.cursor = 'pointer';
+      item.onclick = () => this.openKnowledgeDetail('routine', 'routines', f);
+      container.appendChild(item);
+    });
+  },
+
+  renderNaturalList(files, container) {
+    if (!files || files.length === 0) {
+      container.innerHTML = '<div style="text-align:center;padding:20px;color:var(--clr-text-tertiary)">No data found.</div>';
+      return;
+    }
+    container.innerHTML = '';
+    files.forEach(f => {
+      const emoji = this.getNaturalEmoji(f);
+      const name = this.prettyName(f);
+      const item = document.createElement('div');
+      item.className = 'cat-item';
+      item.innerHTML = `<div class="cat-icon">${emoji}</div><div class="cat-info"><div class="cat-title">${name}</div><div class="cat-sub">Tap to read benefits and usage</div></div><div class="cat-arrow">&rsaquo;</div>`;
+      item.style.cursor = 'pointer';
+      item.onclick = () => this.openKnowledgeDetail('natural', 'natural', f);
+      container.appendChild(item);
+    });
+  },
+
+  prettyName(value) {
+    return String(value || '')
+      .replace('.json', '')
+      .replace(/_/g, ' ')
+      .replace(/\b\w/g, c => c.toUpperCase());
+  },
+
+  getNaturalEmoji(fileName) {
+    const emojiMap = {
+      aloe: '&#127793;', honey: '&#127855;', green: '&#127861;', coconut: '&#129381;', tea_tree: '&#127807;', oatmeal: '&#127806;',
+      turmeric: '&#128993;', rose: '&#127801;', neem: '&#127807;', cucumber: '&#129362;', chamomile: '&#127804;', argan: '&#129689;',
+      shea: '&#129532;', jojoba: '&#128167;', rice: '&#127806;', hibiscus: '&#127802;', amla: '&#129744;', centella: '&#127807;',
+      licorice: '&#127852;', fenugreek: '&#127807;'
+    };
+    const key = Object.keys(emojiMap).find(k => fileName.includes(k)) || '';
+    return emojiMap[key] || '&#127807;';
+  },
+
+  async openKnowledgeDetail(pageCategory, folder, fileName) {
+    const container = document.getElementById(`explore-${pageCategory}-content`);
+    if (!container) return;
+
+    container.innerHTML = '<div style="text-align:center;padding:40px;color:var(--clr-text-tertiary)">Loading...</div>';
+    const data = await this.fetchJSON(`${folder}/${fileName}`);
+
+    if (!data) {
+      container.innerHTML = `
+        <div class="card" style="padding:20px;text-align:center">
+          <div style="font-size:14px;font-weight:700;color:var(--clr-text-primary);margin-bottom:6px">Unable to open this guide</div>
+          <div style="font-size:13px;color:var(--clr-text-secondary);margin-bottom:14px">The JSON file could not be loaded.</div>
+          <button class="btn btn-ghost" onclick="ExploreAPI.load('${pageCategory}')">Back to list</button>
+        </div>`;
+      return;
+    }
+
+    this.renderKnowledgeDetail(pageCategory, fileName, data);
+  },
+
+  renderKnowledgeDetail(pageCategory, fileName, data) {
+    const container = document.getElementById(`explore-${pageCategory}-content`);
+    if (!container) return;
+
+    const title = data.name || data.routine_name || this.prettyName(fileName);
+    const subtitle = [data.category, data.scientific_name, data.routine_type, data.frequency]
+      .filter(Boolean)
+      .map(v => H.escHtml(String(v)))
+      .join(' &middot; ');
+    const description = data.description ? `
+      <div class="card" style="padding:16px;margin-bottom:14px">
+        <div style="font-size:14px;line-height:1.6;color:var(--clr-text-secondary)">${H.escHtml(data.description)}</div>
+      </div>` : '';
+    const numericRating = Number(data.rating);
+    const rating = Number.isFinite(numericRating) ? `
+      <div class="card" style="padding:14px 16px;margin-bottom:14px;display:flex;justify-content:space-between;align-items:center">
+        <div style="font-size:13px;font-weight:700;color:var(--clr-text-primary)">Overall Rating</div>
+        <div style="font-size:14px;color:var(--clr-primary)">${'&#9733;'.repeat(Math.max(0, Math.min(5, numericRating)))}<span style="color:var(--clr-text-tertiary)">${'&#9734;'.repeat(Math.max(0, 5 - numericRating))}</span></div>
+      </div>` : '';
+
+    const hiddenKeys = new Set(['name', 'routine_name', 'description', 'category', 'scientific_name', 'routine_type', 'frequency', 'rating']);
+    const sections = Object.entries(data)
+      .filter(([key, value]) => !hiddenKeys.has(key) && value && (!Array.isArray(value) || value.length > 0))
+      .map(([key, value]) => this.renderKnowledgeSection(key, value))
+      .join('');
+
+    container.innerHTML = `
+      <button class="btn btn-ghost" style="margin-bottom:12px" onclick="ExploreAPI.load('${pageCategory}')">&larr; Back to list</button>
+      <div class="card" style="padding:18px;margin-bottom:14px;background:linear-gradient(135deg,var(--clr-surface-1),var(--clr-surface-2))">
+        <div style="font-size:22px;font-weight:800;color:var(--clr-text-primary);line-height:1.2">${H.escHtml(title)}</div>
+        ${subtitle ? `<div style="font-size:13px;color:var(--clr-text-tertiary);margin-top:6px">${subtitle}</div>` : ''}
+      </div>
+      ${description}
+      ${rating}
+      ${sections || '<div class="card" style="padding:16px;color:var(--clr-text-secondary)">No detailed data available.</div>'}
+    `;
+  },
+
+  renderKnowledgeSection(key, value) {
+    const label = this.prettyName(key);
+
+    if (Array.isArray(value)) {
+      if (value.length === 0) return '';
+
+      if (value.every(item => item && typeof item === 'object' && !Array.isArray(item))) {
+        const cards = value.map((item, index) => {
+          const primary = item.action || item.step_name || item.name || item.day || item.step || `Item ${index + 1}`;
+          const details = Object.entries(item)
+            .filter(([subKey]) => !['action', 'step_name', 'name', 'day', 'step'].includes(subKey))
+            .map(([subKey, subValue]) => `
+              <div style="font-size:13px;color:var(--clr-text-secondary);margin-top:6px">
+                <strong style="color:var(--clr-text-primary)">${H.escHtml(this.prettyName(subKey))}:</strong> ${this.renderKnowledgeInline(subValue)}
+              </div>`)
+            .join('');
+
+          return `
+            <div class="card" style="padding:14px 16px;margin-bottom:10px">
+              <div style="font-size:14px;font-weight:700;color:var(--clr-text-primary)">${H.escHtml(String(primary))}</div>
+              ${details}
+            </div>`;
+        }).join('');
+
+        return `<div style="margin-bottom:16px"><div class="section-title mb-3">${H.escHtml(label)}</div>${cards}</div>`;
+      }
+
+      const items = value.map(item => `<li style="margin-bottom:8px">${this.renderKnowledgeInline(item)}</li>`).join('');
+      return `
+        <div class="card" style="padding:16px;margin-bottom:14px">
+          <div class="section-title mb-3">${H.escHtml(label)}</div>
+          <ul style="margin:0;padding-left:18px;color:var(--clr-text-secondary);font-size:14px;line-height:1.6">${items}</ul>
+        </div>`;
+    }
+
+    if (value && typeof value === 'object') {
+      const rows = Object.entries(value).map(([subKey, subValue], index) => `
+        <div style="padding:10px 0;${index > 0 ? 'border-top:1px solid var(--clr-border);' : ''}">
+          <div style="font-size:12px;font-weight:700;color:var(--clr-text-tertiary);text-transform:uppercase;letter-spacing:0.4px">${H.escHtml(this.prettyName(subKey))}</div>
+          <div style="font-size:14px;color:var(--clr-text-secondary);line-height:1.6;margin-top:4px">${this.renderKnowledgeInline(subValue)}</div>
+        </div>`).join('');
+      return `
+        <div class="card" style="padding:16px;margin-bottom:14px">
+          <div class="section-title mb-1">${H.escHtml(label)}</div>
+          ${rows}
+        </div>`;
+    }
+
+    return `
+      <div class="card" style="padding:16px;margin-bottom:14px">
+        <div class="section-title mb-2">${H.escHtml(label)}</div>
+        <div style="font-size:14px;color:var(--clr-text-secondary);line-height:1.6">${this.renderKnowledgeInline(value)}</div>
+      </div>`;
+  },
+
+  renderKnowledgeInline(value) {
+    if (Array.isArray(value)) {
+      return value.map(item => H.escHtml(String(item))).join(', ');
+    }
+
+    if (value && typeof value === 'object') {
+      return Object.entries(value)
+        .map(([key, item]) => `${H.escHtml(this.prettyName(key))}: ${H.escHtml(String(item))}`)
+        .join(' &middot; ');
+    }
+
+    return H.escHtml(String(value));
+  },
+
+  renderProductPage(data, category) {
+    const container = document.getElementById(`explore-${category}-content`);
+    const tabsContainer = document.getElementById(`${category}-tabs`);
+    
+    if (!data) {
+      container.innerHTML = '<div style="text-align:center;padding:20px;">Data not available</div>';
+      return;
+    }
+
+    let displayData = data;
+    
+    if (Array.isArray(data)) {
+        const grouped = {};
+        data.forEach(p => {
+           let pr = p.price_range || 'other';
+           if (pr === 'under_300') pr = 'Under ₹300';
+           else if (pr === 'under_500') pr = 'Under ₹500';
+           else if (pr === 'under_1000') pr = 'Under ₹1000';
+           else if (pr === 'under_2000') pr = 'Under ₹2000';
+           
+           if (!grouped[pr]) grouped[pr] = [];
+           grouped[pr].push(p);
+        });
+        displayData = grouped;
+        
+        if (tabsContainer && tabsContainer.innerHTML === '') {
+            const cats = ['All', ...new Set(data.map(p => p.category))].filter(Boolean).slice(0, 6);
+            tabsContainer.innerHTML = cats.map((c, i) => 
+               `<button class="et-tab ${i===0?'active':''}" onclick="ExploreAPI.filterByCategory('${category}', '${c.replace(/'/g, "\\'")}')">${c}</button>`
+            ).join('');
+        }
+    } else if (typeof data === 'object') {
+        const categories = Object.keys(data);
+        if (categories.length === 0) return;
+        
+        if (tabsContainer && tabsContainer.innerHTML === '') {
+          tabsContainer.innerHTML = categories.map((k, i) => 
+            `<button class="et-tab ${i===0?'active':''}" onclick="ExploreAPI.switchTab('${category}', '${k.replace(/'/g, "\\'")}')">${k}</button>`
+          ).join('');
+        }
+        
+        displayData = data[categories[0]];
+    }
+    
+    this.renderProductsGrid(displayData, container);
+  },
+
+  filterByCategory(pageCategory, filterCat) {
+      const data = this.cache[`${pageCategory}/${pageCategory}.json`];
+      if (!data || !Array.isArray(data)) return;
+      
+      const filtered = filterCat === 'All' ? data : data.filter(p => p.category === filterCat);
+      
+      const grouped = {};
+      filtered.forEach(p => {
+         let pr = p.price_range || 'other';
+         if (pr === 'under_300') pr = 'Under ₹300';
+         else if (pr === 'under_500') pr = 'Under ₹500';
+         else if (pr === 'under_1000') pr = 'Under ₹1000';
+         else if (pr === 'under_2000') pr = 'Under ₹2000';
+         
+         if (!grouped[pr]) grouped[pr] = [];
+         grouped[pr].push(p);
+      });
+      
+      const container = document.getElementById(`explore-${pageCategory}-content`);
+      this.renderProductsGrid(grouped, container);
+      
+      const tabsContainer = document.getElementById(`${pageCategory}-tabs`);
+      if (tabsContainer) {
+          Array.from(tabsContainer.children).forEach(btn => {
+              btn.classList.toggle('active', btn.textContent === filterCat);
+          });
+      }
+  },
+  
+  switchTab(category, tabKey) {
+    const tabsContainer = document.getElementById(`${category}-tabs`);
+    if (tabsContainer) {
+      Array.from(tabsContainer.children).forEach(btn => {
+        btn.classList.toggle('active', btn.textContent === tabKey);
+      });
+    }
+    
+    const data = this.cache[`${category}/${category}.json`];
+    if (data && data[tabKey]) {
+      const container = document.getElementById(`explore-${category}-content`);
+      this.renderProductsGrid(data[tabKey], container);
+    }
+  },
+  
+  renderProductsGrid(products, container) {
+    if (!Array.isArray(products)) {
+        // If it's an object with subcategories
+        let html = '';
+        for (const [subcat, items] of Object.entries(products)) {
+            html += `<div style="display:flex;justify-content:space-between;margin-top:20px;margin-bottom:10px;font-size:14px;font-weight:700;color:var(--clr-text-primary)"><span>${subcat}</span><span style="color:var(--clr-primary);font-size:12px;cursor:pointer;">View all</span></div>`;
+            html += '<div class="explore-products-grid">';
+            html += (Array.isArray(items) ? items : []).map(p => this.createProductCard(p)).join('');
+            html += '</div>';
+        }
+        container.innerHTML = html;
+        return;
+    }
+    
+    container.innerHTML = '<div class="explore-products-grid">' + 
+      products.map(p => this.createProductCard(p)).join('') + 
+      '</div>';
+  },
+  
+  promptAnalyzeProduct(productName, brand = '', imageUrl = '') {
+    const label = [brand, productName].filter(Boolean).join(' ');
+    if (!confirm(`Analyze ${label || 'this product'}?`)) return;
+    SearchPage.analyzeByName(productName, brand, imageUrl);
+  },
+
+  createProductCard(p) {
+    const name = p.name || p.product_name || p.Product || p.title || 'Unknown Product';
+    const brand = p.brand || p.Brand || p.company || '';
+    const price = p.price || p.Price || p.cost || '';
+    const img = p.image || p.image_url || p.Image || 'data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧴</text></svg>';
+    const encodedName = encodeURIComponent(name);
+    const encodedBrand = encodeURIComponent(brand);
+    const encodedImg = encodeURIComponent(img);
+    
+    return `
+      <div class="ep-card">
+        <img src="${img}" alt="${name}" class="ep-img" title="Double-click to analyze" ondblclick="ExploreAPI.promptAnalyzeProduct(decodeURIComponent('${encodedName}'), decodeURIComponent('${encodedBrand}'), decodeURIComponent('${encodedImg}'))" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧴</text></svg>'">
+        ${brand ? `<div class="ep-brand">${brand}</div>` : ''}
+        <div class="ep-name">${name}</div>
+        ${price ? `<div class="ep-price">${price}</div>` : ''}
+      </div>
+    `;
+  }
+};
+
+// ─────────────────────────────────────────────────────────────
 // INIT
 // ─────────────────────────────────────────────────────────────
 function init() {
   Theme.init();
+  Notifications.init();
   State.history = Storage.getHistory();
   Pages.renderHome();
   initEvents();

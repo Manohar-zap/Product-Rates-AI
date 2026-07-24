@@ -1,0 +1,98 @@
+{
+    "name": "Oily Hair",
+    "description": "Hair that produces excess oil, typically noticeable at the scalp and forehead. This type of hair can appear shiny or greasy.",
+    "hair_texture": "Smooth and glossy but can become limp due to excess oil secretion.",
+    "porosity": "High porosity, which means the hair cuticles are lifted or open, allowing for easy absorption of moisture and products.",
+    "characteristics": [
+        "Excessive sebum production",
+        "Shiny appearance at the scalp",
+        "Prone to greasy roots and oily feel throughout the day",
+        "Can be more difficult to style due to oiliness"
+    ],
+    "common_problems": [
+        "Greasy hair",
+        "Oily scalp",
+        "Unpleasant odor",
+        "Difficult styling"
+    ],
+    "recommended_ingredients": [
+        "Clay-based products for absorption",
+        "Salicylic acid or sulfur for reducing sebum production",
+        "Vitamin C to brighten and control shine",
+        "Tea tree oil for its antimicrobial properties"
+    ],
+    "ingredients_to_avoid": [
+        "Heavy oils and butters that can weigh down the hair",
+        "Silicones, which can create a greasy buildup",
+        "Alcohol-based products that can dry out the scalp"
+    ],
+    "recommended_product_categories": [
+        "Clay masks",
+        "Oil-control shampoos",
+        "Anti-dandruff shampoos",
+        "Thinning serums or sprays"
+    ],
+    "washing_frequency": "Every 1-2 days, depending on oil production.",
+    "oil_recommendation": "Use lightweight and water-based products that do not add excess oils to the hair.",
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Apply a clay mask or oil-control product to the scalp",
+            "purpose": "Absorb excess oil and control shine"
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Wash hair with an oil-control shampoo, focusing on the roots",
+            "purpose": "Remove accumulated oils and dirt from the day"
+        },
+        {
+            "step": 2,
+            "action": "Apply a lightweight leave-in conditioner if needed",
+            "purpose": "Condition the ends without adding weight to the scalp"
+        }
+    ],
+    "weekly_care": [
+        "Deep condition with a hydrating mask at least once a week, but avoid using heavy formulas."
+    ],
+    "deep_conditioning_frequency": "Once per week.",
+    "heat_styling_recommendation": "Use heat protectants and limit heat styling sessions to maintain the integrity of the hair cuticles.",
+    "lifestyle_tips": [
+        "Maintain a consistent shampooing schedule",
+        "Avoid excessive sugar and dairy in your diet, which can exacerbate oil production",
+        "Regularly exfoliate the scalp to remove dead skin cells"
+    ],
+    "foods_for_healthy_hair": [
+        "Fruits high in vitamin C (oranges, strawberries)",
+        "Leafy greens for iron and folic acid",
+        "Lean proteins like chicken or fish"
+    ],
+    "common_mistakes": [
+        "Over-washing the hair to the point of stripping natural oils",
+        "Using heavy products that can exacerbate oiliness",
+        "Not managing scalp health with proper hygiene"
+    ],
+    "do": [
+        "Regularly exfoliate the scalp",
+        "Stay hydrated and maintain a balanced diet"
+    ],
+    "dont": [
+        "Skip washing your hair, as this can lead to even more oil production",
+        "Use products that are too heavy or greasy",
+        "Over-exfoliate the scalp, which can irritate it"
+    ],
+    "seasonal_care": {
+        "summer": "Increase the frequency of washes and use lighter hair care products.",
+        "winter": "Continue with regular washing but switch to richer, nourishing products as needed.",
+        "monsoon": "Pay extra attention to keeping your scalp dry and clean."
+    },
+    "compatible_hair_types": [
+        "Normal Hair",
+        "Combination Hair (oily at the top, normal or dry elsewhere)"
+    ],
+    "expert_tips": [
+        "Consult a dermatologist for personalized advice if you have persistent oily scalp issues.",
+        "Regularly use dry shampoo to absorb oil throughout the day."
+    ]
+}

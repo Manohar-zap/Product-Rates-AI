@@ -1,0 +1,37 @@
+{
+    "name": "Amla",
+    "scientific_name": "Phyllanthus emblica",
+    "category": "Herb and Fruit",
+    "description": "Amla, also known as Indian gooseberry or Emblic myrobalan, is a fruit native to the Indian subcontinent. It belongs to the Euphorbiaceae family and has been used for centuries in traditional Ayurvedic medicine due to its numerous health benefits.",
+    "benefits_skin": [
+        "Antioxidant properties",
+        "Promotes skin hydration",
+        "Fades dark spots"
+    ],
+    "benefits_hair": [
+        "Strengthens hair roots",
+        "Prevents hair loss",
+        "Improves hair shine",
+        "Encourages healthy scalp"
+    ],
+    "best_for": [
+        "Individuals with dry or dull skin",
+        "People experiencing hair thinning or loss",
+        "Those looking to improve overall skin and hair health"
+    ],
+    "avoid_for": [
+        "Individuals allergic to fruits or herbs in the Euphorbiaceae family",
+        "People on medications that interact with antioxidants"
+    ],
+    "how_to_use": [
+        "Extract juice from amla and apply directly onto face for 15 minutes before rinsing off",
+        "Use as an ingredient in homemade hair masks by mixing with other ingredients like honey, yogurt, or coconut oil",
+        "Consume amla through dietary supplements or by adding to salads"
+    ],
+    "possible_side_effects": [
+        "May cause allergic reactions in sensitive individuals",
+        "Interacts with certain medications such as blood thinners and diabetes drugs"
+    ],
+    "scientific_evidence": "Research has shown that Amla contains high levels of vitamin C, which can help with skin health and hair growth. Studies have also indicated its potential to improve scalp health and reduce hair loss.",
+    "rating": 4
+}

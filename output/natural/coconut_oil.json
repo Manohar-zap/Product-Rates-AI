@@ -1,0 +1,45 @@
+{
+    "name": "Coconut Oil",
+    "scientific_name": "Cocos nucifera oil",
+    "category": "Natural Ingredient",
+    "description": "Coconut oil is a natural, unrefined fat that comes from the meat of matured coconuts. It has a thick, creamy consistency and a distinct coconut aroma.",
+    "benefits_skin": [
+        "Moisturizes the skin",
+        "Reduces dryness and itching",
+        "May help in treating minor burns and rashes",
+        "Has antimicrobial properties that can prevent certain infections"
+    ],
+    "benefits_hair": [
+        "Enhances hair shine and manageability",
+        "Strengthens hair, preventing breakage",
+        "Provides deep conditioning for dry or damaged hair",
+        "Helps in treating dandruff and itchiness"
+    ],
+    "best_for": [
+        "Dry skin and scalp conditions",
+        "Alopecia areata (patchy hair loss)",
+        "Dandruff and itchy scalp issues",
+        "After sun care and soothing irritated skin"
+    ],
+    "avoid_for": [
+        "People with known allergies to coconut or its derivatives",
+        "Individuals with severe dermatitis or eczema flare-ups without medical consultation",
+        "Those who have oily skin types, as excessive use may cause breakouts"
+    ],
+    "how_to_use": [
+        "Apply a small amount of coconut oil directly onto the skin after showering for moisturizing benefits.",
+        "Massage into hair from roots to ends before washing or overnight for deep conditioning and shine.",
+        "Use as an after-sun treatment by applying to the affected area to soothe sunburns."
+    ],
+    "possible_side_effects": [
+        "May cause allergic reactions in individuals with coconut allergies",
+        "Can lead to breakouts if used excessively on oily skin types"
+    ],
+    "works_well_with": [
+        "Other natural oils like jojoba or argan oil for a more intense moisturizing effect",
+        "Essential oils such as lavender or tea tree for added benefits like antifungal and antibacterial properties",
+        "Hydrating serums or creams to enhance overall skin hydration"
+    ],
+    "scientific_evidence": "Scientific studies have shown that coconut oil can help in moisturizing the skin due to its fatty acid content, including lauric acid. It has also been noted for its potential antimicrobial and anti-inflammatory properties.",
+    "rating": 4
+}

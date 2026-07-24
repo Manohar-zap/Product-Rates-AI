@@ -1,0 +1,109 @@
+{
+    "name": "Under Eye Dark Circles",
+    "category": "Dermatology",
+    "description": "Dark circles under the eyes are a common skin concern that can be caused by various factors including genetics, lack of sleep, allergies, and dehydration. They may appear as areas of darker pigmentation or as hollows beneath the eyes.",
+    "causes": [
+        "Genetics",
+        "Lack of Sleep",
+        "Allergies and Sinus Issues",
+        "Aging Skin",
+        "Dehydration",
+        "Sun Exposure",
+        "Poor Diet",
+        "Smoking"
+    ],
+    "symptoms": [
+        "Dark pigmentation or patches under the eyes",
+        "Hollow appearance around the eyes",
+        "Swelling or puffiness in the eye area"
+    ],
+    "risk_factors": [
+        "Family history of dark circles",
+        "Aging",
+        "Pregnancy",
+        "Certain medical conditions (e.g., thyroid disorders, anemia)",
+        "Excessive alcohol consumption"
+    ],
+    "recommended_ingredients": [
+        "Vitamin K",
+        "Hyaluronic Acid",
+        "Retinol",
+        "Caffeine",
+        "Green Tea Extract",
+        "Niacinamide"
+    ],
+    "ingredients_to_avoid": [
+        "Harsh Exfoliants",
+        "Sulphates and Parabens",
+        "Alcohol-based products"
+    ],
+    "recommended_product_categories": [
+        "Eye Creams",
+        "Serums",
+        "Moisturizers",
+        "Sunscreens"
+    ],
+    "daily_routine": [
+        {
+            "step": "Cleanse the face gently",
+            "purpose": "Remove dirt and impurities from the skin."
+        },
+        {
+            "step": "Apply a hydrating toner",
+            "purpose": "Prepare the skin for better product absorption."
+        },
+        {
+            "step": "Use an eye serum or cream",
+            "purpose": "Target dark circles and reduce puffiness."
+        },
+        {
+            "step": "Moisturize your face",
+            "purpose": "Keep the skin hydrated and nourished."
+        },
+        {
+            "step": "Protect with sunscreen daily",
+            "purpose": "Prevent further damage from UV rays."
+        }
+    ],
+    "professional_treatments": [
+        "Laser Therapy",
+        "Chemical Peels",
+        "Microneedling",
+        "Injectables (e.g., Botox, Fillers)"
+    ],
+    "natural_remedies": [
+        "Cold Compresses",
+        "Hydrating Masks",
+        "Tea Bags",
+        "Apple Cider Vinegar",
+        "Coconut Oil"
+    ],
+    "lifestyle_tips": [
+        "Ensure adequate sleep (7-9 hours per night)",
+        "Stay hydrated by drinking plenty of water",
+        "Apply cold compresses or use chilled spoons to reduce puffiness",
+        "Consume a balanced diet rich in vitamins and minerals",
+        "Limit caffeine and alcohol intake"
+    ],
+    "common_myths": [
+        "Dark circles are primarily caused by dark skin tone.",
+        "Using concealer is the only solution for dark circles.",
+        "Rubbing your eyes can help reduce dark circles."
+    ],
+    "when_to_consult_doctor": "Consult a dermatologist if dark circles are accompanied by severe swelling, pain, or other concerning symptoms.",
+    "prevention": [
+        "Maintain a healthy lifestyle",
+        "Protect the skin from sun exposure",
+        "Manage underlying health conditions"
+    ],
+    "severity_levels": {
+        "mild": "Visible pigmentation or slight puffiness that does not significantly impact appearance.",
+        "moderate": "Noticeable dark circles and puffiness that may affect facial symmetry and overall aesthetic.",
+        "severe": "Significant darkening and swelling under the eyes, causing a noticeable change in skin tone and potentially affecting self-esteem."
+    },
+    "expert_tips": [
+        "Consistency is key when addressing dark circles. Daily skincare routines are more effective than occasional treatments.",
+        "Consider your overall health; underlying conditions may need to be addressed for complete resolution of dark circles.",
+        "Discuss any changes in skin appearance with a dermatologist, as persistent or severe cases might require medical intervention."
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "routine_name": "Hyperpigmentation Targeted Skincare Routine",
+    "routine_type": "Skincare",
+    "description": "This routine is designed to address hyperpigmentation by utilizing ingredients known for their skin-lightening and brightening properties. It includes both morning and night steps, as well as a weekly treatment to enhance results.",
+    "frequency": "Daily with a once-weekly exfoliation",
+    "estimated_time": "15-20 minutes per day",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Apply a gentle cleanser",
+            "purpose": "Remove impurities and prep the skin for treatment",
+            "recommended_ingredients": [
+                "Gentle foaming agents",
+                "Natural moisturizers"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Apply a vitamin C serum",
+            "purpose": "Boost collagen production, brighten skin tone, and inhibit melanin formation",
+            "recommended_ingredients": [
+                "L-Ascorbic acid",
+                "Magnesium ascorbyl phosphate"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Apply a broad-spectrum SPF 30 or higher",
+            "purpose": "Protect the skin from UV damage which can exacerbate hyperpigmentation",
+            "recommended_ingredients": [
+                "Titanium dioxide",
+                "Zinc oxide"
+            ]
+        }
+    ],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Apply a retinol serum",
+            "purpose": "Promote cell turnover, improve texture and tone",
+            "recommended_ingredients": [
+                "Retinyl palmitate",
+                "Retinaldehyde"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Moisturize with an hyaluronic acid cream",
+            "purpose": "Hydrate the skin for optimal absorption of other treatments",
+            "recommended_ingredients": [
+                "Hyaluronic acid",
+                "Fatty acids"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Sunday",
+            "action": "Exfoliate with a chemical peel or gentle scrub"
+        }
+    ],
+    "do": [],
+    "dont": [],
+    "common_mistakes": [
+        "Overexposure to sunlight",
+        "Skipping exfoliation"
+    ],
+    "best_products_categories": [
+        "Cleansers",
+        "Serums",
+        "Moisturizers",
+        "Sunscreens",
+        "Retinol products",
+        "Exfoliants"
+    ],
+    "expected_results": {
+        "2_weeks": "Visible reduction in dark spots and a more even skin tone",
+        "1_month": "Significant improvement in hyperpigmentation, brighter complexion",
+        "3_months": "Substantially clearer skin with minimized signs of hyperpigmentation"
+    },
+    "expert_tips": [
+        "Consistency is key",
+        "Patch test new products before full application",
+        "Stay hydrated and maintain a balanced diet"
+    ]
+}

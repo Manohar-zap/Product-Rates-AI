@@ -1,0 +1,64 @@
+{
+    "routine_name": "Color Treated Hair Care Routine",
+    "routine_type": "Hair",
+    "description": "A professional dermatologist-inspired skincare or haircare routine designed to protect and enhance the health of color-treated hair.",
+    "frequency": "Daily for morning and night steps, weekly for specific treatments",
+    "estimated_time": "15-20 minutes daily, additional time for deep conditioning treatments",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Apply a lightweight moisturizing leave-in conditioner or silk protein spray.",
+            "purpose": "To hydrate and protect hair from environmental stressors while styling in the morning.",
+            "recommended_ingredients": [
+                "Hydrating oils",
+                "Silk proteins"
+            ]
+        }
+    ],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Gently massage a nourishing leave-in conditioner or deep treatment into your hair and scalp.",
+            "purpose": "To repair and moisturize the hair overnight, preventing dryness and damage.",
+            "recommended_ingredients": [
+                "Deep conditioning agents",
+                "Intensive hydrators"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Saturday",
+            "action": "Apply a deep conditioning mask or do a hot oil treatment to deeply nourish and repair the hair."
+        }
+    ],
+    "do": [
+        "Use gentle, sulfate-free shampoos and conditioners.",
+        "Regularly use heat protectants before styling with heat tools.",
+        "Stay hydrated by drinking plenty of water daily."
+    ],
+    "dont": [
+        "Avoid over-washing your hair as it can strip natural oils.",
+        "Minimize the use of heat styling tools to prevent damage.",
+        "Do not apply heavy styling products that may weigh down and damage your hair."
+    ],
+    "common_mistakes": [
+        "Overwashing or using harsh chemicals that can strip color from hair.",
+        "Failing to protect hair from environmental stressors, leading to further damage."
+    ],
+    "best_products_categories": [
+        "Moisturizing leave-in conditioners",
+        "Silk protein sprays",
+        "Deep conditioning masks",
+        "Intensive hydrating agents"
+    ],
+    "expected_results": {
+        "2_weeks": "Significantly improved hair hydration, reduced frizz and flyaways.",
+        "1_month": "Noticeable increase in hair strength and elasticity, with a softer texture.",
+        "3_months": "Stabilized hair color, with vibrant hues and reduced fading."
+    },
+    "expert_tips": [
+        "Always perform a patch test before introducing new products to your routine.",
+        "Consider consulting a dermatologist or trichologist for personalized recommendations based on specific hair concerns."
+    ]
+}

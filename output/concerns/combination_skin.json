@@ -1,0 +1,89 @@
+{
+    "name": "Combination Skin",
+    "category": "Skin Type",
+    "description": "Combination skin is characterized by a mix of oily and dry areas, typically with an oily T-zone (forehead, nose, chin) and drier cheeks. This skin type can be challenging to manage due to its varying texture and oil production.",
+    "causes": [
+        "Hormonal fluctuations",
+        "Genetic predisposition",
+        "Environmental factors"
+    ],
+    "symptoms": [
+        "Oily T-zone with dry cheeks",
+        "Mixture of pores and smooth skin areas",
+        "Possible breakouts in the oily areas",
+        "Dry patches on the cheeks"
+    ],
+    "risk_factors": [
+        "Genetics",
+        "Certain medications",
+        "Hormonal changes during puberty, pregnancy, or menopause"
+    ],
+    "recommended_ingredients": [
+        "Salicylic acid",
+        "Niacinamide",
+        "Hyaluronic acid",
+        "Glycolic acid"
+    ],
+    "ingredients_to_avoid": [
+        "Heavy oils and waxes",
+        "Alcohol-based toners",
+        "Sulfates"
+    ],
+    "recommended_product_categories": [
+        "Balancing cleansers",
+        "Multi-action moisturizers",
+        "Non-comedogenic makeup"
+    ],
+    "daily_routine": [
+        {
+            "step": "Cleanser",
+            "purpose": "Remove excess oil and impurities without stripping natural oils from the skin."
+        },
+        {
+            "step": "Toner",
+            "purpose": "Balance skin's pH level and prepare it for better absorption of subsequent products."
+        },
+        {
+            "step": "Treatment Serum",
+            "purpose": "Target specific concerns like acne or dehydration."
+        },
+        {
+            "step": "Moisturizer",
+            "purpose": "Provide hydration to dry areas while controlling oil in the T-zone."
+        }
+    ],
+    "professional_treatments": [
+        "Chemical Peels",
+        "Microdermabrasion",
+        "LED Light Therapy"
+    ],
+    "natural_remedies": [
+        "Tea tree oil for acne-prone skin",
+        "Green tea to soothe and tighten pores",
+        "Aloe vera for its hydrating properties"
+    ],
+    "lifestyle_tips": [
+        "Wear sunscreen daily to protect against UV damage.",
+        "Maintain a balanced diet rich in antioxidants.",
+        "Stay hydrated by drinking plenty of water."
+    ],
+    "common_myths": [
+        "Combination skin can be fully controlled with makeup alone.",
+        "Using only oil-free products is sufficient for managing combination skin."
+    ],
+    "when_to_consult_doctor": "If breakouts persist despite proper care or if you experience severe irritation, redness, or discoloration.",
+    "prevention": [
+        "Regularly exfoliate to prevent clogged pores",
+        "Keep the skin hydrated but avoid over-moisturizing oily areas"
+    ],
+    "severity_levels": {
+        "mild": "Occasional breakouts and uneven texture that can be managed with a simple skincare routine.",
+        "moderate": "More frequent breakouts, visible oiliness in the T-zone, and dry patches on cheeks that may require more targeted treatment.",
+        "severe": "Persistent skin issues like cystic acne, significant redness, or severe dehydration that need professional intervention."
+    },
+    "expert_tips": [
+        "Use products with a non-greasy formula to avoid clogging pores.",
+        "Patch test new products before applying them all over your face.",
+        "Consult a dermatologist for personalized advice and treatment plans."
+    ]
+}

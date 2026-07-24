@@ -1,0 +1,86 @@
+{
+    "name": "Chemically Treated Hair",
+    "description": "Hair that has undergone chemical treatments such as perms, relaxers, colorings, and bleaching.",
+    "hair_texture": "Varies depending on the type of chemical treatment; can range from smooth to extremely porous and frizzy.",
+    "porosity": "Generally high due to the damage caused by chemicals, making it more prone to dryness and brittleness.",
+    "characteristics": [
+        "Strands are more susceptible to breakage and split ends",
+        "May have a different texture after treatment compared to natural hair"
+    ],
+    "common_problems": [
+        "Increased porosity leading to moisture loss",
+        "Brittle strands that can snap easily",
+        "Discolored or uneven color distribution from chemical treatments"
+    ],
+    "recommended_ingredients": [
+        "Hydrating agents like hyaluronic acid and glycerin",
+        "Protein-based ingredients for strengthening",
+        "Natural oils such as argan oil, jojoba oil, and avocado oil"
+    ],
+    "ingredients_to_avoid": [
+        "Alcohol-based products that can further dry out the hair",
+        "Sulfates which can be harsh on chemically treated hair",
+        "Formaldehyde-releasing preservatives"
+    ],
+    "recommended_product_categories": [
+        "Hydrating shampoos and conditioners",
+        "Deep moisturizing treatments",
+        "Heat protectant sprays for styling"
+    ],
+    "washing_frequency": "Every 2-3 days or as needed, depending on the intensity of the treatment and daily activities.",
+    "oil_recommendation": "Using oils like coconut oil or shea butter can provide deep hydration and protection between washes.",
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Apply a leave-in conditioner",
+            "purpose": "To moisturize the hair and reduce frizz"
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Deep condition with a mask once or twice a week",
+            "purpose": "To restore moisture and strengthen strands"
+        },
+        {
+            "step": 2,
+            "action": "Apply a lightweight oil like jojoba or argan oil to the ends of the hair",
+            "purpose": "To provide overnight hydration and protection"
+        }
+    ],
+    "weekly_care": [
+        "Deep conditioning treatments every week are recommended to replenish lost moisture."
+    ],
+    "deep_conditioning_frequency": "Once a week",
+    "heat_styling_recommendation": "Use heat protectant sprays and limit the use of heat styling tools to avoid further damage.",
+    "lifestyle_tips": [
+        "Protect hair from harsh weather conditions by wearing a scarf or hat",
+        "Minimize exposure to pollution and UV rays which can dry out chemically treated hair"
+    ],
+    "foods_for_healthy_hair": [
+        "Protein-rich foods like eggs, fish, and legumes",
+        "Fruits and vegetables rich in antioxidants such as berries, leafy greens, and oranges"
+    ],
+    "common_mistakes": [
+        "Over-washing or using harsh shampoos which can strip the hair of its natural oils",
+        "Neglecting deep conditioning sessions leading to dryness and breakage"
+    ],
+    "do": [],
+    "dont": [
+        "Do not use hot water for washing your hair as it can further damage chemically treated hair.",
+        "Do not skip regular deep conditioning treatments."
+    ],
+    "seasonal_care": {
+        "summer": "Use lighter, more hydrating products to protect against sun and heat. Increase oil application before going outside.",
+        "winter": "Focus on using richer moisturizers and deep conditioners to combat dry air. Protect hair from cold winds by wearing a scarf or hat.",
+        "monsoon": "Maintain regular care routines but be cautious of water damage from frequent rain. Ensure hair is thoroughly dried after washing."
+    },
+    "compatible_hair_types": [
+        "Hair that has undergone minimal chemical treatments",
+        "Hair that requires regular maintenance to maintain its condition"
+    ],
+    "expert_tips": [
+        "Consult a trichologist or dermatologist for personalized advice on maintaining chemically treated hair.",
+        "Regular trims can help manage split ends and maintain the overall health of your hair."
+    ]
+}

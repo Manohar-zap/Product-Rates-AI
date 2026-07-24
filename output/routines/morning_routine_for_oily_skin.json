@@ -1,0 +1,80 @@
+{
+    "routine_name": "Morning Routine for Oily Skin",
+    "routine_type": "Skincare",
+    "description": "A dermatologist-inspired morning skincare routine designed to help manage oily skin and maintain a healthy complexion.",
+    "frequency": "Daily",
+    "estimated_time": "10 minutes",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Cleansing with a gentle facial cleanser",
+            "purpose": "To remove impurities and excess oil from the skin without stripping natural oils.",
+            "recommended_ingredients": [
+                "Salicylic Acid",
+                "Gentle Foaming Agents"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Toning to balance pH levels and tighten pores",
+            "purpose": "To refine texture and minimize the appearance of pores, preparing the skin for subsequent products.",
+            "recommended_ingredients": [
+                "Lavender Water",
+                "Willow Bark Extract"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Applying a lightweight moisturizer suitable for oily skin",
+            "purpose": "To hydrate the skin and provide a barrier against external irritants while managing sebum production.",
+            "recommended_ingredients": [
+                "Squalane",
+                "Glycerin",
+                "Rosehip Oil"
+            ]
+        },
+        {
+            "step": 4,
+            "action": "Protecting with a non-comedogenic sunscreen",
+            "purpose": "To shield the skin from harmful UV rays and prevent sun damage, which can exacerbate oily skin conditions.",
+            "recommended_ingredients": [
+                "Broad Spectrum SPF 30 or higher",
+                "Titanium Dioxide"
+            ]
+        }
+    ],
+    "night_steps": [],
+    "weekly_steps": [
+        {
+            "day": "Sunday",
+            "action": "Deep cleansing facial mask"
+        }
+    ],
+    "do": [
+        "Apply sunscreen daily, even on cloudy days.",
+        "Maintain a consistent skincare routine."
+    ],
+    "dont": [
+        "Skip exfoliation too often; use it once or twice weekly only if needed and with caution to avoid irritation.",
+        "Over-wash your face, as this can irritate the skin and increase oil production."
+    ],
+    "common_mistakes": [
+        "Using heavy, greasy moisturizers that can clog pores in oily skin types.",
+        "Neglecting to cleanse thoroughly before applying makeup or SPF."
+    ],
+    "best_products_categories": [
+        "Cleansers",
+        "Toners",
+        "Moisturizers",
+        "Sunscreens"
+    ],
+    "expected_results": {
+        "2_weeks": "Reduction in oiliness and improved skin texture.",
+        "1_month": "Softer, smoother, and less congested skin with enhanced radiance.",
+        "3_months": "Significantly reduced appearance of pores and fewer breakouts."
+    },
+    "expert_tips": [
+        "Stay hydrated by drinking plenty of water throughout the day to support overall skin health.",
+        "Eat a balanced diet rich in antioxidants and healthy fats, which can positively affect your skin's condition."
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "name": "Dandruff",
+    "category": "Skin Conditions",
+    "description": "Dandruff is a common scalp condition characterized by the excessive production of skin cells on the scalp, leading to flaky white or gray scales and flakes that can be seen in the hair or on clothes. It can also cause itching.",
+    "causes": [
+        "Oily Scalp",
+        "Dry Skin",
+        "Fungal Infections (such as Malassezia)",
+        "Seborrheic Dermatitis",
+        "Psoriasis",
+        "Allergies to Hair Care Products",
+        "Stress"
+    ],
+    "symptoms": [
+        "Flaking of the scalp, visible as white or gray scales",
+        "Itchy scalp",
+        "Redness and inflammation on the scalp",
+        "Greasy residue on hair and shoulders"
+    ],
+    "risk_factors": [
+        "Oily Scalp",
+        "Eczema or Psoriasis History",
+        "Stress",
+        "Genetics",
+        "Certain Medical Conditions (such as HIV/AIDS, Parkinson's Disease)"
+    ],
+    "recommended_ingredients": [
+        "Salicylic Acid",
+        "Coal Tar",
+        "Zinc Pyrithione",
+        "Selenium Sulfide",
+        "Ketoconazole"
+    ],
+    "ingredients_to_avoid": [
+        "Harsh Surfactants",
+        "Alcohol (especially in high concentrations)",
+        "Fragrances and other Irritants"
+    ],
+    "recommended_product_categories": [
+        "Anti-dandruff Shampoos",
+        "Conditioners with Dandruff Treatment Ingredients",
+        "Hair Masks for Scalp Care"
+    ],
+    "daily_routine": [
+        {
+            "step": "Cleanse the scalp daily",
+            "purpose": "Helps remove excess oil and flakes, preventing buildup."
+        },
+        {
+            "step": "Apply a leave-in treatment or conditioner after shampooing",
+            "purpose": "Provides nourishment to the scalp and hair, helping to reduce flakiness."
+        }
+    ],
+    "professional_treatments": [
+        "Prescription Strength Shampoos",
+        "Topical Steroids",
+        "Phototherapy"
+    ],
+    "natural_remedies": [
+        "Applying Olive Oil or Coconut Oil to the Scalp",
+        "Using a Gentle Scalp Scrub",
+        "Rinsing with Apple Cider Vinegar Solution"
+    ],
+    "lifestyle_tips": [
+        "Maintain a Healthy Diet Rich in Omega-3 Fatty Acids and Antioxidants",
+        "Manage Stress Through Exercise, Meditation, or Therapy",
+        "Avoid Harsh Chemicals and Irritants in Hair Care Products"
+    ],
+    "common_myths": [
+        "Dandruff is caused by poor hygiene.",
+        "Shampooing more often will get rid of dandruff.",
+        "Only people with oily scalps can have dandruff."
+    ],
+    "when_to_consult_doctor": "If over-the-counter treatments do not improve symptoms, if there are signs of infection (redness, pain, pus), or if the condition significantly affects daily life.",
+    "prevention": [
+        "Maintaining a Balanced Diet",
+        "Regularly Cleansing the Scalp to Prevent Buildup",
+        "Using Gentle Hair Care Products"
+    ],
+    "severity_levels": {
+        "mild": "Minimal flaking, no significant discomfort or changes in appearance. Symptoms may be manageable with over-the-counter products.",
+        "moderate": "Moderate scaling and itching, visible flakes on clothing. May require stronger shampoos or additional home care measures.",
+        "severe": "Severe scaling, intense itching, and redness. Requires professional treatment to manage symptoms."
+    },
+    "expert_tips": [
+        "Patch Test New Products Before Full Application",
+        "Consult a Dermatologist for Persistent Cases",
+        "Stay Hydrated and Maintain Overall Skin Health"
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "name": "Acne Scars",
+    "category": "Dermatological Conditions",
+    "description": "Acne scars are visible marks left on the skin after acne lesions have healed. These can vary in appearance and severity, from shallow indentations to deeper pits or raised areas.",
+    "causes": [
+        "Severe or long-lasting acne",
+        "Inflammation during acne outbreaks",
+        "Skin damage from picking or squeezing acne"
+    ],
+    "symptoms": [
+        "Raised or sunken areas of skin",
+        "Redness or discoloration around the scarred area",
+        "Irregular skin texture in the affected area"
+    ],
+    "risk_factors": [
+        "Severe acne",
+        "History of picking or squeezing acne lesions",
+        "Genetic predisposition to scarring",
+        "Hormonal changes"
+    ],
+    "recommended_ingredients": [
+        "Retinoids",
+        "Vitamin C",
+        "Hyaluronic Acid",
+        "Lactic Acid",
+        "Niacinamide"
+    ],
+    "ingredients_to_avoid": [
+        "Harsh exfoliants that can irritate the skin further",
+        "Sulfates",
+        "Alcohol-based products"
+    ],
+    "recommended_product_categories": [
+        "Serums",
+        "Gels",
+        "Creams",
+        "Treatments for acne scars"
+    ],
+    "daily_routine": [
+        {
+            "step": "Cleanse the skin with a gentle cleanser",
+            "purpose": "Remove dirt and oil to prevent clogged pores"
+        },
+        {
+            "step": "Apply a hydrating toner",
+            "purpose": "Maintain skin's moisture balance"
+        },
+        {
+            "step": "Use an acne-fighting serum containing retinoids or vitamin C",
+            "purpose": "Promote cell turnover and reduce discoloration"
+        },
+        {
+            "step": "Apply a lightweight moisturizer",
+            "purpose": "Provide hydration to support skin repair"
+        },
+        {
+            "step": "Use a broad-spectrum sunscreen daily",
+            "purpose": "Protect the skin from UV damage which can worsen scarring"
+        }
+    ],
+    "professional_treatments": [
+        "Chemical Peels",
+        "Microdermabrasion",
+        "Laser Therapy",
+        "Intralesional Steroid Injections",
+        "Microneedling"
+    ],
+    "natural_remedies": [],
+    "lifestyle_tips": [
+        "Maintain a healthy diet rich in antioxidants",
+        "Stay well-hydrated by drinking plenty of water",
+        "Avoid touching or picking at acne lesions",
+        "Manage stress levels through exercise and relaxation techniques"
+    ],
+    "common_myths": [
+        "Picking at acne will make the scars go away faster - False, this can worsen scarring",
+        "Sun exposure helps clear up acne scars - False, UV rays can actually worsen scarring and lead to hyperpigmentation",
+        "All skin types should use the same treatment for acne scars - Not necessarily true, treatments should be tailored to individual skin type and severity of scarring"
+    ],
+    "when_to_consult_doctor": "If you have severe or persistent acne that doesn't respond to over-the-counter products, if you experience significant discomfort from your acne, or if you're concerned about the appearance of acne scars.",
+    "prevention": [
+        "Maintain a consistent skincare routine",
+        "Use non-comedogenic products",
+        "Manage stress levels",
+        "Eat a balanced diet",
+        "Wash your face twice daily with gentle cleansers"
+    ],
+    "severity_levels": {
+        "mild": "Shallow scars that are barely visible and do not affect the skin's texture significantly.",
+        "moderate": "Visible indentations or elevated areas on the skin that can be seen but may not cause significant discomfort.",
+        "severe": "Deep, noticeable depressions in the skin that can impact both appearance and self-esteem."
+    },
+    "expert_tips": [
+        "Consult a dermatologist to determine the best treatment options for your specific condition",
+        "Be patient as results from treatments may take several months to show",
+        "Consistency is key - follow the recommended routine or treatment plan consistently"
+    ]
+}

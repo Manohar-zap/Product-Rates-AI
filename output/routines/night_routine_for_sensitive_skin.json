@@ -1,0 +1,96 @@
+{
+    "routine_name": "Sensitive Skin Night Routine",
+    "routine_type": "Skincare",
+    "description": "A gentle and soothing night routine for sensitive skin to promote healthy, clear, and hydrated skin overnight.",
+    "frequency": "Every night",
+    "estimated_time": "10-15 minutes",
+    "morning_steps": [],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Wash face with a gentle, fragrance-free cleanser",
+            "purpose": "Removes impurities and prepares the skin for night products without irritating it.",
+            "recommended_ingredients": [
+                "Gentle foaming agents",
+                "Aloe vera"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Apply a thin layer of hydrating toner",
+            "purpose": "Balances pH levels and provides additional hydration, making the skin more receptive to other products.",
+            "recommended_ingredients": [
+                "Jojoba alcohol",
+                "Hyaluronic acid"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Use a light serum that contains antioxidants and peptides",
+            "purpose": "Protects against environmental damage and promotes skin cell regeneration, while also improving texture and reducing fine lines.",
+            "recommended_ingredients": [
+                "Vitamin C",
+                "Niacinamide",
+                "Peptides"
+            ]
+        },
+        {
+            "step": 4,
+            "action": "Moisturize with a rich, fragrance-free cream",
+            "purpose": "Locks in moisture and provides long-lasting hydration to the skin throughout the night.",
+            "recommended_ingredients": [
+                "Glycerin",
+                "Hyaluronic acid",
+                "Ceramides"
+            ]
+        },
+        {
+            "step": 5,
+            "action": "Apply a thin layer of a gentle, non-comedogenic night cream with soothing ingredients",
+            "purpose": "Provides an extra layer of protection and supports overall skin health during the sleep cycle.",
+            "recommended_ingredients": [
+                "Chamomile extract",
+                "Calendula extract",
+                "Allantoin"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Sunday",
+            "action": "Exfoliate with a gentle, chemical exfoliant containing lactic or salicylic acid"
+        }
+    ],
+    "do": [
+        "Choose products labeled 'hypoallergenic' and 'fragrance-free'",
+        "Patch test new products before full application",
+        "Stay consistent with your routine for best results"
+    ],
+    "dont": [
+        "Skip the moisturizer step, as it's crucial for overnight hydration",
+        "Use exfoliants more than once a week if you have sensitive skin",
+        "Apply heavy or occlusive products that can clog pores and irritate sensitive skin"
+    ],
+    "common_mistakes": [
+        "Using products with harsh ingredients that can cause further irritation",
+        "Over-exfoliating, which can disrupt the skin barrier",
+        "Not using a moisturizer at night, leading to dryness and potential irritation"
+    ],
+    "best_products_categories": [
+        "Cleansers",
+        "Toners",
+        "Serums",
+        "Moisturizers",
+        "Night Creams"
+    ],
+    "expected_results": {
+        "2_weeks": "Reduced redness, increased hydration, and a more balanced skin tone.",
+        "1_month": "Soothes the skin barrier, reduces inflammation, and improves overall skin texture and appearance.",
+        "3_months": "Long-term improvement in skin health, with reduced sensitivity to environmental factors."
+    },
+    "expert_tips": [
+        "Always consult with a dermatologist before starting any new skincare routine, especially if you have sensitive or reactive skin.",
+        "Maintain a consistent routine but be willing to adjust products based on your skin’s changing needs over time.",
+        "Stay hydrated and maintain a balanced diet for overall health and glowing skin."
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Cucumber",
+    "scientific_name": "Cucumis sativus",
+    "category": "Herb",
+    "description": "Cucumber is a widely cultivated plant that bears elongated fruits, which are used in various culinary and cosmetic applications. It is known for its high water content, mild flavor, and soothing properties.",
+    "benefits_skin": [
+        "Hydrates the skin due to its high water content",
+        "Reduces puffiness and inflammation",
+        "Provides a cooling sensation on the skin"
+    ],
+    "benefits_hair": [],
+    "best_for": [
+        "Dry or sensitive skin types",
+        "Skin conditions requiring hydration and soothing"
+    ],
+    "avoid_for": [
+        "Individuals with cucumber allergies",
+        "Those using products that can cause irritation if combined with cucumbers"
+    ],
+    "how_to_use": [
+        "Apply cucumber slices directly to the skin for a cooling effect",
+        "Use cucumber-based toners or masks as part of your skincare routine",
+        "Incorporate cucumber into DIY face masks and scrubs",
+        "Consume cucumber to promote overall hydration from within"
+    ],
+    "possible_side_effects": [
+        "May cause allergic reactions in sensitive individuals",
+        "Can lead to skin irritation if overused, especially on broken or irritated skin"
+    ],
+    "works_well_with": [
+        "Aloe vera",
+        "Honey",
+        "Gelatin",
+        "Yogurt"
+    ],
+    "scientific_evidence": "Studies have shown that cucumber can help in moisturizing the skin and reducing inflammation (Source: Journal of Ethnopharmacology). However, more research is needed to fully understand its effects on various skin conditions.",
+    "rating": 4
+}

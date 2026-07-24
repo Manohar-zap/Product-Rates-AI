@@ -1,0 +1,94 @@
+{
+    "routine_name": "Acne Skincare Routine",
+    "routine_type": "skin",
+    "description": "A dermatologist-inspired skincare routine designed to address and manage acne, focusing on cleansing, treating, and moisturizing the skin while avoiding overexfoliation and irritation.",
+    "frequency": "Daily for morning and night, with a deep-cleansing treatment once weekly",
+    "estimated_time": "10-15 minutes per day, plus 30 minutes for the weekly deep cleanse",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Cleansing the face with a gentle cleanser",
+            "purpose": "To remove impurities and excess sebum without stripping the skin of its natural oils",
+            "recommended_ingredients": [
+                "Salicylic Acid",
+                "Gentle Foaming Agents"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Applying a lightweight, non-comedogenic moisturizer",
+            "purpose": "To hydrate the skin and maintain the skin barrier integrity",
+            "recommended_ingredients": [
+                "Hyaluronic Acid",
+                "Niacinamide"
+            ]
+        }
+    ],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Cleansing the face with a gentle cleanser",
+            "purpose": "To remove impurities and excess sebum without stripping the skin of its natural oils",
+            "recommended_ingredients": [
+                "Salicylic Acid",
+                "Gentle Foaming Agents"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Applying an overnight serum rich in ingredients that target acne, such as retinol or azelaic acid",
+            "purpose": "To promote cell turnover and reduce inflammation",
+            "recommended_ingredients": [
+                "Retinol",
+                "Azelaic Acid"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Applying a lightweight, non-comedogenic moisturizer",
+            "purpose": "To hydrate the skin while you sleep",
+            "recommended_ingredients": [
+                "Hyaluronic Acid",
+                "Niacinamide"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Saturday or Sunday",
+            "action": "Performing a deep-cleansing treatment using a clay mask or charcoal sheet mask"
+        }
+    ],
+    "do": [
+        "Use products with non-comedogenic and fragrance-free labels to minimize irritation and breakouts",
+        "Stay consistent with your routine, even if you notice improvements early on",
+        "Drink plenty of water and maintain a healthy diet rich in fruits and vegetables"
+    ],
+    "dont": [
+        "Overuse exfoliants or retinoids, as this can lead to dryness and irritation",
+        "Touch or pick at acne lesions; doing so can worsen the condition and cause scarring",
+        "Skip sunscreen during the day; sun exposure can exacerbate acne"
+    ],
+    "common_mistakes": [
+        "Using harsh scrubs or over-exfoliating, which can irritate the skin and lead to more breakouts",
+        "Failing to change pillowcases regularly (at least once a week) as they can harbor bacteria and oils that contribute to acne",
+        "Rushing results; acne treatment often takes several weeks to show noticeable improvements"
+    ],
+    "best_products_categories": [
+        "Cleansers",
+        "Serums",
+        "Moisturizers",
+        "Spot Treatments",
+        "Sunscreens"
+    ],
+    "expected_results": {
+        "2_weeks": "Reduced redness and inflammation, smaller appearance of pores, fewer visible blackheads or whiteheads",
+        "1_month": "Noticeable reduction in acne lesions, improved skin texture, more even skin tone",
+        "3_months": "Significant decrease in active breakouts, clearer complexion, enhanced overall skin health"
+    },
+    "expert_tips": [
+        "Patch test new products to ensure they do not cause irritation or allergic reactions",
+        "Consult a dermatologist if you are considering stronger treatments like prescription medications or chemical peels",
+        "Stay patient and consistent; results may take time, but maintaining your routine will yield better outcomes"
+    ]
+}

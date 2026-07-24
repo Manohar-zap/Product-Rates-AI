@@ -1,0 +1,90 @@
+{
+    "name": "Wavy Hair",
+    "description": "Wavy hair has a distinct, gentle S-shaped curve that can range from loose and flowing to tight and more defined. This hair type often requires gentle handling due to its natural tendency to curl.",
+    "hair_texture": "Curly or wavy with defined or subtle curls",
+    "porosity": "Moderate to high porosity",
+    "characteristics": [
+        "Natural S-shaped curve",
+        "Can vary from loose to tight waves"
+    ],
+    "common_problems": [
+        "Frizz and flyaways",
+        "Dullness and dryness due to overprocessing or chemical treatments",
+        "Split ends and breakage"
+    ],
+    "recommended_ingredients": [
+        "Hydrating ingredients like coconut oil, argan oil, and aloe vera",
+        "Humectants such as glycerin and hyaluronic acid",
+        "Protein treatments to strengthen the hair structure",
+        "Anti-frizz serums containing quaternium-10 or dimethicone"
+    ],
+    "ingredients_to_avoid": [
+        "Harsh sulfates that can strip natural oils from wavy hair",
+        "Alcohol-based products which can dry out the hair",
+        "High heat styling tools that can damage the cuticle layer"
+    ],
+    "recommended_product_categories": [
+        "Hydrating shampoos and conditioners",
+        "Deep conditioning treatments",
+        "Leave-in conditioners or creams",
+        "Heat protectant sprays for styling with heat"
+    ],
+    "washing_frequency": "Every 2-3 days, depending on lifestyle and oil production",
+    "oil_recommendation": "Use lightweight oils like jojoba or argan oil as needed to keep hair moisturized without weighing it down.",
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Rinse hair with cool water to close the cuticle layer",
+            "purpose": "Prep hair for a smooth texture"
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Apply a hydrating leave-in conditioner or moisturizing cream while hair is still damp",
+            "purpose": "Lock in moisture overnight and reduce frizz"
+        },
+        {
+            "step": 2,
+            "action": "Gently massage the scalp to promote blood circulation",
+            "purpose": "Boost hair growth and overall scalp health"
+        }
+    ],
+    "weekly_care": [
+        "Deep condition once a week using a mask or intensive treatment to replenish moisture"
+    ],
+    "deep_conditioning_frequency": "Once a week",
+    "heat_styling_recommendation": "Use heat protectant before styling with hot tools, and limit use to avoid damage.",
+    "lifestyle_tips": [
+        "Protect hair from environmental stressors like UV rays by wearing a hat or using UV-protective products"
+    ],
+    "foods_for_healthy_hair": [
+        "Proteins from eggs, fish, and legumes",
+        "Omega-3 fatty acids from flaxseeds and walnuts",
+        "Vitamins A, C, and E found in fruits and vegetables"
+    ],
+    "common_mistakes": [
+        "Over-washing or using too much shampoo can strip natural oils.",
+        "Using hot water for washing can open the cuticle layer, leading to dryness."
+    ],
+    "do": [
+        "Regularly deep condition with natural ingredients",
+        "Use a wide-tooth comb when detangling to avoid breakage"
+    ],
+    "dont": [
+        "Skip conditioning or skip using heat protectant before styling",
+        "Avoid tight hairstyles that can cause tension and breakage"
+    ],
+    "seasonal_care": {
+        "summer": "Protect hair from sun exposure with hats or UV-protective products, use light moisturizers to avoid greasiness.",
+        "winter": "Use richer conditioners and oils during colder months to combat dryness and frizz.",
+        "monsoon": "Regularly deep condition to manage moisture and salt water damage."
+    },
+    "compatible_hair_types": [
+        "Curly Hair"
+    ],
+    "expert_tips": [
+        "Wear a silk or satin pillowcase to reduce friction during sleep, which can cause breakage.",
+        "Apply a leave-in conditioner before blow-drying to help maintain curl definition and prevent heat damage."
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "routine_name": "Acne-Prone Skin Night Routine",
+    "routine_type": "Skincare",
+    "description": "A professional dermatologist-inspired nighttime skincare routine to address acne-prone skin, focusing on cleansing, exfoliating, treating existing blemishes, and protecting the skin while it repairs itself during sleep.",
+    "frequency": "Once daily, typically at night before bed",
+    "estimated_time": "15-20 minutes",
+    "morning_steps": [],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Cleansing with a gentle yet effective cleanser",
+            "purpose": "Remove dirt, oil, and makeup from the skin's surface without stripping its natural oils",
+            "recommended_ingredients": [
+                "Sodium Lauroyl Sarcosinate",
+                "Glyceryl Caprylate"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Exfoliating with a chemical exfoliant (if needed)",
+            "purpose": "Helps remove dead skin cells to reduce pore size and improve texture",
+            "recommended_ingredients": [
+                "Lactic Acid",
+                "AHA Mixture"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Applying an acne-fighting serum or treatment",
+            "purpose": "Target blemishes with ingredients that help prevent breakouts and reduce inflammation",
+            "recommended_ingredients": [
+                "Salicylic Acid",
+                "Retinol",
+                "Tea Tree Oil"
+            ]
+        },
+        {
+            "step": 4,
+            "action": "Using a hydrating but non-comedogenic moisturizer",
+            "purpose": "Lock in moisture without clogging pores, ensuring the skin is properly hydrated and ready for the next day",
+            "recommended_ingredients": [
+                "Squalane",
+                "Glycerin"
+            ]
+        },
+        {
+            "step": 5,
+            "action": "Applying a broad-spectrum SPF (if used during the day)",
+            "purpose": "Protects against UV damage, which can exacerbate acne and lead to hyperpigmentation",
+            "recommended_ingredients": [
+                "Titanium Dioxide",
+                "Zinc Oxide"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Sunday",
+            "action": "Deep cleansing or charcoal mask"
+        }
+    ],
+    "do": [],
+    "dont": [],
+    "common_mistakes": [
+        "Over-exfoliating, which can irritate the skin and worsen acne"
+    ],
+    "best_products_categories": [
+        "Cleansers",
+        "Exfoliants",
+        "Serums/Treatments",
+        "Moisturizers",
+        "Sun Protection"
+    ],
+    "expected_results": {
+        "2_weeks": "Reduction in the number and size of existing blemishes, smoother skin texture, and an overall improvement in skin appearance.",
+        "1_month": "A noticeable decrease in new breakouts, improved skin tone, and potentially fewer blackheads and whiteheads.",
+        "3_months": "Long-term reduction in acne, clearer pores, and a more balanced skin barrier."
+    },
+    "expert_tips": [
+        "Always patch test new products to ensure compatibility with your skin type",
+        "Stay consistent with the routine for best results"
+    ]
+}

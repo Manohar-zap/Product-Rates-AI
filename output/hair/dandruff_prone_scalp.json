@@ -1,0 +1,87 @@
+{
+    "name": "Dandruff Prone Scalp",
+    "description": "A scalp condition characterized by flaking skin and visible dandruff, which can be caused by various factors including dryness, oiliness, or underlying medical conditions.",
+    "hair_texture": "",
+    "porosity": "",
+    "characteristics": [
+        "Flaky white or yellowish scales",
+        "Itching and irritation"
+    ],
+    "common_problems": [
+        "Irritation and discomfort",
+        "Visible flakes in hair and on clothes",
+        "Occasional scalp redness and inflammation"
+    ],
+    "recommended_ingredients": [
+        "Antifungal agents (e.g., zinc pyrithione)",
+        "Soothing agents (e.g., chamomile, aloe vera)",
+        "Anti-inflammatory ingredients (e.g., salicylic acid)"
+    ],
+    "ingredients_to_avoid": [
+        "Harsh sulfates",
+        "Alcohol-based products",
+        "Strong fragrances"
+    ],
+    "recommended_product_categories": [
+        "Shampoos and conditioners designed for dandruff",
+        "Anti-dandruff serums or treatments"
+    ],
+    "washing_frequency": "Twice a week, or as directed by a dermatologist",
+    "oil_recommendation": "",
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Wash your hair with an anti-dandruff shampoo.",
+            "purpose": "Remove dandruff and prevent further flaking."
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Rinse thoroughly to remove all traces of the shampoo.",
+            "purpose": "Ensure no residue remains, which could cause irritation."
+        }
+    ],
+    "weekly_care": [
+        "Apply a leave-in anti-dandruff treatment if recommended by your dermatologist."
+    ],
+    "deep_conditioning_frequency": "Once a month or as needed",
+    "heat_styling_recommendation": "Minimize heat styling, and use heat protectants when necessary.",
+    "lifestyle_tips": [
+        "Maintain good scalp hygiene",
+        "Use gentle hair care products without harsh chemicals"
+    ],
+    "foods_for_healthy_hair": [
+        "Oily fish (Omega-3 fatty acids)",
+        "Nuts and seeds (Vitamin E, protein)",
+        "Dark leafy greens (Iron, folic acid)"
+    ],
+    "common_mistakes": [
+        "Over-washing the scalp",
+        "Using products that do not address dandruff",
+        "Ignoring symptoms and not seeking professional advice"
+    ],
+    "do": [
+        "Follow a consistent skincare routine as recommended by your dermatologist",
+        "Stay hydrated to help manage dryness",
+        "Consider using natural oils like tea tree oil for mild relief (consult with a dermatologist before use)"
+    ],
+    "dont": [
+        "Scratch the scalp, which can irritate and worsen dandruff",
+        "Use overly strong or irritating products",
+        "Assume that all flakes are due to dandruff; consult a professional if unsure"
+    ],
+    "seasonal_care": {
+        "summer": "Stay hydrated and use gentle hair care products to prevent dryness.",
+        "winter": "Moisturize regularly, as cold weather can strip the scalp of natural oils.",
+        "monsoon": "Protect your scalp from excessive moisture, which can lead to fungal growth."
+    },
+    "compatible_hair_types": [
+        "Normal",
+        "Oily"
+    ],
+    "expert_tips": [
+        "Regular follow-ups with a dermatologist are essential for managing dandruff.",
+        "Use a scalp massager during your routine to improve circulation and promote healthier skin."
+    ]
+}

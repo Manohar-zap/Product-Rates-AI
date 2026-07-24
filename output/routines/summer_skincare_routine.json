@@ -1,0 +1,83 @@
+{
+    "routine_name": "Summer Skincare Routine",
+    "routine_type": "skincare",
+    "description": "A dermatologist-inspired skincare routine tailored for the summer season, focusing on protection from UV rays and keeping skin hydrated.",
+    "frequency": "daily for morning and night steps; weekly for exfoliation and mask treatments",
+    "estimated_time": "20-30 minutes daily",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Apply a gentle cleanser",
+            "purpose": "Remove impurities and prepare the skin for treatment.",
+            "recommended_ingredients": [
+                "Gentle foaming agents",
+                "Soothing ingredients like chamomile or aloe vera"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Moisturize with a lightweight formula",
+            "purpose": "Hydrate the skin and lock in moisture for the day.",
+            "recommended_ingredients": [
+                "Humectants",
+                "Fatty acids",
+                "Light sunscreen SPF 30"
+            ]
+        }
+    ],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Cleanse with a gentle cleanser",
+            "purpose": "Remove dirt, sweat, and makeup without stripping the skin.",
+            "recommended_ingredients": [
+                "Gentle foaming agents",
+                "Soothing ingredients like chamomile or aloe vera"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Apply a rich moisturizer",
+            "purpose": "Replenish moisture and support the skin's natural barrier.",
+            "recommended_ingredients": [
+                "Intense emollients",
+                "Antioxidants like vitamin C or E"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Every Sunday",
+            "action": "Exfoliate with a chemical exfoliant"
+        },
+        {
+            "day": "Every Monday",
+            "action": "Apply a hydrating mask"
+        }
+    ],
+    "do": [],
+    "dont": [
+        "Avoid over-exfoliating, which can irritate the skin and make it more sensitive to UV rays.",
+        "Do not use heavy products during summer as they may clog pores and cause breakouts."
+    ],
+    "common_mistakes": [
+        "Overusing alcohol-based toners",
+        "Not reapplying sunscreen every two hours when outdoors"
+    ],
+    "best_products_categories": [
+        "Gentle cleansers",
+        "Lightweight moisturizers",
+        "Hydrating masks",
+        "Chemical exfoliants",
+        "Sunscreen SPF 30 or higher"
+    ],
+    "expected_results": {
+        "2_weeks": "Skin should feel more hydrated and have a smoother texture.",
+        "1_month": "Significant improvement in skin hydration and reduced appearance of fine lines.",
+        "3_months": "Improved skin barrier function, fewer breakouts, and overall healthier-looking skin."
+    },
+    "expert_tips": [
+        "Stay hydrated by drinking plenty of water daily to support your skin's moisture levels from the inside out.",
+        "Protect your skin from UV rays using a combination of physical barriers like hats and sunglasses, as well as chemical sunscreens."
+    ]
+}

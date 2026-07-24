@@ -1,0 +1,87 @@
+{
+    "routine_name": "Rosacea Care Routine",
+    "routine_type": "Skincare",
+    "description": "A dermatologist-inspired skincare routine tailored for individuals with rosacea, designed to soothe irritated skin and manage symptoms effectively.",
+    "frequency": "Daily (morning and night) with a weekly exfoliation session.",
+    "estimated_time": "10-15 minutes daily; 20-30 minutes on the weekly exfoliation day",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Cleanse face gently using a mild, fragrance-free cleanser.",
+            "purpose": "Remove impurities and prepare skin for daytime care without irritating it further.",
+            "recommended_ingredients": [
+                "Cleansers containing niacinamide or hyaluronic acid"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Apply a broad-spectrum sunscreen with at least SPF 30.",
+            "purpose": "Protect the skin from harmful UV rays, which can exacerbate rosacea symptoms.",
+            "recommended_ingredients": [
+                "Sunscreen with zinc oxide or titanium dioxide"
+            ]
+        }
+    ],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Cleans face using a gentle, non-foaming cleanser to remove oils and impurities from the day.",
+            "purpose": "Prepare skin for nighttime care without stripping it of its natural moisture.",
+            "recommended_ingredients": [
+                "Gentle cleansers with glycerin or panthenol"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Moisturize using a lightweight, non-comedogenic formula that hydrates the skin.",
+            "purpose": "Hydrate and soothe the skin to support its barrier function overnight.",
+            "recommended_ingredients": [
+                "Moisturizers containing ceramides or niacinamide"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Apply a targeted treatment for rosacea, such as a 1% azelaic acid cream or 4% metronidazole gel.",
+            "purpose": "Reduce redness and inflammation associated with rosacea.",
+            "recommended_ingredients": [
+                "Azelaic acid cream or Metronidazole gel"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Sunday",
+            "action": "Gently exfoliate using a chemical exfoliant like salicylic acid or lactic acid to remove dead skin cells and improve the appearance of pores."
+        }
+    ],
+    "do": [
+        "Use cool compresses when feeling flare-ups.",
+        "Stay out of direct sunlight and wear protective clothing when necessary.",
+        "Follow a balanced diet rich in anti-inflammatory foods such as fruits, vegetables, and whole grains."
+    ],
+    "dont": [
+        "Avoid hot showers or baths.",
+        "Do not use harsh scrubs or abrasive exfoliants.",
+        "Steer clear of alcohol-based products which can irritate the skin."
+    ],
+    "common_mistakes": [
+        "Over-washing the face, especially with hot water, which can strip natural oils and worsen symptoms.",
+        "Using skincare products containing irritating ingredients like fragrances or alcohol.",
+        "Failing to wear sunscreen daily as UV exposure can exacerbate rosacea."
+    ],
+    "best_products_categories": [
+        "Cleansers",
+        "Sunscreens",
+        "Moisturizers",
+        "Treatments for Rosacea"
+    ],
+    "expected_results": {
+        "2_weeks": "Redness and inflammation should be visibly reduced, with a decrease in the appearance of visible blood vessels.",
+        "1_month": "The skin's overall texture may improve, with a reduction in fine lines or rough patches caused by irritation.",
+        "3_months": "Patients should notice significant improvement in their rosacea symptoms, feeling more comfortable and confident."
+    },
+    "expert_tips": [
+        "Consult a dermatologist to get the best advice on skincare products and routines tailored to your specific needs.",
+        "Be patient; changes will take time and consistent care."
+    ]
+}

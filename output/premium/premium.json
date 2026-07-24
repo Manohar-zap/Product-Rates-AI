@@ -1,0 +1,842 @@
+[
+    {
+        "name": "Cetaphil Gentle Skin Cleanser",
+        "brand": "Cetaphil",
+        "category": "Cleanser",
+        "price": 1747.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ4qss5ghVF3yTcOQM2aCWO8NhhRltaaZMhT61Qvt-ZcBT_MG5MB58cAf6l-y5KGLNJwDYR6cnVNaBmvIGRuXFxD3VLJHo1ncD6O_t3p-6sKzFDrjgcZY6tKQ",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Cleanser India&prds=catalogid:1485145886022720351,productid:16725220540452022130,headlineOfferDocid:12139127488466140083,imageDocid:10568265253955886642,rds:PC_5494597209555166260|PROD_PC_5494597209555166260,gpcid:4358694546317182074,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Myntra"
+    },
+    {
+        "name": "Forest Essentials Delicate Facial Cleanser",
+        "brand": "Forest",
+        "category": "Cleanser",
+        "price": 1295.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTaKXRFlXNdRxgucpDedBygt8sbG_VX14Cg8S8h7bO6Y1AKT98-laFMDh5I1VgYcqM8N9klI3cPdNqNuB4dyckheI8eFW0zpKibLcxkNx5unDIG7H6_uWgqUQ",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Cleanser India&prds=catalogid:14641060754994365384,productid:10475947506979038865,headlineOfferDocid:13858479837940372186,imageDocid:7158615525250370756,rds:PC_10648522750945175278|PROD_PC_10648522750945175278,gpcid:10648522750945175278,mid:576462702533858637,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Forest Essentials India"
+    },
+    {
+        "name": "Skin1004 Madagascar Centella Light Cleansing Oil",
+        "brand": "Skin1004",
+        "category": "Cleanser",
+        "price": 1899.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSEbTQSxiYb0LAu6GObLpRGVT-1s1kz8jwj2XeTMaDYWO_pdkknv8wBwi64ZCD97tzMn9fwduIQF1MCjPgoDU3YtQYK4Hi4UKf6ufGdA2BVH8RbU-XWA-f0uA",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Cleanser India&prds=catalogid:15978095368672687976,productid:15698846640841238116,headlineOfferDocid:11636558014297931062,imageDocid:5275339537333230870,rds:PC_13456310203334995826|PROD_PC_13456310203334995826,gpcid:13456310203334995826,mid:576462659030394131,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Myntra"
+    },
+    {
+        "name": "The Face Shop 2 Step Brightening Routine combo | Rice Water Bright Foaming Cleanser (150ml) + Rice & Ceramide Moisturizing Emulsion (150ml)",
+        "brand": "The",
+        "category": "Cleanser",
+        "price": 1700.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT3tJr31OeHQpqvN23wWZFP-BUYYmtAKPmBj-_sX-sOEWqp2KV6btbydlzVszcunoZzGyV98QHOvhItmzuXd1FqJZ6WpOgU2MHHt3cpqGiLy2vEhxy8xvUZ",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Cleanser India&prds=productid:11746808761121344822,headlineOfferDocid:11746808761121344822,imageDocid:7289998756808643343,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Amazon.in"
+    },
+    {
+        "name": "Sadhev Ayurvedic Facial Cleanser for Sensitive Skin",
+        "brand": "Sadhev",
+        "category": "Cleanser",
+        "price": 1863.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRDKm-RhwN_eIMBeAVLI-o8r2DJWIbuLH1Cvh9_a_b_B5onIpquwIvlV8C8WpgK0RAzzB9LUkWiaslSPbLSQXVEGccizmDEFYrfIzhb812Gr6ySbn7k0a3vRQ",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Cleanser India&prds=catalogid:16018638848211910699,productid:1472318450891817619,headlineOfferDocid:7563431063014396193,imageDocid:5606588015368041537,gpcid:4307548373563794163,mid:576462851788983996,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Sadhev"
+    },
+    {
+        "name": "Kama Ayurveda Urjasara Moisturising & Plumping Water Cream",
+        "brand": "Kama",
+        "category": "Moisturizer",
+        "price": 1000.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTiGFn2-BehGw95Dlb0XtHJgF0bX8LhlKEIKTW5TtusOZsPAKYYBqya4OIYnqxZEaySKz_uwSpi4o9CNrmJbybhvjEOXGEK0yg5G3bl2K5feiwNKeyLk5Rjnw",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Moisturizer India&prds=catalogid:7153891435165808669,productid:12959139294425298354,headlineOfferDocid:7781694267610748793,imageDocid:10467503446161164320,gpcid:2046900136421828,mid:576462867762032119,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Nykaa"
+    },
+    {
+        "name": "CeraVe Moisturising Cream",
+        "brand": "CeraVe",
+        "category": "Moisturizer",
+        "price": 1710.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRmVks1Em1JsjB-1jHU1yi9FjzRBDHyWpRs-CTa4QPv6uDyMAarsmHSFCpb311BO5_GiZkzkzxohyk_ZVBk8IOVsbdBGFDJW__xp4ZN8z8lSqb5Gky59aRYZA",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Moisturizer India&prds=catalogid:14586217430891125068,productid:336928125120822359,headlineOfferDocid:2965727522796290217,imageDocid:17965500325046005007,rds:PC_15155628308238345332|PROD_PC_15155628308238345332,gpcid:15155628308238345332,mid:576462563306416269,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Flipkart"
+    },
+    {
+        "name": "Forest Essentials Lightweight Gel Based Moisturiser",
+        "brand": "Forest",
+        "category": "Moisturizer",
+        "price": 1875.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSd3efDL9G8rFXEojUPU_kK9CPcwx9x1yHCVhzmPUSl7wiprRR2HLWOHQ9jqnJ2Bd9SzCg3CwfPyJxycbsy-wjTfDWczDZNf26aZxPh65dtthBQ1nz4Ug72jKtH",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Moisturizer India&prds=catalogid:5966585239027166461,productid:15480175642720205639,headlineOfferDocid:13244029813489545088,imageDocid:5622274174583991484,gpcid:14903393595638386586,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Forest Essentials India"
+    },
+    {
+        "name": "Forest Essentials Moisturiser",
+        "brand": "Forest",
+        "category": "Moisturizer",
+        "price": 2775.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTpHnxbQPFYj7lKqEmprcvNS6pGR9DUglkeDQShBITYYNRFGQwzDiC1QFvF5IfHnzbkLKW-N2rwGiCBOLXk542X_DEvJ39DYb31dbXGYxx09noteUyGvFOr",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Moisturizer India&prds=catalogid:16009101703930823718,productid:14860146696795666531,headlineOfferDocid:17266419620742942818,imageDocid:757175608536855787,gpcid:10742539598461971740,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Forest Essentials India"
+    },
+    {
+        "name": "d'you In My Defence Barrier Building Ceramide Moisturizer",
+        "brand": "",
+        "category": "Moisturizer",
+        "price": 2800.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSxMB3jMaeBiRFcz5NtKmqxRZMiinMHp0JLwaIfMgh4otT1MxheSIveLnOJ7xuyp0NCgWWm1EgriucnYdDgDX4_XIkc_fp7ijKgUjSJYYyXsSGHI98dH1_UhA",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Moisturizer India&prds=catalogid:2648395405564667647,productid:547356430843940852,headlineOfferDocid:244910980545057443,imageDocid:17620772766752250499,rds:PC_17322580228796142586|PROD_PC_17322580228796142586,gpcid:17322580228796142586,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Nykaa"
+    },
+    {
+        "name": "Shankara India Ayurvedic Moisturizer For Fine Lines Online",
+        "brand": "Shankara",
+        "category": "Moisturizer",
+        "price": 2460.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ2oCXE9IBP8s34giegcuM_Xi3sj73yEE2r6t-JTZU3wg2s3xBmtN9oNSgNrWumMtvzAHpH_KY6X_TymIPHN9BQ5T37ew4UwPxa7OMlMPrrBqHS9zNBw33AzQ",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Moisturizer India&prds=catalogid:3055675754865260358,productid:5733913302377496380,headlineOfferDocid:14608659545101702102,imageDocid:7884840924852124937,rds:PC_9082877165633930521|PROD_PC_9082877165633930521,gpcid:9082877165633930521,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Shankara India"
+    },
+    {
+        "name": "The Ordinary Natural Moisturizing Factors + PhytoCeramides",
+        "brand": "The",
+        "category": "Moisturizer",
+        "price": 2400.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaP63maIvZTb1BTS15Pf63HDdl-mG5LgH6rjwiPfjJo4nU5WrOLzwkJkpmCDVH9dcS4b2oqV1GGAzJszMMpjOU87Jxcm_iU3NNjpbYinhzvkMfzUxS26QR",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Moisturizer India&prds=catalogid:18443968772742224910,productid:11858473949132896455,headlineOfferDocid:17201433490680206338,imageDocid:12946303458536899173,rds:PC_9528790162586795346|PROD_PC_9528790162586795346,gpcid:9528790162586795346,mid:576462778096584085,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Sephora India"
+    },
+    {
+        "name": "Shankara India Balance Moisturizer",
+        "brand": "Shankara",
+        "category": "Moisturizer",
+        "price": 2460.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRVLSGdJkDXE1g4zkqlhQUZYWPqQFtYCDLloi0XS8a7cR3OMGKBnHK2wUi6j55sKgTY76988YO0PpOUXgBCKOtRs2cPLglw-L6T7QMI3xHNYP1Q94pVZBB4glCC",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Moisturizer India&prds=catalogid:17180479460275794098,productid:15687162004010702982,headlineOfferDocid:11055208819919160348,imageDocid:6670017220294775819,rds:PC_1736549077049463218|PROD_PC_1736549077049463218,gpcid:1736549077049463218,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Shankara India"
+    },
+    {
+        "name": "Bobbi Brown Vitamin Enriched Face Base",
+        "brand": "Bobbi",
+        "category": "Moisturizer",
+        "price": 5250.0,
+        "price_range": "5000_plus",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSwInecu4MA1woEef5FO0yyv1AFzEPJA3DCaY2_Jsm2MGFvkMX10b83w6G5oRBR8IOiGuur5lswatdfGGFn0FpZeq0KqUhZX8AQzRmpsPeO340IYRvPepMsCA",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Moisturizer India&prds=catalogid:96968593124378340,productid:10537718251893067795,headlineOfferDocid:5513676234821413296,imageDocid:15484040972817939000,rds:PC_8929263928122760848|PROD_PC_8929263928122760848,gpcid:8929263928122760848,mid:576462863845414827,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "nykaaman.com"
+    },
+    {
+        "name": "Kama Ayurveda Amsuman Daily SPF 50 PA++++ Shield Sunscreen",
+        "brand": "Kama",
+        "category": "Sunscreen",
+        "price": 2461.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSilxrCU-fI1wGO4-2NLXulaNN115MReyYTBC0rjqTd7SuWHFKT8M1yYmlgRB7DduYK4k4HBQ0bmezeex5Wrh5vkiZDXnApsvJoo0NzklNboUXF6LfoZ7ZJaA",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Sunscreen India&prds=catalogid:16646242616098233761,productid:9087152098434664148,headlineOfferDocid:383577681594594297,imageDocid:3067274088089291542,gpcid:13671628165536219525,mid:576462883793221299,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Nykaa Man"
+    },
+    {
+        "name": "The Ordinary Hyaluronic Acid Hydrating Serum",
+        "brand": "The",
+        "category": "Serum",
+        "price": 1000.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQdE1R9nH0p7ZNobzTXeNHHgxl8YG7u70W1gq1qJswhpUD8zCz9e96xxIfGrfL2XgBdlKEnZySd8JUKlMdWzuAfRsPA_Kxan06kBsvWWIjHqx6Q2NWf6q4J",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Serum India&prds=catalogid:17172862941795420207,productid:5518368248873371421,headlineOfferDocid:12023165148042165324,imageDocid:1153981135009920234,rds:PC_10624051327535457205|PROD_PC_10624051327535457205,gpcid:17106494721865780396,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Nykaa"
+    },
+    {
+        "name": "RAS Luxury Oils Brightening & Anti Pigmentation Advanced Booster Serum",
+        "brand": "RAS",
+        "category": "Serum",
+        "price": 1551.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTbtKiOeebz635VhCq1gn8eDwpq3qKXubq1SRb8J9oZQKBOcA6N4ADmY1-YLJTZqLsAEjOJs1lnki11KKBAMyKpmzx8RsXY6OzscXPyOm886jqHnYm1D0c1",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Serum India&prds=catalogid:9497936977771026337,productid:16536844755646890030,headlineOfferDocid:16711615494651892930,imageDocid:13387309864463015476,rds:PC_11817258885533461804|PROD_PC_11817258885533461804,gpcid:11817258885533461804,mid:576462556282288042,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Amazon.in"
+    },
+    {
+        "name": "Instant Skin-Tightening Serum",
+        "brand": "Instant",
+        "category": "Serum",
+        "price": 1224.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQzhNu2ydt0cr6MXa7wg2S14DgmWO8wsE5npiBH3NLuenVzbABFYVAZD5DDtMwbtZxHv2EQ0nxR82yOsDcRiuVs1YnevEa6X5J4WWbBlTfG4lTL6QGz1Z9urA",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Serum India&prds=catalogid:853948458669502537,productid:6645872849125163707,headlineOfferDocid:12287106877913591064,imageDocid:3771237211360636925,gpcid:7280465643231578849,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Nykaa Man"
+    },
+    {
+        "name": "Kama Ayurveda Amarrupa Line Smoothening Serum",
+        "brand": "Kama",
+        "category": "Serum",
+        "price": 1623.71,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRh4FeJbP7BNgiJYgJjd3m7NqJCp466SvNDPiqhMJZ2t-sRMZPz2MU8kaCt2js5WMGlIRQZTnMlv7qB1JehISe-wx0PYqRrFuLPvSRKOc0DGHxsutKg0dJOaA",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Serum India&prds=catalogid:15863157559571807078,productid:16055997847202017740,headlineOfferDocid:4641493390151016686,imageDocid:11526562274223617918,gpcid:13444670877578430874,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "amazon.in"
+    },
+    {
+        "name": "RAS Luxury Oils Flaunt Pigmentation & Complexion Correcting Serum",
+        "brand": "RAS",
+        "category": "Serum",
+        "price": 1190.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRRTym-r5pMmoYzuYA3maebM_RGwvu1jnIuRoFDRNjrp8d3bl77sUssFwl0a2lfB8KvjRYYWsRMKWSnOqVoaE_r7zd_094dZlGM_g-rDCOMC8KqfeMSFEP11Q",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Serum India&prds=catalogid:3705406682980717522,productid:3353894676550531854,headlineOfferDocid:10503444217947398702,imageDocid:6436150102311674579,rds:PC_49568976431473673|PROD_PC_49568976431473673,gpcid:49568976431473673,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "RAS Luxury Oils"
+    },
+    {
+        "name": "Kama Ayurveda Kumkumadi Youth-Illuminating Silky Serum",
+        "brand": "Kama",
+        "category": "Serum",
+        "price": 2291.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTFfIfpNY0a9K-tnupf5xILXR5yMS5iwoW2fuhQrA02O35ikXF3tn4vaeXMwi3bebXFgnsZXzWzcZLcIvKepd5YOLFWgs51GgRnUK5VL7iMVNw5hjrHtVBy",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Serum India&prds=catalogid:12571024943121542515,productid:11431190821901103517,headlineOfferDocid:17489701817139871834,imageDocid:15317172997947319079,rds:PC_7829487328273084484|PROD_PC_7829487328273084484,gpcid:7829487328273084484,mid:576462525223552098,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Nykaa Man"
+    },
+    {
+        "name": "Sanjeevani Herb Infused Serum",
+        "brand": "Sanjeevani",
+        "category": "Serum",
+        "price": 2750.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSstBBIjG-leAXisfPaFsNIlYSuXLDHndd9qvh6WBbfQsVBk4ozd8XRLn4BY2F1fW-jAYUuH3ilORrjx79X0Mydx2Mt0zgfVxE6E-wHrG_sGWkR8sq_ENjYHXI",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Serum India&prds=catalogid:17427914553762702236,productid:7493774452677757851,headlineOfferDocid:17051175901202824643,imageDocid:7262462519957117173,gpcid:2308736729954705743,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Forest Essentials India"
+    },
+    {
+        "name": "Shankara Anti-Age Serum",
+        "brand": "Shankara",
+        "category": "Serum",
+        "price": 3277.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSM8UCfkdwdT1pc9mEA-iYwd11FCpyBC-7MlfG7j9ZiyV55b1P21UMbswsoiliVdfziC33TZhv42jt1TPqoNBXyuENAwQ_mMuDGOWkPEXAtkanSliKRiAkBo-Y",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Serum India&prds=catalogid:2499330974488320472,productid:13260737874717916530,headlineOfferDocid:1151763285980293711,imageDocid:10523034990358667501,rds:PC_7003306946532963439|PROD_PC_7003306946532963439,gpcid:7003306946532963439,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Shankara India"
+    },
+    {
+        "name": "Forest Essentials Soundarya Brightening Facial Serum",
+        "brand": "Forest",
+        "category": "Serum",
+        "price": 2650.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRpUlVLcT2iu8MXIDA9uA81ClxtOYkBDIdB3RmdEctMUaRMtxapG_dHB_x2dkflb4lPbwIY5gdpUt2jJJkywjKhvzi8Q3pldAC7l5_TEHOtKsWJE2j1VghNLQ",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Serum India&prds=catalogid:6332122775036813244,productid:12179814348583828088,headlineOfferDocid:17941518447597066591,imageDocid:11328736162078539970,rds:PC_13367082292416599931|PROD_PC_13367082292416599931,gpcid:13367082292416599931,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Forest Essentials India"
+    },
+    {
+        "name": "B.o.m Just One Artemisia Capillaris Extract - Facial Toner With 100% Herbal Extract - 150Ml",
+        "brand": "B.o.m",
+        "category": "Toner",
+        "price": 1360.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSkxkgc5qNSb7mgHyrAwRbXSXMfjoUMbpfbo7WQ4rQ-JFiCVlRkvfP85ExkRLbAZNGJoJ_5vhIh3aHfVXVBFizvs0qk13iSy-HiGm_PSWAg1oAYLpfJvaK7_cRy",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Toner India&prds=productid:1147692822065883849,headlineOfferDocid:1147692822065883849,imageDocid:15478261361696274629,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "PharmEasy"
+    },
+    {
+        "name": "Kama Ayurveda Pure Rose Water",
+        "brand": "Kama",
+        "category": "Toner",
+        "price": 1509.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ8uNApuI7Vr9jY-JwX_lFx1Eqb2anTCf8nG4DYLX3iF6fjN_QW_gEAKuQ9v5uqO4EUFcQCVFGwhLDrQKVzlvXamUZ0-LIpv_m8Za2wf_uCVCiZK4TBtYEY",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Toner India&prds=catalogid:439715035545312571,productid:7041980567233425131,headlineOfferDocid:14087110364346615560,imageDocid:3547673133357086053,rds:PC_2179060469925240785|PROD_PC_2179060469925240785,gpcid:2179060469925240785,mid:576462525332851319,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Nykaa"
+    },
+    {
+        "name": "TIRTIR Milk Skin Toner",
+        "brand": "TIRTIR",
+        "category": "Toner",
+        "price": 1545.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSR2VpOMwa_TsMCwBTVE0z0QUxfHWFE-AlAgCz_2elYw3RFKOj6o0RpFxG7sDemEXG9GMgYr2ScJ-7Vf7W0_-0uMVSejaUBUQqaSGiC08OO8XdijWL1VgCo",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Toner India&prds=catalogid:17653558688102239814,productid:5878831962022008934,headlineOfferDocid:2550331033172644221,imageDocid:14049723390719214991,rds:PC_11232091076813825668|PROD_PC_11232091076813825668,gpcid:11232091076813825668,mid:576462781356846059,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "StyleDotty"
+    },
+    {
+        "name": "Pyunkang Yul Essence Toner",
+        "brand": "Pyunkang",
+        "category": "Toner",
+        "price": 1050.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTlTnaQ-yZRYpVBvWcYw9pWBsTZelaBX2urQP5efsiE_SBEUSwPVLs4-lxUzH4dc5lPeM32GiaUn3q3cPYGyN43dn9V-aEcWYbPqfk3X-MCzPDozXyopOVLFbA",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Toner India&prds=catalogid:6531744884780105139,productid:9241226381336165006,headlineOfferDocid:2712801078370070883,imageDocid:12707277219667861472,rds:PC_16172027039345842369|PROD_PC_16172027039345842369,gpcid:16172027039345842369,mid:576462606765372142,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Nykaa"
+    },
+    {
+        "name": "Embryolisse Lait",
+        "brand": "Embryolisse",
+        "category": "Face Cream",
+        "price": 1372.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR5eqap5rp86qXAJENxT-AYqmohZ4dCmTl4igsbJ1DTvO5fW4jQvrTTOiLX8EPN4EH1xY2N1UbYlvieN5xzx84qYdgAENYHKQy9fE7lptLysgN_ulOsj62VkQ",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Face Cream India&prds=catalogid:3148385654920583111,productid:17163929142979277724,headlineOfferDocid:15235116704678279624,imageDocid:5281467268176300349,rds:PC_15143757589875315888|PROD_PC_15143757589875315888,gpcid:15143757589875315888,mid:576462502239446589,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Tira"
+    },
+    {
+        "name": "Cosmeticslane.com Cetaphil Brightening Night Comfort Cream",
+        "brand": "Cosmeticslane.com",
+        "category": "Face Cream",
+        "price": 1182.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSDPY8y_4mPaWGVODAxIL3Q1ZVMWlyCUCE-p-VzOp1ssbn-bH-uy4iOagFBFVUS5v3qMmapS96X-IA9k-hBDuQxjmYDHv4RZBcNaeM6Ha5avBBLuNwIrktBuHY",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Face Cream India&prds=catalogid:7783371227234079328,productid:1592698146568233251,headlineOfferDocid:5539461045553469253,imageDocid:18211860473989988748,rds:PC_8658552757286356127|PROD_PC_8658552757286356127,gpcid:8658552757286356127,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Myntra - MNow"
+    },
+    {
+        "name": "Flawless Beauty Day & Night Cream",
+        "brand": "Flawless",
+        "category": "Face Cream",
+        "price": 1360.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQSIXYzyRMUoDxA3JU4w1FLk99-RQPtrDYlmXhe2ml_1isLiiTpmYXmKryB3q3gmD2Kd2nMfYvxStebc3HHB1VLSOM1zOoEAgefBcthiYQjN0CEeQ0EhXCblj0",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Face Cream India&prds=catalogid:13865477529786983635,productid:2974409669962450435,headlineOfferDocid:16808005936081694850,imageDocid:2101384629566029343,rds:PC_9498313325269015619|PROD_PC_9498313325269015619,gpcid:9498313325269015619,mid:576462849388299326,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Haappy Herbs"
+    },
+    {
+        "name": "Skin1004 Madagascar Centella Soothing Cream",
+        "brand": "Skin1004",
+        "category": "Face Cream",
+        "price": 1425.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQRerbKJfhNwiWKy5feyH-M2APJdy_kKBzwWMfyf-baQl90U_ubYqb1G5PZoaZotnON8a4QftDGQSzD9BzD1w5ZUZS1_rmWQAwbnvPrhNw2-vWlBlxltLvH-Q",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Face Cream India&prds=catalogid:13504984503528904178,productid:8869938786607488161,headlineOfferDocid:14790152055416754954,imageDocid:11500778153893660760,rds:PC_11836754804935816530|PROD_PC_11836754804935816530,gpcid:11836754804935816530,mid:576462562952702421,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Tira"
+    },
+    {
+        "name": "Cetaphil Brightening Day Protection Cream SPF 15",
+        "brand": "Cetaphil",
+        "category": "Face Cream",
+        "price": 1182.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQpVvWvq269eY75uzMKPDN45u7u-mmWtSN6OX_Jh5za9K0A9d8XpAMmwHBieB6DHhpE-sIN6cw_5Uf7zUUp6Ejlv4jFAN4OqaNG-PLMKjAYzqXq7FhY6ZPoxQI",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Face Cream India&prds=catalogid:2851362117109998608,productid:12035896333984055428,headlineOfferDocid:15107861469785894178,imageDocid:10699535271216909881,rds:PC_8715092417840605508|PROD_PC_8715092417840605508,gpcid:8715092417840605508,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Myntra - MNow"
+    },
+    {
+        "name": "SoulTree Nourishing Cream",
+        "brand": "SoulTree",
+        "category": "Face Cream",
+        "price": 2295.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ4dRj90WkB41EdnYTZN5dF7IwuiolCdFznq_HqiJuQwByvSdnlRrz08CzAaGxILKxLsjbL1l-4DwJ_qmp5ixV1BVtnBSInOw8RZK7Bi4UOvm4No1Y15Zvc_sE",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Face Cream India&prds=catalogid:12615267686724922796,productid:13185361905792333101,headlineOfferDocid:8686114280083385985,imageDocid:17404926310846026442,rds:PC_15504482441942467435|PROD_PC_15504482441942467435,gpcid:15504482441942467435,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "SoulTree"
+    },
+    {
+        "name": "Kama Ayurveda Kumkumadi Youth-Revitalising Soft Cream",
+        "brand": "Kama",
+        "category": "Face Cream",
+        "price": 2095.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQt5ZUAaSvmNvEb_Cb23gzK23Ps3lWwpxSGYnt6aER3dY7Wlvd-EZcB72VB41svHOrwFcf-sc9aTOoTyUunoHEJVFx4THT9A1KJQeFxorGeh1OuWzA7sfJchQ",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Face Cream India&prds=catalogid:16255753941106131113,productid:1281614754110914250,headlineOfferDocid:11508144395809213539,imageDocid:6207392363732736233,gpcid:7767488154538536123,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Kama Ayurveda"
+    },
+    {
+        "name": "Kama Ayurveda Kumkumadi Youth-Revitalising Soft Cream",
+        "brand": "Kama",
+        "category": "Face Cream",
+        "price": 3055.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQlGlFJnJh2uxpYiAt5sajt6ccWiEITKKf1bk9f77MuNfqmcN9gb1Pq4pa135vEi2yotzcMOVdNPqOjC529kxDDCTSovbjHACJ6hgPF5hKy4-XTmXURjWXWLf6b",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Face Cream India&prds=catalogid:16255753941106131113,productid:1281614754110914250,headlineOfferDocid:11956576646120767078,imageDocid:8250504618353187846,gpcid:7767488154538536123,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Sephora India"
+    },
+    {
+        "name": "Kama Ayurveda Kumkumadi Youth-Revitalising Soft Cream",
+        "brand": "Kama",
+        "category": "Face Cream",
+        "price": 2095.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQt5ZUAaSvmNvEb_Cb23gzK23Ps3lWwpxSGYnt6aER3dY7Wlvd-EZcB72VB41svHOrwFcf-sc9aTOoTyUunoHEJVFx4THT9A1KJQeFxorGeh1OuWzA7sfJchQ",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Face Cream India&prds=catalogid:16531270410348410836,productid:7189721664317205397,headlineOfferDocid:3811653662973778688,imageDocid:6207392363732736233,rds:PC_5648014512336478648|PROD_PC_5648014512336478648,gpcid:5648014512336478648,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Kama Ayurveda"
+    },
+    {
+        "name": "Forest Essentials Soundarya Radiance Day Cream",
+        "brand": "Forest",
+        "category": "Face Cream",
+        "price": 2475.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSUdGs7ML45gxGgoyNOjc-b28qGWBUF2TK8A1KYJP6Iza2Uz0sbWvMF9oiAVfIeh81HGAJ-niQ3kFWcX8bLMFfsD18aMYGrM8vDqpIlu8UvdpNZRuPs5nX0",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Face Cream India&prds=catalogid:3921485969106129368,productid:1140797657132551927,headlineOfferDocid:6373749473129098151,imageDocid:11260785039744913454,rds:PC_12875282031896823999|PROD_PC_12875282031896823999,gpcid:12875282031896823999,mid:576462892684323978,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Tira"
+    },
+    {
+        "name": "Bobbi Brown Vitamin Enriched Face Base",
+        "brand": "Bobbi",
+        "category": "Face Cream",
+        "price": 5250.0,
+        "price_range": "5000_plus",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS8OM1hr1U6WzBSstaRLlmyXVIzu1L6xyKb7y4yBdkW-XNGRuxKHSn0EDecdyVzzsudhQVXA8HNMWfE1_NAXkdt097Qse5GR2cdHBv2pigWiYhBRycMSIVU89w",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Face Cream India&prds=catalogid:96968593124378340,productid:10537718251893067795,headlineOfferDocid:1102088640569474869,imageDocid:13246850680708021218,rds:PC_8929263928122760848|PROD_PC_8929263928122760848,gpcid:8929263928122760848,mid:576462863845414827,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Nykaa"
+    },
+    {
+        "name": "Cetaphil Restoraderm Skin Restoring Body Wash",
+        "brand": "Cetaphil",
+        "category": "Body Wash",
+        "price": 1988.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTUayzaD-db2SCAtUeCae82SrG0rsADi9c-eweWVpLcX9Y2RgH2n512M3nKUg_Xz6IbJWL3AaI",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Body Wash India&prds=catalogid:4056947733276326179,productid:13601714062420728715,headlineOfferDocid:2574173203526941559,imageDocid:985139817905177583,rds:PC_8871491214256070277|PROD_PC_8871491214256070277,gpcid:8871491214256070277,mid:576462563288902785,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Nykaa"
+    },
+    {
+        "name": "Cetaphil Restoraderm Skin Restoring Body Wash",
+        "brand": "Cetaphil",
+        "category": "Body Wash",
+        "price": 1999.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQUqw07oLmpmHYIP_5KTxqL_nbcBsmsPKMXp18ma694FBTo7RsGOCFJm2dzQy5168gnf-GPC-PTY01kvyFJhWP83JOH4qXX0CKKpQy57iKb7M2Fsh0M-sn-0_4",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Body Wash India&prds=catalogid:4056947733276326179,productid:13601714062420728715,headlineOfferDocid:1326519378584710846,imageDocid:14706426457633985549,rds:PC_8871491214256070277|PROD_PC_8871491214256070277,gpcid:8871491214256070277,mid:576462563288902785,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Clinikally"
+    },
+    {
+        "name": "The Body Shop Strawberry Shower Gel & Body Yogurt Duo",
+        "brand": "The",
+        "category": "Body Wash",
+        "price": 1352.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRSZNpVGxKJ5AFI5stbB89y5kS9ihnUI90D2XuCBjX5HrXl0XT6K4KHpfzuvajKFXmfKcz-hS5DiRIUiFLZaaeberXVYnEzSTEJ5xT43yUHjmgV9HT-ebUjNR4",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Body Wash India&prds=catalogid:17454930340554163196,productid:7843193588540429917,headlineOfferDocid:6187472812252680436,imageDocid:7475960419616899044,gpcid:2134344820489135625,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "The Body Shop"
+    },
+    {
+        "name": "Nourishing Oudh Body Wash",
+        "brand": "Nourishing",
+        "category": "Body Wash",
+        "price": 1515.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQeglCChBlU_0V8SJxtD3aCrRIaLasCfpXUUJisiB5nX64iU5rwV7YJ11iOqOVEu_ZGAUm84UwOnqk",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Body Wash India&prds=catalogid:11719796660665366073,productid:1556167874704432011,headlineOfferDocid:2155741183223888152,imageDocid:2611965754665175498,rds:PC_317755470882595908|PROD_PC_317755470882595908,gpcid:317755470882595908,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Shankara India"
+    },
+    {
+        "name": "Mancode Coffee Body Wash for Men - 450ml - 24",
+        "brand": "Mancode",
+        "category": "Body Wash",
+        "price": 3830.4,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT9cjohF6Ue6EGBYcPn6fiTLmrYjJB4anHbv1FfAhna2puiMOw1cVFQjysCCQBtBw_WHOgCvA4",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Body Wash India&prds=productid:13069141949421300555,headlineOfferDocid:13069141949421300555,imageDocid:16282564594889813216,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Cosworld"
+    },
+    {
+        "name": "Summer Fridays Lip Butter Balm",
+        "brand": "Summer",
+        "category": "Lip Balm",
+        "price": 2311.18,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS5T8arahOFMkx4ANGw_Vwelwg_Cv8wmflNIVWsqAJkC9Z3nOAMw8eoimLJ0D29OSFAEBjQMX0eksfulFplege-ms84HGCqnJPteYA7FyqU77v_HTF1Hh1A",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Lip Balm India&prds=catalogid:3163441487595271190,productid:3985059223198678435,headlineOfferDocid:6524471632155030938,imageDocid:13745035373899095387,rds:PC_1130019256458434274|PROD_PC_1130019256458434274,gpcid:1130019256458434274,mid:576462471910943897,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "revolve.com"
+    },
+    {
+        "name": "Kama Ayurveda Bringaras Balancing Shampoo",
+        "brand": "Kama",
+        "category": "Shampoo",
+        "price": 1806.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSxWFq29nZ4Q0w1MVBc11_qiLJxn0Iml_5kEuxnLbxGGx8-Qs6fOGFM6RfYoMjiIjjTHnqTsSPoodEtvJ8pfbhqCcHwZVRGYAtqgXtHrVFQ9mghRJZt0Z1OOg",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Shampoo India&prds=catalogid:4524820645620966673,productid:10477540056934082757,headlineOfferDocid:108545501832711576,imageDocid:14538593040093893528,rds:PC_305027232993995479|PROD_PC_305027232993995479,gpcid:305027232993995479,mid:576462846492472693,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Nykaa"
+    },
+    {
+        "name": "de Fabulous Reviver Hair Repair Shampoo",
+        "brand": "",
+        "category": "Shampoo",
+        "price": 1079.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSOpY2J9wxzhVxqHfm_EtZkXrgfau-1MGTrDd_E9roKeDM7HlGOCX-VNa1UdNn3DsmQeuNjel24M53BBvPPSlUuuXe4GqWxLkw8ggy7sRz_dwmX4vP7iZtrgZE",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Shampoo India&prds=catalogid:2699012744117382347,productid:14898846618862159286,headlineOfferDocid:782119757122122009,imageDocid:12428263567811112449,rds:PC_16097653905035905688|PROD_PC_16097653905035905688,gpcid:16097653905035905688,mid:576462401911154195,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Niram.in"
+    },
+    {
+        "name": "Moroccanoil Hydrating Shampoo",
+        "brand": "Moroccanoil",
+        "category": "Shampoo",
+        "price": 1972.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSvIUtce05IZwWuELeElVnzj6GE68moEdmGIQiQ__PwNehsOBud6EsbHQBC9BJV10QjMNiwfLB3jiMI1KYecGuCJV8mjqS1",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Shampoo India&prds=catalogid:6624679308635056764,productid:16988546500130321761,headlineOfferDocid:18441397024853206331,imageDocid:5267445451136303345,rds:PC_3542995341492541172|PROD_PC_3542995341492541172,gpcid:3542995341492541172,mid:576462225938797895,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "ZALON"
+    },
+    {
+        "name": "Olaplex No.4 Bond Maintenance Shampoo",
+        "brand": "Olaplex",
+        "category": "Shampoo",
+        "price": 1240.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT6OdPq4pcsamqafamVCZ835-VLVQ3fSOWPp6564c1QADF04mw2dG1eHjbTmvyxRMuD8Q4K7vSvgB8w600h4wxVucjSc3P-JnW8nKeZ50wAiit3PaiSLv1MdA",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Shampoo India&prds=catalogid:7286431323267591181,productid:3428585156650525564,headlineOfferDocid:7019455879384527561,imageDocid:12985265980532592913,rds:PC_7755674910182716392|PROD_PC_7755674910182716392,gpcid:7755674910182716392,mid:576462373970013324,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Amazon.in"
+    },
+    {
+        "name": "Sadhev Herbal Ayurvedic Shampoo for Dry Hair with Hibiscus",
+        "brand": "Sadhev",
+        "category": "Shampoo",
+        "price": 1528.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRgpZe23-QNzAAtjOsfsqFPtJ1hTznspQmEqk0LYC_RN0RvwX513DobOuF6xdYu8j2qqmSNPf--b8E85LTF7ye9gkpMO7-4wvvG7ed0avYc75U0k9-3cg_L",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Shampoo India&prds=catalogid:18117200833337588903,productid:3338352463049689975,headlineOfferDocid:11976699907358495059,imageDocid:17222601841693081744,gpcid:7597955699182212134,mid:576462826537159043,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Sadhev"
+    },
+    {
+        "name": "Davines Love Curl Conditioner",
+        "brand": "Davines",
+        "category": "Conditioner",
+        "price": 1300.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTqF1MOW2S5YMM1edheCm4f0XHRRtMYa-XSaIb16aFBj9zK1q8A1bHi4aLTI0ZbfqeuDsT5vkkXfQg",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Conditioner India&prds=catalogid:18067818954208198785,productid:17533682489141422189,headlineOfferDocid:5262095541726821070,imageDocid:283297583961671138,rds:PC_10912983031199244205|PROD_PC_10912983031199244205,gpcid:10912983031199244205,mid:576462775840099819,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "davinesindia.com"
+    },
+    {
+        "name": "3TENX Ultimate Revitalize Conditioner",
+        "brand": "3TENX",
+        "category": "Conditioner",
+        "price": 1799.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQFYJwW_5kuqR2DNaPIFskmRUGvDqWmc_5BUsZ9eOOB0sT83xhG6AiDsj62Gas8KrWGAgbONzm8",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Conditioner India&prds=catalogid:4836580633617664736,productid:14954165348386102830,headlineOfferDocid:11058511478389217768,imageDocid:785033371404898259,rds:PC_635017354792335265|PROD_PC_635017354792335265,gpcid:635017354792335265,mid:576462550316068888,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Nykaa"
+    },
+    {
+        "name": "Kama Ayurveda Bringaras Nourishing Conditioner",
+        "brand": "Kama",
+        "category": "Conditioner",
+        "price": 1866.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTrtygJV5qEieHt-fiyaCVQZA2q3NejTAoicg-n2qtZ5M2Ro0YGp0-jS_a1FGI3iHZNtPzL7cvr",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Conditioner India&prds=catalogid:10454300838781360830,productid:12831797447645280118,headlineOfferDocid:8157959009280245839,imageDocid:3647563234366219106,gpcid:11152646770550000893,mid:576462842804351376,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Nykaa Now"
+    },
+    {
+        "name": "GK Hair Moisturizing Color Protection Conditioner",
+        "brand": "GK",
+        "category": "Conditioner",
+        "price": 1890.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRwzw9EL_3YmgmI8kUQUsoenu-Vdoj8N1SGpOOE3DaV-2-CMrj91klY4-xa1KRuw4WPb6WHLj6ateoxtDCF081bLbesdt7zUw",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Conditioner India&prds=catalogid:13155042731149941990,productid:528131349304117509,headlineOfferDocid:17489517268503226554,imageDocid:13090143093270443878,rds:PC_759488310156685324|PROD_PC_759488310156685324,gpcid:759488310156685324,mid:576462531542810718,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "ZALON"
+    },
+    {
+        "name": "Olaplex No.5 Bond Maintenance Conditioner",
+        "brand": "Olaplex",
+        "category": "Conditioner",
+        "price": 1360.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTWtbR7C01mlH2k-PvVogK0SnlGBXknfC3kHS0_wHMaZFf16elNdHaqulck5ddNZgfUuwyvGnak3QuzSNOvBCUDG0QNj5BPXB8cG1rLRkN0UqRVmxLZbdOl",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Conditioner India&prds=catalogid:7268324682036021695,productid:14028867151294508598,headlineOfferDocid:4229270454199393281,imageDocid:5583988309635466260,rds:PC_10988662744331824042|PROD_PC_10988662744331824042,gpcid:10988662744331824042,mid:576462807942259943,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Nykaa Man"
+    },
+    {
+        "name": "MOMO Conditioner",
+        "brand": "MOMO",
+        "category": "Conditioner",
+        "price": 2300.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSwf-r3u6ly7o9K4JBqdRG-WYXZ0Ek-HQaF65BOCcCyLmT_8GxmGN40yvO3b7e5T53smtRre1Bh3w",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Conditioner India&prds=productid:14795121960673035228,headlineOfferDocid:14795121960673035228,imageDocid:1043450287686870128,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "davinesindia.com"
+    },
+    {
+        "name": "OUAI Thick Hair Conditioner",
+        "brand": "OUAI",
+        "category": "Conditioner",
+        "price": 3487.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS-xnzVLzXbrrHrlsKnM2ZxtUGsYG1gyJiNrJiWHNgJ432QTJZWRSjzHDDTMbxgAK8797nK2buV",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Conditioner India&prds=catalogid:9013286147674041187,productid:16922177823273034674,headlineOfferDocid:3166474940683019660,imageDocid:2248060631775663968,rds:PC_9819216774797410530|PROD_PC_9819216774797410530,gpcid:9819216774797410530,mid:576462782369279069,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Tira"
+    },
+    {
+        "name": "Moroccanoil Hydrating Conditioner",
+        "brand": "Moroccanoil",
+        "category": "Conditioner",
+        "price": 2218.5,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR4-_a3UkPpmms4n9u4IY_DDvh8jXkgOT8ETVlN_gBBlBuGl74",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Conditioner India&prds=catalogid:15186090104234758772,productid:3714645946551857436,headlineOfferDocid:6309585742718102185,imageDocid:8274822334406954859,rds:PC_4557679822353775142|PROD_PC_4557679822353775142,gpcid:4557679822353775142,mid:576462232589172139,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "ZALON"
+    },
+    {
+        "name": "OUAI Medium Hair Conditioner",
+        "brand": "OUAI",
+        "category": "Conditioner",
+        "price": 3645.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ7bHy3VO97Lnq5IyglG5Scee7TM5gCJS6MJz3vYzH9w-rZMxwEDUJN6eQ6PyryaO-J6w71mpwiCFGwAUfXc8ycovAKHof1auKccUu2kPfSVHeS8cL_bg6k",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Conditioner India&prds=catalogid:7551879330649014497,productid:17418199896020897026,headlineOfferDocid:9391848567410540457,imageDocid:4286075122167929314,rds:PC_535209135620180914|PROD_PC_535209135620180914,gpcid:535209135620180914,mid:576462782770582975,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Nykaa Man"
+    },
+    {
+        "name": "OUAI Thick Hair Conditioner",
+        "brand": "OUAI",
+        "category": "Conditioner",
+        "price": 3375.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRwuHLOagneHQTNm0mXedqDPFOsT_zzl-kD0S9r0uzNGcwk2e6rTTGcdniI3xmnHrkS_mxVPTRJ8gQBnmt_Hfnd_QJpVsoEaeFs0gJuaMmcbZ4Pob5eV3jZQQ",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Conditioner India&prds=catalogid:9013286147674041187,productid:16922177823273034674,headlineOfferDocid:16613196959775952170,imageDocid:5077415535820419621,rds:PC_9819216774797410530|PROD_PC_9819216774797410530,gpcid:9819216774797410530,mid:576462782369279069,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Nykaa Man"
+    },
+    {
+        "name": "Kama Ayurveda Bringaras Invigorating Scalp & Hair Oil",
+        "brand": "Kama",
+        "category": "Hair Oil",
+        "price": 1825.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSMPmVGc1bfdkEdrRuXa-FGhc-ibzo-tZZbEx_wVeAyUF4Dk5Kk3NFdvaRUi15dUaNNx1M4kebsdtfqL9O9vyNdc5BSw_Q95P86FXPEPJgSovWkqIgGqLSwDQ",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Hair Oil India&prds=catalogid:12278417387406046376,productid:8679793520143985023,headlineOfferDocid:15979986677559080424,imageDocid:14841647966672797668,rds:PC_6862663612384651915|PROD_PC_6862663612384651915,gpcid:6862663612384651915,mid:576462867860671148,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Myntra - MNow"
+    },
+    {
+        "name": "Champi Hair Oil",
+        "brand": "Champi",
+        "category": "Hair Oil",
+        "price": 1499.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRDWE9QqI7Kto41VPtpQCzvfzzvjhNTpMNhlecLkmnz-XHBcvllbgeLCkjVw86JEU1fw11P9VRTmAzWfGj2ZM1_YviCa5sjmOrHnMLR1ZwzlkutWWqhqmOD",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Hair Oil India&prds=catalogid:5945288910760311128,productid:8306718187770490922,headlineOfferDocid:5145567856912142367,imageDocid:10140878920347420915,rds:PC_14595786742826251369|PROD_PC_14595786742826251369,gpcid:14595786742826251369,mid:576462690450748082,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Amazon.in"
+    },
+    {
+        "name": "Niconi Herbal Hair Oil Spray Applicator 200ml",
+        "brand": "Niconi",
+        "category": "Hair Oil",
+        "price": 1499.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR5Vln9ftNP4GxrxAxUaClCTp_ag7lOsLjX4aPSAp03YSGyxemZhAnbYQjuiw_tYiM3jntfBiqg2GbwgCtx2dG4AVTI4NMSyoYyjhgwGkVngpZrP1faLKLYVA",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Hair Oil India&prds=catalogid:3966514439946118474,productid:17839033508184243112,headlineOfferDocid:16943467518180950637,imageDocid:8834385237344295956,gpcid:3824455625411360323,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Nykaa Now"
+    },
+    {
+        "name": "Kama Ayurveda Bringaras Balancing Scalp & Hair Oil",
+        "brand": "Kama",
+        "category": "Hair Oil",
+        "price": 1063.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT3UUWO2nBVDF56btrWuYp3IzGB9QtugqOR8Kkpu_3asQE2vaIQiZ0XEo150XvZ5w-jyogavnho26A7Ul3g9d6J7700cB15ZQByjVhbwGpZqD7qC4kT14v3fw",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Hair Oil India&prds=catalogid:4271815109760981557,productid:3259472948911664913,headlineOfferDocid:6612188070934446565,imageDocid:18164989276837827546,rds:PC_6862663612384651915|PROD_PC_6862663612384651915,gpcid:10685500238827568194,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Nykaa"
+    },
+    {
+        "name": "Olaplex No'7 Bonding Oil",
+        "brand": "Olaplex",
+        "category": "Hair Oil",
+        "price": 2950.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQmE3-yFeNLfzEWhK3dSaTXR97wI2SxWpK_TQU5slT62qF6dz1DKgGJ-IHd-I_2l5J1dGqvwb3dl43i5pxMTyRaiY7FPb1iW05dCgI_nagU9TdUPzNhOKkMwXg",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Hair Oil India&prds=catalogid:8644562895983182133,productid:8847291176100766627,headlineOfferDocid:8409848858485138760,imageDocid:4427238285512030152,rds:PC_18138438632425877048|PROD_PC_18138438632425877048,gpcid:18138438632425877048,mid:576462483646771973,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Myntra"
+    },
+    {
+        "name": "Moroccanoil Treatment",
+        "brand": "Moroccanoil",
+        "category": "Hair Oil",
+        "price": 4320.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ8s-UMDRcWy2lvrZ5vLbyL_kYses-HnIvaAqBSIrqVGummydLBUwBRB84RqNpDyHkVzSVMC6TMYXU1ETlsrJSip5GJgeVgv0wR3NlrOwcUtnkWC7wcYCaPClo5",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Hair Oil India&prds=catalogid:6409223707451333562,productid:15033648874484529258,headlineOfferDocid:12524247092583129021,imageDocid:7173912406171582831,rds:PC_2483749472389046539|PROD_PC_2483749472389046539,gpcid:2483749472389046539,mid:576462256381060093,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Looks Kart"
+    },
+    {
+        "name": "ThriveCo Hair Growth Serum",
+        "brand": "ThriveCo",
+        "category": "Hair Serum",
+        "price": 2000.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTusxetiAciN67rFLKs8PguTnXPKibaTyxZK24HnKlSSrvpzxwj18OpQF5TioGOSIRXK9SeIG5vjuGJZ5TLKtyTPuWUgUI2Lw0hqvvpUUOUILz8d3GMcAnTrg",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Hair Serum India&prds=catalogid:17011158412792577756,productid:10176578935800677680,headlineOfferDocid:1968732295485526706,imageDocid:1426406244286924616,rds:PC_642006406549439714|PROD_PC_642006406549439714,gpcid:642006406549439714,mid:576462717933161397,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "ThriveCo"
+    },
+    {
+        "name": "Bontress PRO+ Scalp Serum",
+        "brand": "Bontress",
+        "category": "Hair Serum",
+        "price": 1425.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTs85apSr5rrt-J9wDJiSRQ0GrTOcLKrMkMkF4X17wXQ6bBqBaZ6Jmn7QKMq19yf6hbjCN1xG-4gjJIEYxkEkENRpqjipzQ7PsPLZTiLmGEBG-CxHLQQo3-xQ",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Hair Serum India&prds=catalogid:12542436597541818840,productid:15513637938604891476,headlineOfferDocid:6735398321498738045,imageDocid:16132602292956162504,rds:PC_14092682589101644276|PROD_PC_14092682589101644276,gpcid:14092682589101644276,mid:576462561732978708,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Nykaa"
+    },
+    {
+        "name": "Minimalist Hair Growth Actives Hair Serum",
+        "brand": "Minimalist",
+        "category": "Hair Serum",
+        "price": 1518.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQf5mR_vgdwUbmnbDnX71vIwDLulD-2d3L8F_1RAA5EYMAyOwbhyCdJrGz2km41Ca-hYlHQT-RP4OjXgA_qkKWo53CG0ZE1hh22J_3GAnH799Yqj4deIKIWiA",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Hair Serum India&prds=catalogid:12082872658876851178,productid:17811740775670894273,headlineOfferDocid:2223657028867871391,imageDocid:11740582822207987076,rds:PC_2674927705966530785|PROD_PC_2674927705966530785,gpcid:2674927705966530785,mid:576462874573118070,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Amazon.in"
+    },
+    {
+        "name": "Brinton WellGrow Gold Hair Serum",
+        "brand": "Brinton",
+        "category": "Hair Serum",
+        "price": 1899.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQwKpPYhHz9WP52PtZeQb6nMIDU4k9URXTGXEUd8DVve1CHXUvkVMXYVlmeFp2zA14vlX6xySFus5EWjIr9jcZtZ0kwO_URSP32JsUUOg1oZCMQ9-ALaKCkwQ",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Hair Serum India&prds=catalogid:12666073219949923476,productid:11070793027805993311,headlineOfferDocid:16892324366351957874,imageDocid:5498805406185891210,rds:PC_4314940524037543273|PROD_PC_4314940524037543273,gpcid:4314940524037543273,mid:576462693348958974,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Dermatics India"
+    },
+    {
+        "name": "WishCare Hair Growth Serum",
+        "brand": "WishCare",
+        "category": "Hair Serum",
+        "price": 1926.18,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQYzEQ2ehI9oCpJThA92FTiGwWgcW4g4mZu0ob1kxLVkjiBBRRv9dzpDOX_jzeV-q-EgjjUzkXNe8bFZQvve7q3rr9RUaZxoDXXtUsnHdxPva372IRvGn0X",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Hair Serum India&prds=catalogid:5152152701510291171,productid:17687527743233580549,headlineOfferDocid:16441019503700226504,imageDocid:10408209953592330438,gpcid:11370894932480319891,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "FirstCry India"
+    },
+    {
+        "name": "Hair Growth Serum 2.0 Spray Men's Hair Recovery Kit",
+        "brand": "Hair",
+        "category": "Hair Serum",
+        "price": 2499.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSUlcMB7qOY2FqCPFnufO5_NmyM9UDbtlFeRjd7E1G20WUoEzxxVK8L8gMZj7GF_fUr4jl8aTiLH2A8xq8j1dnhfQQHW-aQm6WWju7bsozBh-uMy0BXCNVC",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Hair Serum India&prds=catalogid:11321982058909899432,productid:7635181785712589668,headlineOfferDocid:6289805195108344443,imageDocid:823611632400182618,rds:PC_970379517338717189|PROD_PC_970379517338717189,gpcid:970379517338717189,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "ThriveCo"
+    },
+    {
+        "name": "Advanced Hair Growth Serum",
+        "brand": "Advanced",
+        "category": "Hair Serum",
+        "price": 3150.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQbq_u6UaYqujbjsBSdENLNdahcnDmS0ktUDMxBmb-Zi_qf5F6P3pCgUzFnvzG8whaXB_e7aZJYPdS1EHXVkwcSWyeYQ9wwF3iDNM0gCSB7G1m5PHY3QeO9",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Hair Serum India&prds=catalogid:7459465170522869140,productid:293913613650671969,headlineOfferDocid:952778135254951748,imageDocid:14937119780861556726,gpcid:9788138060647038631,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Tira"
+    },
+    {
+        "name": "Hair Growth Serum 2.0 Dropper",
+        "brand": "Hair",
+        "category": "Hair Serum",
+        "price": 2499.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSUlcMB7qOY2FqCPFnufO5_NmyM9UDbtlFeRjd7E1G20WUoEzxxVK8L8gMZj7GF_fUr4jl8aTiLH2A8xq8j1dnhfQQHW-aQm6WWju7bsozBh-uMy0BXCNVC",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Hair Serum India&prds=catalogid:4405525888251851477,productid:3267993261317921418,headlineOfferDocid:12929452823121582608,imageDocid:823611632400182618,rds:PC_9777843058277058029|PROD_PC_9777843058277058029,gpcid:9777843058277058029,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "ThriveCo"
+    },
+    {
+        "name": "Advanced Hair Growth Serum",
+        "brand": "Advanced",
+        "category": "Hair Serum",
+        "price": 3150.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR99pY1P6kwSRS7vqWfWEdNOGYDK6FeEU81YG4-asHTWXV_cNbHEFdohcWZmg7YmT1-A92MCk3rxKK4jOZiVO136uEeNLwzkfN1wDofIg-mTKDZ83ECrJwj",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Hair Serum India&prds=catalogid:7459465170522869140,productid:293913613650671969,headlineOfferDocid:14707235005569226400,imageDocid:4896148180374119519,gpcid:9788138060647038631,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "TATA CLiQ LUXURY"
+    },
+    {
+        "name": "Ultimate Hair Mask 200 gms",
+        "brand": "Ultimate",
+        "category": "Hair Mask",
+        "price": 1999.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQxiR_P67qOL64vDroo2vCnwGHmJyheyWu_z_4xWLg2XgNdRdYvOe7w0BosnZZbtNs85FxKJEvjQ9chfdBX3QFdWSDjQvS5T_AEY_BjybpaoVs5icYGShqcTw",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Hair Mask India&prds=catalogid:3479476042050910783,productid:4534779451648058812,headlineOfferDocid:16104953190265229066,imageDocid:6225137319216444621,rds:PC_561019682453275231|PROD_PC_561019682453275231,gpcid:561019682453275231,mid:576462895458459760,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "ThriveCo"
+    },
+    {
+        "name": "QOD Max Prime Hair Mask",
+        "brand": "QOD",
+        "category": "Hair Mask",
+        "price": 1800.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRABPCGrZetI3RsOL2N8pzmkxqD8LJg9HuhrmVC4sD204u0KbcX6d3h7yx7pN4F-AJ1VtX3t5DLyb57zPY6T_K669frzyc-tDnPuF7mZqVhKSepVwA4FkJC0_4",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Hair Mask India&prds=catalogid:4619485294115995615,productid:5213971823795587484,headlineOfferDocid:14108064850144897221,imageDocid:4322985039332497763,rds:PC_8221564199509688303|PROD_PC_8221564199509688303,gpcid:8221564199509688303,mid:576462726097286848,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Myntra"
+    },
+    {
+        "name": "QOD Max Prime Hair Mask",
+        "brand": "QOD",
+        "category": "Hair Mask",
+        "price": 1650.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSmhkAleMvRBIdJ23DxvkrpHuEveIB1YVFMGkZ7JEN9fzEQbr0T-k5xOuKWQgxsznYuuwOs9xmP5wHnSlL2mpG9j3657GU7eXbOBL3J_3vEkh1EQ1Q98CYVEkjc",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Hair Mask India&prds=catalogid:4619485294115995615,productid:5213971823795587484,headlineOfferDocid:12600790463695797432,imageDocid:7850109613635439935,rds:PC_8221564199509688303|PROD_PC_8221564199509688303,gpcid:8221564199509688303,mid:576462726097286848,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Amazon.in"
+    },
+    {
+        "name": "L'Oréal Professionnel Absolut Repair Molecular Mask",
+        "brand": "L'Oréal",
+        "category": "Hair Mask",
+        "price": 1600.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSw07_bHU6BdKGTOrtTvOaTw2JukULPcs7BF-8RWzyQHvixn-_uD61PR0Jv8FxQy41i4UCp29kYI-a2pUJfiqCvqqjle2JRd5DjwBSIJ3LZ0gAVnrK1lbs3xQ",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Hair Mask India&prds=catalogid:9297991862445454083,productid:9039996697626245662,headlineOfferDocid:15463641208945556030,imageDocid:10799020861902327085,rds:PC_9248185838637212935|PROD_PC_9248185838637212935,gpcid:9248185838637212935,mid:576462875786690616,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "amazon.in"
+    },
+    {
+        "name": "Moroccanoil Restorative Hair Mask",
+        "brand": "Moroccanoil",
+        "category": "Hair Mask",
+        "price": 1520.0,
+        "price_range": "1000_2000",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR-L_njEBQvf5t1P0SWeY70nCGAxSbEwTJ7g5Zok4P--JAj1xqsMytJYTzwWROtcQvZ9tTpOuzR_mOf2DkdTkscABt9XdvDGTtoOHzLSLXrF0nJddaOHXOeqw",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Hair Mask India&prds=catalogid:13723809220809085756,productid:6108315750244743400,headlineOfferDocid:5486316759315421406,imageDocid:7231734303742807930,rds:PC_362898542213278421|PROD_PC_362898542213278421,gpcid:362898542213278421,mid:576462784467569951,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Myntra"
+    },
+    {
+        "name": "K18 Leave-in Molecular Repair Hair Mask",
+        "brand": "K18",
+        "category": "Hair Mask",
+        "price": 2430.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ1eJh0Aa-ESyXAczH7XnoIGWg3_HNU541eDparFH7V0Ib5v__ASt5m1zHddugxCbrxB7rZkiMvAZeLZmuC63SgWg1cYkc64w76CghnCLq3wXgwKSZFnFUZmQ",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Hair Mask India&prds=catalogid:3147162919562250922,productid:7605111857560336830,headlineOfferDocid:14736907236288255635,imageDocid:3004238738392188297,rds:PC_3216566221153450484|PROD_PC_3216566221153450484,gpcid:3216566221153450484,mid:576462801270787015,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Tira"
+    },
+    {
+        "name": "Intensive Hair Repair Masque Japapatti & Brahmi",
+        "brand": "Intensive",
+        "category": "Hair Mask",
+        "price": 2250.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTJpUjEUSdw10qzxMFZ1F--o8dTv7eI5nkV7nTS0Z526JyGQO3tC4gzby5fpUk4NBlnpz9a8Rvl10MliaRU1QAD-0G0JsD2YF5eSi4MLB9jXnPiQsBDf3z3HHIO",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Hair Mask India&prds=catalogid:15539128927516433830,productid:8054257338017303047,headlineOfferDocid:8592730880795083874,imageDocid:13604617107378480170,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Forest Essentials India"
+    },
+    {
+        "name": "Kama Ayurveda Bringaras Regenerating Hair Mask",
+        "brand": "Kama",
+        "category": "Hair Mask",
+        "price": 3196.0,
+        "price_range": "2000_5000",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTyz6uJ3mLFMQwPTVJgPPaNJCPQzeii1phxsu04TSnJtGK6z_dEr194ycLmJy6IsBr5Asvpi3Kyl6uQQ3kcH_3Cbh76vB4XOqHtKZ6b9WVrKDrpG0BpK99B",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Hair Mask India&prds=catalogid:18215898625386468072,productid:9555513704752497963,headlineOfferDocid:10173879186341362659,imageDocid:13059439124201097999,rds:PC_7650486250205481020|PROD_PC_7650486250205481020,gpcid:7650486250205481020,mid:576462789052467430,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "amazon.in"
+    },
+    {
+        "name": "K18 Leave-in Molecular Repair Hair Mask",
+        "brand": "K18",
+        "category": "Hair Mask",
+        "price": 5625.0,
+        "price_range": "5000_plus",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSgdhXAuVk2yqATHcwI-3O_iWgx4mSDxuKuPJ4iol-wx76OwFPzC1ZVBY5bQF85xJJaTyZE_S5gac3VTzoUA8YQHFHSuLSMcfk4b3msvV94bUjP4K-BbkaLYg",
+        "product_url": "https://www.google.com/search?ibp=oshop&q=Hair Mask India&prds=catalogid:14005113078356325227,productid:208171842113829216,headlineOfferDocid:15530957905701054513,imageDocid:18401016505156503846,rds:PC_3216566221153450484|PROD_PC_3216566221153450484,gpcid:3216566221153450484,mid:576462801270787015,pvt:hg&hl=en&gl=in&udm=28",
+        "source": "Tira"
+    }
+]

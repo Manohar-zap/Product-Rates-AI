@@ -1,0 +1,100 @@
+{
+    "name": "Mature Skin",
+    "description": "Mature skin refers to the skin of individuals over 40 years old, characterized by signs of aging such as fine lines, wrinkles, loss of elasticity, and uneven pigmentation. It requires a targeted skincare approach focusing on hydration, firming, and protection.",
+    "characteristics": [
+        "Fine lines and wrinkles",
+        "Loss of elasticity",
+        "Dryness",
+        "Uneven skin tone",
+        "Reduced collagen production"
+    ],
+    "common_concerns": [
+        "Anti-aging",
+        "Dullness",
+        "Hyperpigmentation",
+        "Sagging",
+        "Sun damage"
+    ],
+    "recommended_ingredients": [
+        "Retinoids",
+        "Hyaluronic Acid",
+        "Peptides",
+        "Vitamin C",
+        "Niacinamide",
+        "Green Tea Extract",
+        "Squalane"
+    ],
+    "ingredients_to_avoid": [
+        "Alcohol",
+        "Sulfates",
+        "Parabens",
+        "Synthetic Fragrances",
+        "Formaldehyde Donors"
+    ],
+    "recommended_product_categories": [
+        "Serums",
+        "Moisturizers",
+        "Eye Creams",
+        "Exfoliants",
+        "Sunscreens"
+    ],
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Apply a hydrating moisturizer or cream",
+            "purpose": "To lock in moisture and provide a base for makeup if needed"
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Use an exfoliating toner to gently remove dead skin cells",
+            "purpose": "To promote cell turnover and improve texture"
+        },
+        {
+            "step": 2,
+            "action": "Apply a retinoid serum or cream",
+            "purpose": "For its anti-aging benefits in the evening when skin is more receptive"
+        }
+    ],
+    "weekly_care": [
+        "Deep-cleansing facial every week to remove impurities and dead skin cells"
+    ],
+    "lifestyle_tips": [
+        "Consistent use of sunscreen",
+        "Hydration through drinking water and applying hydrating products",
+        "Adequate sleep and stress management"
+    ],
+    "common_mistakes": [
+        "Over-exfoliation leading to irritation or redness",
+        "Ignoring sun protection",
+        "Using heavy, occlusive products that can clog pores"
+    ],
+    "do": [
+        "Incorporate gentle exfoliation into your routine",
+        "Choose lightweight, non-greasy moisturizers",
+        "Apply serums and creams containing active ingredients like retinoids and peptides"
+    ],
+    "dont": [
+        "Avoid using harsh products that can irritate the skin",
+        "Skip sun protection even on cloudy days",
+        "Discontinue use of all skincare products abruptly without consulting a dermatologist"
+    ],
+    "seasonal_care": {
+        "summer": "Increase your sunscreen usage and look for lighter, more hydrating products to manage oiliness.",
+        "winter": "Use richer moisturizers and focus on nourishing ingredients to combat dryness.",
+        "monsoon": "Maintain regular use of retinoids but adjust the frequency of exfoliation steps based on skin sensitivity."
+    },
+    "compatible_skin_types": [
+        "Normal",
+        "Dry"
+    ],
+    "avoid_combinations": [
+        "Oily",
+        "Acne-prone"
+    ],
+    "expert_tips": [
+        "Personalize your skincare routine based on individual needs and concerns.",
+        "Patch test new products to avoid allergic reactions or sensitivities."
+    ]
+}

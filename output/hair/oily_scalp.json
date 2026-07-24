@@ -1,0 +1,83 @@
+{
+    "name": "Oily Scalp",
+    "description": "An oily scalp is characterized by an overproduction of sebum, leading to a shiny appearance and greasy feeling on the scalp. This can result in a sticky or dull texture on the hair, making it prone to buildup.",
+    "hair_texture": "Shiny with possible stickiness or dullness",
+    "porosity": "Normal to High",
+    "characteristics": [
+        "Excessive oil production",
+        "Greasy appearance and feel",
+        "Dull or sticky texture"
+    ],
+    "common_problems": [
+        "Seborrheic dermatitis",
+        "Hair fall",
+        "Odor",
+        "Infections such as folliculitis"
+    ],
+    "recommended_ingredients": [
+        "Salicylic acid",
+        "Tea tree oil",
+        "Charcoal",
+        "Bentonite clay",
+        "Zinc pyrithione"
+    ],
+    "ingredients_to_avoid": [
+        "Heavy oils and butters",
+        "Silicones",
+        "Sulfates",
+        "Alcohol (especially drying alcohols)",
+        "Parabens"
+    ],
+    "recommended_product_categories": [
+        "Anti-dandruff shampoos",
+        "Clarifying masks",
+        "Lightweight styling products"
+    ],
+    "washing_frequency": "Daily or every other day, depending on scalp condition",
+    "oil_recommendation": "Use lightweight, non-greasy oils like argan or rosehip oil for occasional use only.",
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Wash the hair with a clarifying shampoo if needed",
+            "purpose": "Remove excess oil and impurities"
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Rinse thoroughly to remove any shampoo residue",
+            "purpose": "Prevent accumulation of product on the scalp overnight"
+        }
+    ],
+    "weekly_care": [
+        "Use a deep conditioning treatment once a week to replenish moisture without overwhelming the scalp."
+    ],
+    "deep_conditioning_frequency": "Once per week",
+    "heat_styling_recommendation": "Limit heat styling and use heat protectants when needed.",
+    "lifestyle_tips": [],
+    "foods_for_healthy_hair": [
+        "Oily foods in moderation",
+        "Fatty acids from fish, nuts, and seeds",
+        "Vitamin E from avocados, almonds, and sunflower seeds"
+    ],
+    "common_mistakes": [
+        "Over-washing the hair",
+        "Using heavy products that can weigh down the scalp",
+        "Neglecting to use a heat protectant when styling with heat tools"
+    ],
+    "do": [],
+    "dont": [
+        "Avoid leaving product on overnight unless instructed by your dermatologist or trichologist.",
+        "Do not over-wash as it can lead to dryness and irritation."
+    ],
+    "seasonal_care": {
+        "summer": "Stay hydrated and use lighter products to avoid excess oiliness",
+        "winter": "Be mindful of cold weather conditions which can exacerbate dryness; use moisturizing treatments if needed",
+        "monsoon": "Keep hair clean but avoid overwashing due to increased humidity."
+    },
+    "compatible_hair_types": [],
+    "expert_tips": [
+        "Regular scalp massages can help improve circulation and reduce oiliness.",
+        "Use a fine-toothed comb or fingers instead of a brush to minimize breakage."
+    ]
+}

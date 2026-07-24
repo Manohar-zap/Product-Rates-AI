@@ -1,0 +1,101 @@
+{
+    "name": "Acne",
+    "category": "Skin Conditions",
+    "description": "Acne is a common skin condition that occurs when hair follicles become clogged with oil and dead skin cells, forming blemishes on the skin. It can vary in severity from mild to severe.",
+    "causes": [
+        "Hormonal changes",
+        "Genetics",
+        "Bacterial infection",
+        "Excessive oil production",
+        "Comedogenic products"
+    ],
+    "symptoms": [
+        "Pimples",
+        "Blackheads",
+        "Whiteheads",
+        "Cysts",
+        "Inflammation and redness"
+    ],
+    "risk_factors": [
+        "Teenage years (common during puberty)",
+        "Family history of acne",
+        "Oily skin",
+        "Hormonal changes (e.g., menstrual cycles, pregnancy)",
+        "Stress"
+    ],
+    "recommended_ingredients": [
+        "Salicylic acid",
+        "Benzoyl peroxide",
+        "Retinoids",
+        "Niacinamide",
+        "Green tea extract"
+    ],
+    "ingredients_to_avoid": [
+        "Comedogenic ingredients (e.g., cocoa butter, mineral oil)",
+        "Heavy oils and fats",
+        "Fragrances"
+    ],
+    "recommended_product_categories": [
+        "Cleansers",
+        "Toners",
+        "Serums",
+        "Moisturizers",
+        "Sunscreens"
+    ],
+    "daily_routine": [
+        {
+            "step": "Cleanse",
+            "purpose": "Remove dirt, oil, and impurities from the skin."
+        },
+        {
+            "step": "Tone",
+            "purpose": "Balance pH levels and provide an extra boost of antioxidants."
+        },
+        {
+            "step": "Moisturize",
+            "purpose": "Maintain skin hydration without clogging pores."
+        },
+        {
+            "step": "Sunscreen",
+            "purpose": "Protect the skin from UV damage which can exacerbate acne."
+        }
+    ],
+    "professional_treatments": [
+        "Chemical peels",
+        "Laser therapy",
+        "Photodynamic therapy",
+        "Microdermabrasion"
+    ],
+    "natural_remedies": [
+        "Tea tree oil",
+        "Aloe vera gel",
+        "Honey and cinnamon mask"
+    ],
+    "lifestyle_tips": [
+        "Maintain a balanced diet",
+        "Stay hydrated",
+        "Get adequate sleep",
+        "Manage stress through exercise or meditation"
+    ],
+    "common_myths": [
+        "Acne is caused by poor hygiene (in reality, over-cleansing can worsen acne)",
+        "Picking or squeezing pimples will help clear them up (this can lead to scarring and infection)"
+    ],
+    "when_to_consult_doctor": "If acne persists despite home care, if it causes significant distress, or if there are signs of severe acne such as nodules or cysts.",
+    "prevention": [
+        "Keep the skin clean but avoid over-cleansing",
+        "Use non-comedogenic products",
+        "Avoid touching your face",
+        "Manage stress through healthy habits"
+    ],
+    "severity_levels": {
+        "mild": "Mild acne includes mostly blackheads and whiteheads, with minimal redness or inflammation.",
+        "moderate": "Moderate acne involves more significant clogged pores (whiteheads and blackheads) and some inflammatory lesions such as papules and pustules.",
+        "severe": "Severe acne includes nodules, cysts, and significant scarring."
+    },
+    "expert_tips": [
+        "Patch test new products before full application",
+        "Consult a dermatologist for personalized treatment plans",
+        "Be consistent with your skincare routine"
+    ]
+}

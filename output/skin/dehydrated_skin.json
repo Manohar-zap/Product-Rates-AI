@@ -1,0 +1,92 @@
+{
+    "name": "Dehydrated Skin",
+    "description": "Dehydrated skin lacks moisture and appears dull, flaky, or rough. It is distinct from oily or dry skin types and requires a targeted approach to address its specific needs.",
+    "characteristics": [
+        "Feels tight and uncomfortable",
+        "Appears dull with fine lines",
+        "May have increased sensitivity",
+        "Does not respond well to harsh products"
+    ],
+    "common_concerns": [
+        "Fine lines and wrinkles",
+        "Dullness",
+        "Redness and irritation",
+        "Loss of elasticity"
+    ],
+    "recommended_ingredients": [
+        "Hyaluronic Acid",
+        "Glycerin",
+        "Aloe Vera",
+        "Bifidobacterium",
+        "Vitamin E",
+        "Panthenol (Pro-Vitamin B5)"
+    ],
+    "ingredients_to_avoid": [
+        "Alcohol",
+        "Sulfates",
+        "Fragrances",
+        "Harsh exfoliants"
+    ],
+    "recommended_product_categories": [
+        "Moisturizers",
+        "Hydrating serums",
+        "Facial oils",
+        "Humectants",
+        "Emollients"
+    ],
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Cleanse with a gentle, hydrating cleanser.",
+            "purpose": "Remove impurities without stripping the skin's natural barrier."
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Cleansing and toning to remove dirt and excess oils.",
+            "purpose": "Prep the skin for overnight hydration and repair."
+        },
+        {
+            "step": 2,
+            "action": "Apply a hydrating serum or moisturizer rich in hyaluronic acid, glycerin, or aloe vera.",
+            "purpose": "Lock in moisture and provide intense hydration throughout the night."
+        }
+    ],
+    "weekly_care": [
+        "Use a hydrating mask to deeply nourish and replenish skin."
+    ],
+    "lifestyle_tips": [
+        "Stay hydrated by drinking plenty of water daily.",
+        "Use a humidifier to add moisture to indoor air during dry seasons or climates."
+    ],
+    "common_mistakes": [
+        "Over-exfoliating the skin, which can strip it of its natural oils and worsen dehydration.",
+        "Using heavy, occlusive products that can clog pores and lead to breakouts."
+    ],
+    "do": [
+        "Use a humidifier during dry seasons or climates to keep your indoor air from becoming too dry.",
+        "Incorporate hydrating masks into your weekly skincare routine for an extra boost of moisture."
+    ],
+    "dont": [
+        "Skip moisturizing, as this can exacerbate dehydration and make the skin more susceptible to environmental stressors.",
+        "Use products that contain alcohol or fragrances, which can further dry out the skin."
+    ],
+    "seasonal_care": {
+        "summer": "Increase your sunscreen usage to protect against UV damage, which can dehydrate the skin. Use a lightweight, oil-free moisturizer with SPF during hot weather.",
+        "winter": "Use heavier, richer moisturizers and lip balms to combat cold air and indoor heating that can strip moisture from the skin.",
+        "monsoon": "Be cautious of water-based products as they can wash away natural oils; opt for thicker, hydrating formulas."
+    },
+    "compatible_skin_types": [
+        "Normal Skin",
+        "Sensitive Skin"
+    ],
+    "avoid_combinations": [
+        "Oily Skin",
+        "Combination Skin with Oily T-Zone"
+    ],
+    "expert_tips": [
+        "Consider using a hyaluronic acid-based product as it can hold up to 1000 times its weight in water, providing long-lasting hydration.",
+        "Regularly check the ingredients list of your products and avoid those that include harsh chemicals or preservatives known for dehydrating the skin."
+    ]
+}

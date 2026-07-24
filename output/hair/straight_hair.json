@@ -1,0 +1,84 @@
+{
+    "name": "Straight Hair",
+    "description": "Straight hair is typically smooth and uniform in texture, with a straight shape that lies flat against the head without much curl or wave. It generally has fewer cuticles compared to curly or wavy hair types.",
+    "hair_texture": "Smooth and uniform",
+    "porosity": "Low to moderate",
+    "characteristics": [
+        "Even distribution of texture",
+        "Tends to be less prone to frizz",
+        "May have finer strands",
+        "Easier to style with straightening tools"
+    ],
+    "common_problems": [
+        "Increased dryness due to lower sebum production",
+        "Susceptibility to heat damage from styling tools",
+        "More prone to breakage if not properly conditioned"
+    ],
+    "recommended_ingredients": [
+        "Moisturizing conditioners and serums",
+        "Hydrating oils like argan or avocado oil",
+        "Protein treatments for strength and elasticity"
+    ],
+    "ingredients_to_avoid": [
+        "Harsh sulfates that strip natural oils",
+        "Alcohol-based products that can be drying",
+        "High heat styling tools without proper protection"
+    ],
+    "recommended_product_categories": [
+        "Moisturizing shampoos",
+        "Conditioners with hydrating ingredients",
+        "Heat protectant sprays"
+    ],
+    "washing_frequency": "2-3 times a week",
+    "oil_recommendation": "Apply a small amount of oil to the ends before heat styling or as a leave-in treatment for added moisture.",
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Gently massage a hydrating conditioner into the hair and scalp, focusing on the mid-lengths and ends.",
+            "purpose": "To moisturize and detangle the hair."
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Apply a lightweight leave-in conditioner or oil mist to damp hair before styling or sleeping.",
+            "purpose": "To retain moisture overnight and prevent dryness."
+        }
+    ],
+    "weekly_care": [
+        "Deep condition at least once a week using a hydrating mask or deep conditioning treatment."
+    ],
+    "deep_conditioning_frequency": "Once a week",
+    "heat_styling_recommendation": "Use heat protectant spray before styling with hot tools and limit the use of straighteners, curlers, or irons.",
+    "lifestyle_tips": [
+        "Stay well-hydrated to maintain internal moisture balance.",
+        "Protect hair from harsh environmental conditions like wind or cold."
+    ],
+    "foods_for_healthy_hair": [
+        "Protein-rich foods like chicken and fish",
+        "Fruits and vegetables with high water content",
+        "Omega-3 rich foods such as flaxseeds"
+    ],
+    "common_mistakes": [
+        "Over-washing the hair, which can strip natural oils.",
+        "Ignoring hydration needs by using only heavy products."
+    ],
+    "do": [],
+    "dont": [
+        "Do not skip moisturizing steps in your routine.",
+        "Do not use extremely high heat without protection."
+    ],
+    "seasonal_care": {
+        "summer": "Use lightweight, water-based products to keep hair cool and dry.",
+        "winter": "Focus on deep conditioning to counteract cold weather's drying effects.",
+        "monsoon": "Maintain consistent moisture levels by applying oils and conditioners more frequently."
+    },
+    "compatible_hair_types": [
+        "Normal hair",
+        "Fine hair"
+    ],
+    "expert_tips": [
+        "Regular trims can help maintain the length of straight hair, reducing split ends.",
+        "Experiment with different styling techniques to find what works best for your specific texture."
+    ]
+}

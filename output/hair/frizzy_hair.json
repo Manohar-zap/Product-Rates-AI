@@ -1,0 +1,85 @@
+{
+    "name": "Frizzy Hair",
+    "description": "Frizzy hair is a common texture characterized by unpredictable curls, roughness, and flyaways. It tends to be more porous and can be challenging to manage due to its natural tendency to lack moisture and have an uneven cuticle.",
+    "hair_texture": "Curly or wavy with an irregular shape",
+    "porosity": "Highly porous, making it susceptible to over-drying if not cared for properly",
+    "characteristics": [
+        "Flyaways",
+        "Tendrils",
+        "Difficult to style consistently"
+    ],
+    "common_problems": [
+        "Dryness",
+        "Brittleness",
+        "Frizz"
+    ],
+    "recommended_ingredients": [
+        "Hydrating agents like hyaluronic acid and glycerin",
+        "Moisture-rich oils such as argan oil and coconut oil",
+        "Humectants to attract moisture from the air, e.g., honey and aloe vera"
+    ],
+    "ingredients_to_avoid": [
+        "Alcohol-based products that can strip natural oils",
+        "Silicones that may weigh down frizzy hair",
+        "Sulfates as they can be harsh on highly porous hair"
+    ],
+    "recommended_product_categories": [
+        "Hydrating shampoos and conditioners",
+        "Leave-in conditioners and mousses",
+        "Deep conditioners for weekly use"
+    ],
+    "washing_frequency": "Every 2-3 days or as needed, depending on the scalp's oil production",
+    "oil_recommendation": "Lightweight oils like jojoba or grapeseed can help tame frizz without weighing down the hair",
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Apply a small amount of leave-in conditioner or mousse to damp hair before styling.",
+            "purpose": "To hydrate and define curls while providing hold."
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Gently detangle with a wide-tooth comb before bed, applying a lightweight oil if needed.",
+            "purpose": "To prevent tangling overnight and minimize frizz in the morning."
+        }
+    ],
+    "weekly_care": [
+        "Deep condition your hair at least once a week using a rich treatment to lock in moisture."
+    ],
+    "deep_conditioning_frequency": "Once per week",
+    "heat_styling_recommendation": "Use heat protectant sprays and limit the use of hot tools. When styling, allow the hair to cool slightly before applying additional heat.",
+    "lifestyle_tips": [
+        "Stay hydrated by drinking plenty of water.",
+        "Protect your hair from heat with a silk or satin pillowcase."
+    ],
+    "foods_for_healthy_hair": [
+        "Eggs for biotin",
+        "Avocados and nuts for healthy fats",
+        "Berries for antioxidants"
+    ],
+    "common_mistakes": [
+        "Over-washing, which can strip natural oils.",
+        "Using heavy products that weigh down frizzy hair."
+    ],
+    "do": [
+        "Use a microfiber towel to gently pat the hair dry after washing."
+    ],
+    "dont": [
+        "Rush through styling, as it can cause more damage and frizz.",
+        "Sleep with wet or tangled hair, which can lead to breakage."
+    ],
+    "seasonal_care": {
+        "summer": "Protect your hair from the sun using a hat or UV protection spray. Use lighter products during hotter months.",
+        "winter": "Use richer moisturizers and oils to combat dryness caused by cold weather and heating systems.",
+        "monsoon": "Keep hair dry and avoid over-washing, as moisture in humid environments can exacerbate frizz."
+    },
+    "compatible_hair_types": [
+        "Wavy",
+        "Curly"
+    ],
+    "expert_tips": [
+        "Regular trims help maintain the health of your ends.",
+        "Use a diffuser when blow-drying to reduce heat damage and retain curl definition."
+    ]
+}

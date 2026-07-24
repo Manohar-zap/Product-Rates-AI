@@ -1,0 +1,77 @@
+{
+    "routine_name": "Dry Scalp Hair Care Routine",
+    "routine_type": "Hair",
+    "description": "A professional dermatologist-inspired skincare or haircare routine to address dry scalp issues, focusing on hydration and nourishment.",
+    "frequency": "Daily and weekly maintenance",
+    "estimated_time": "30 minutes per day, with additional time for treatments once a week",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Apply a gentle hydrating shampoo suitable for dry scalp conditions",
+            "purpose": "Cleanse the hair and scalp without stripping natural oils",
+            "recommended_ingredients": [
+                "Moisturizing agents",
+                "Gentle surfactants"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Rinse thoroughly with lukewarm water to ensure all shampoo is removed",
+            "purpose": "Prevent residue buildup that can irritate the scalp and clog pores",
+            "recommended_ingredients": []
+        }
+    ],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Apply a hydrating conditioner or leave-in treatment, focusing on the mid-lengths to ends of the hair",
+            "purpose": "Deeply moisturize and protect the cuticle layer from dryness",
+            "recommended_ingredients": [
+                "Hydrating agents",
+                "Protein for strength"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Use a light-hold styling product if necessary, ensuring it’s non-residue-forming to avoid irritating the scalp",
+            "purpose": "Tame frizz and define styles without weighing down the hair or scalp",
+            "recommended_ingredients": [
+                "Light emollients",
+                "Non-comedogenic ingredients"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Sunday",
+            "action": "Apply a deep conditioning treatment or use a hydrating mask for at least 15-20 minutes before rinsing thoroughly"
+        },
+        {
+            "day": "Tuesday",
+            "action": "Use a scalp exfoliating scrub to remove dead skin cells and promote circulation. Rinse well."
+        }
+    ],
+    "do": [],
+    "dont": [
+        "Avoid over-washing the hair, as this can strip natural oils from the scalp",
+        "Do not use overly hot water, which can further dry out the scalp"
+    ],
+    "common_mistakes": [
+        "Over-exfoliating the scalp too frequently, which can irritate and damage the skin barrier",
+        "Using products that contain harsh ingredients or alcohol, which can be irritating to a sensitive scalp"
+    ],
+    "best_products_categories": [
+        "Hydrating shampoos and conditioners",
+        "Gentle scalp exfoliating scrubs",
+        "Deep conditioning treatments or masks for weekly use"
+    ],
+    "expected_results": {
+        "2_weeks": "Improvement in hair texture, reduced dryness and flakiness on the scalp",
+        "1_month": "Increased hydration and softness of the hair, more balanced scalp pH",
+        "3_months": "Reduced dandruff or other scalp conditions, improved overall scalp health"
+    },
+    "expert_tips": [
+        "Regularly check with a dermatologist for personalized recommendations based on your specific condition",
+        "Maintain a healthy diet and stay hydrated to support overall skin health from within"
+    ]
+}

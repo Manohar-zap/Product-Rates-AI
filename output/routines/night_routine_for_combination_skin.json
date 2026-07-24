@@ -1,0 +1,112 @@
+{
+    "routine_name": "Combination Skin Night Routine",
+    "routine_type": "Skincare",
+    "description": "This routine is designed for individuals with combination skin, targeting the evening skincare needs to nourish and balance their skin.",
+    "frequency": "Daily",
+    "estimated_time": "5-10 minutes",
+    "morning_steps": [],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Apply a gentle cleanser",
+            "purpose": "To remove impurities and excess oils without stripping the skin's natural barrier.",
+            "recommended_ingredients": [
+                "Gentle surfactants",
+                "Hydrating agents"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Tone the skin with a hydrating toner",
+            "purpose": "To restore the pH balance and prep the skin for further treatments.",
+            "recommended_ingredients": [
+                "Gentle alcohol-free toners",
+                "Aloe vera"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Apply a lightweight serum",
+            "purpose": "To target specific concerns like uneven texture or fine lines.",
+            "recommended_ingredients": [
+                "Hyaluronic acid",
+                "Vitamin C",
+                "Niacinamide"
+            ]
+        },
+        {
+            "step": 4,
+            "action": "Moisturize with a hydrating cream",
+            "purpose": "To lock in moisture and provide a protective barrier.",
+            "recommended_ingredients": [
+                "Glycerin",
+                "Shea butter",
+                "Jojoba oil"
+            ]
+        },
+        {
+            "step": 5,
+            "action": "Use an overnight mask once or twice a week",
+            "purpose": "For deep hydration and repair of the skin.",
+            "recommended_ingredients": [
+                "Olive oil",
+                "Charcoal"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Sunday",
+            "action": "Exfoliate with a gentle chemical exfoliant"
+        },
+        {
+            "day": "Monday",
+            "action": "Apply a hyaluronic acid serum"
+        },
+        {
+            "day": "Tuesday",
+            "action": "Use a clay mask to purify the skin"
+        },
+        {
+            "day": "Wednesday",
+            "action": "Apply a peptide serum"
+        },
+        {
+            "day": "Thursday",
+            "action": "Moisturize with an oil-free moisturizer"
+        },
+        {
+            "day": "Friday",
+            "action": "Use a brightening treatment mask"
+        },
+        {
+            "day": "Saturday",
+            "action": "Apply a retinol serum for cell turnover"
+        }
+    ],
+    "do": [],
+    "dont": [
+        "Over-exfoliate, which can irritate the skin and worsen combination areas.",
+        "Skip moisturizing, as it is crucial for maintaining skin hydration."
+    ],
+    "common_mistakes": [
+        "Using heavy creams that can clog pores in oil-prone areas of the face.",
+        "Failing to cleanse the skin properly before applying treatments."
+    ],
+    "best_products_categories": [
+        "Gentle cleansers",
+        "Hydrating toners",
+        "Lightweight serums",
+        "Oil-free moisturizers",
+        "Nighttime masks"
+    ],
+    "expected_results": {
+        "2_weeks": "Improved skin texture and reduced oiliness in T-zone.",
+        "1_month": "Enhanced hydration, balanced sebum production, and improved overall skin tone.",
+        "3_months": "More even skin texture, reduced fine lines, and a healthier complexion."
+    },
+    "expert_tips": [
+        "Patch test new products before incorporating them into your routine to ensure they are suitable for your skin type.",
+        "Stay consistent with your skincare regimen for optimal results."
+    ]
+}

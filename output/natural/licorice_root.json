@@ -1,0 +1,41 @@
+{
+    "name": "Licorice Root",
+    "scientific_name": "Glycyrrhiza glabra",
+    "category": "Herb",
+    "description": "Licorice root, also known as glycyrrhiza, is a traditional herbal remedy with a long history of use in various cultures. It is characterized by its sweet taste and has been used for skin and hair care due to its anti-inflammatory, antioxidant, and antimicrobial properties.",
+    "benefits_skin": [
+        "Reduces inflammation",
+        "Hydrates the skin",
+        "Fades dark spots",
+        "Brightens complexion"
+    ],
+    "benefits_hair": [
+        "Strengthens hair follicles",
+        "Promotes scalp health",
+        "Prevents dandruff"
+    ],
+    "best_for": [
+        "Individuals with inflamed or irritated skin conditions such as acne and eczema",
+        "People seeking natural skin lightening solutions",
+        "Individuals looking to strengthen their hair and promote overall scalp health"
+    ],
+    "avoid_for": [
+        "Those allergic to licorice root",
+        "Individuals with high blood pressure or heart issues, due to potential sodium retention effects"
+    ],
+    "how_to_use": [
+        "Infuse dried licorice root in a carrier oil for skin serums or masks",
+        "Use as an ingredient in homemade hair care recipes such as shampoos and conditioners",
+        "Consume in small amounts of licorice tablets under medical advice for its health benefits"
+    ],
+    "possible_side_effects": [
+        "May cause hypertension if used excessively due to glycyrrhizic acid content",
+        "May interact with certain medications, especially those affecting the adrenal glands or blood pressure"
+    ],
+    "works_well_with": [
+        "Aloe vera, chamomile, and green tea for skin care",
+        "Sage, rosemary, and peppermint for hair care"
+    ],
+    "scientific_evidence": "Several studies have shown that licorice root extract can help in reducing inflammation, providing antioxidant protection to the skin, and improving skin hydration. It also contains flavonoids that may contribute to its anti-aging properties.",
+    "rating": 4
+}

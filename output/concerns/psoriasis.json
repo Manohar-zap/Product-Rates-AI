@@ -1,0 +1,66 @@
+{
+    "name": "Psoriasis",
+    "category": "Dermatological Conditions",
+    "description": "Psoriasis is a chronic autoimmune condition that affects the skin, causing it to become thickened and scaly. It is characterized by red patches covered with silvery scales.",
+    "causes": [
+        "Genetic factors",
+        "Immune system abnormalities",
+        "Environmental triggers"
+    ],
+    "symptoms": [
+        "Red, raised, and often scaly patches on the skin",
+        "Thickened skin around nails (pitting or lifting)",
+        "Joint pain and swelling (psoriatic arthritis)"
+    ],
+    "risk_factors": [
+        "Family history of psoriasis",
+        "Previous cases of streptococcal infection",
+        "Stress"
+    ],
+    "recommended_ingredients": [],
+    "ingredients_to_avoid": [
+        "Irritating ingredients like alcohol and fragrances"
+    ],
+    "recommended_product_categories": [
+        "Moisturizers",
+        "Topical corticosteroids",
+        "UVB phototherapy products"
+    ],
+    "daily_routine": [
+        {
+            "step": "Apply moisturizer regularly to maintain skin hydration.",
+            "purpose": "Helps reduce itching and scaling."
+        },
+        {
+            "step": "Use a humidifier in dry climates or during winter months.",
+            "purpose": "Prevents skin from becoming overly dry and irritated."
+        }
+    ],
+    "professional_treatments": [
+        "Phototherapy",
+        "Systemic medications",
+        "Biologic drugs"
+    ],
+    "natural_remedies": [],
+    "lifestyle_tips": [
+        "Manage stress through techniques like meditation or yoga.",
+        "Avoid smoking and limit alcohol consumption."
+    ],
+    "common_myths": [
+        "Psoriasis is contagious (it is not).",
+        "Psoriasis can be cured by sunburns (excessive UV exposure can worsen symptoms)."
+    ],
+    "when_to_consult_doctor": "If your condition worsens or if you develop new symptoms, consult a dermatologist.",
+    "prevention": [
+        "Maintain a healthy lifestyle to reduce risk factors."
+    ],
+    "severity_levels": {
+        "mild": "Mild psoriasis may involve fewer than three affected areas with minimal scaling and no significant discomfort.",
+        "moderate": "Moderate psoriasis involves more extensive skin involvement, affecting between 3-10% of the body surface area, causing noticeable symptoms but not severe impairment in daily activities.",
+        "severe": "Severe psoriasis covers over 10% of the body and can cause significant physical discomfort, disability, and impact on quality of life."
+    },
+    "expert_tips": [
+        "Follow a consistent treatment plan as prescribed by your dermatologist.",
+        "Regularly communicate with your healthcare provider about changes in symptoms or side effects from medications."
+    ]
+}

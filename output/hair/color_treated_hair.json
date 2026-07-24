@@ -1,0 +1,93 @@
+{
+    "name": "Color Treated Hair",
+    "description": "Hair that has been chemically treated with hair dye, highlighting, or bleach to change its color. This type of hair is typically more prone to damage and requires specific care to maintain health and appearance.",
+    "hair_texture": "",
+    "porosity": "Generally high due to the damage from coloring processes",
+    "characteristics": [
+        "May have a dull appearance",
+        "Brittle texture",
+        "Increased porosity leading to faster moisture loss"
+    ],
+    "common_problems": [
+        "Tendency for breakage and split ends",
+        "Dryness and lack of shine",
+        "Color fading or uneven color distribution"
+    ],
+    "recommended_ingredients": [
+        "Hydrating ingredients like hyaluronic acid, glycerin, and aloe vera",
+        "Protein-rich treatments to strengthen hair",
+        "Moisturizing agents such as shea butter and coconut oil"
+    ],
+    "ingredients_to_avoid": [
+        "Sulfates",
+        "Alcohol",
+        "Parabens",
+        "Formaldehyde-releasing preservatives"
+    ],
+    "recommended_product_categories": [
+        "Color-safe shampoos",
+        "Deep conditioning treatments",
+        "Heat protectants for styling"
+    ],
+    "washing_frequency": "No more than twice a week, with gentle color-safe products",
+    "oil_recommendation": "Use lightweight oils like argan or jojoba oil for added shine and protection",
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Apply a small amount of leave-in conditioner to damp hair",
+            "purpose": "To hydrate and protect hair from styling tools"
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Rinse out the leave-in conditioner with cool water",
+            "purpose": "To seal in moisture and prevent excessive heat exposure during sleep"
+        },
+        {
+            "step": 2,
+            "action": "Apply a heat protectant before using any styling tools",
+            "purpose": "To shield hair from damage caused by high temperatures"
+        }
+    ],
+    "weekly_care": [
+        "Deep conditioning treatments are recommended once a week to restore moisture and strength"
+    ],
+    "deep_conditioning_frequency": "Once a week",
+    "heat_styling_recommendation": "Limit heat styling or use low-temperature settings when necessary",
+    "lifestyle_tips": [
+        "Wear protective hairstyles like braids or buns to reduce tension on hair",
+        "Use wide-tooth combs and avoid harsh brushing"
+    ],
+    "foods_for_healthy_hair": [
+        "Eggs for protein",
+        "Avocados for healthy fats",
+        "Nuts and seeds for vitamins and minerals"
+    ],
+    "common_mistakes": [
+        "Over-washing hair, leading to more dryness and damage",
+        "Using harsh chemicals or heat styling tools excessively"
+    ],
+    "do": [
+        "Use sulfate-free and pH-balanced shampoos",
+        "Protect hair from sun exposure by wearing a hat"
+    ],
+    "dont": [
+        "Avoid using too much product that can weigh down color-treated hair",
+        "Do not sleep with your head on a pillowcase made of rough fabric, as it can irritate the scalp and lead to breakage"
+    ],
+    "seasonal_care": {
+        "summer": "Use lighter products and avoid direct sunlight to prevent excessive drying and damage",
+        "winter": "Focus on hydrating hair more frequently due to increased dryness from cold weather and indoor heating",
+        "monsoon": "Protect hair from moisture and humidity, as this can lead to increased breakage"
+    },
+    "compatible_hair_types": [
+        "Normal hair",
+        "Dry hair",
+        "Fine hair"
+    ],
+    "expert_tips": [
+        "Consider using a color protecting spray or treatment for added longevity of your color",
+        "Regular trims can help maintain the health and appearance of your colored hair by removing split ends"
+    ]
+}

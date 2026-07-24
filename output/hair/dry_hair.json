@@ -1,0 +1,92 @@
+{
+    "name": "Dry Hair",
+    "description": "Dry hair is characterized by a lack of moisture and often appears brittle, frizzy, and prone to breakage. It lacks the natural oils that keep the strands hydrated and healthy.",
+    "hair_texture": "brittle, coarse",
+    "porosity": "high",
+    "characteristics": [
+        "Frizz",
+        "Brittleness",
+        "Breakage",
+        "Tangles",
+        "Low shine"
+    ],
+    "common_problems": [
+        "Split ends",
+        "Crackling sound when running fingers through hair",
+        "Difficulty styling due to frizz and dryness"
+    ],
+    "recommended_ingredients": [
+        "Hydrating agents (e.g., hyaluronic acid, glycerin)",
+        "Moisture-rich oils (e.g., argan oil, coconut oil)",
+        "Proteins (e.g., keratin, wheat protein)"
+    ],
+    "ingredients_to_avoid": [
+        "Sulfates",
+        "Alcohol-based products",
+        "Parabens"
+    ],
+    "recommended_product_categories": [
+        "Moisturizing shampoos and conditioners",
+        "Deep conditioning treatments",
+        "Leave-in conditioners",
+        "Intensive hair masks"
+    ],
+    "washing_frequency": "Every other day or every third day to avoid stripping natural oils",
+    "oil_recommendation": "Regular use of hair oils can help lock in moisture. Apply a small amount on damp hair and style as usual.",
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Apply a hydrating leave-in conditioner or serum to damp hair",
+            "purpose": "To keep hair moisturized throughout the day"
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Deep condition your hair using a mask or intensive treatment at least once a week",
+            "purpose": "To replenish moisture and strengthen strands"
+        }
+    ],
+    "weekly_care": [
+        "Use a heat protectant before applying any heat styling tools to avoid further damage"
+    ],
+    "deep_conditioning_frequency": "Once a week or as needed based on hair condition",
+    "heat_styling_recommendation": "Limit the use of heat styling tools and always apply heat protectants. Consider air-drying your hair when possible.",
+    "lifestyle_tips": [
+        "Stay hydrated by drinking plenty of water daily",
+        "Eat a balanced diet rich in vitamins and minerals that support healthy hair growth"
+    ],
+    "foods_for_healthy_hair": [
+        "Fatty fish (salmon, mackerel)",
+        "Avocados",
+        "Nuts and seeds",
+        "Dark leafy greens"
+    ],
+    "common_mistakes": [
+        "Over-washing your hair",
+        "Using harsh products that can strip natural oils",
+        "Ignoring heat protection when styling"
+    ],
+    "do": [
+        "Regularly deep condition to keep strands moisturized",
+        "Use a wide-tooth comb or fingers to detangle"
+    ],
+    "dont": [
+        "Skip hydrating and moisture-rich products",
+        "Over-heat style your hair",
+        "Rely on heavy styling products that can weigh down dry hair"
+    ],
+    "seasonal_care": {
+        "summer": "Use lighter, oil-free products to avoid greasiness. Protect hair from sun exposure by wearing a hat or using a UV-protective spray.",
+        "winter": "Focus on deep conditioning and use richer, more nourishing products to combat dry winter air.",
+        "monsoon": "Increase the frequency of deep conditionings to counteract moisture loss due to humidity."
+    },
+    "compatible_hair_types": [
+        "Damaged hair",
+        "Oily hair (when using appropriate balancing products)"
+    ],
+    "expert_tips": [
+        "Regular trims can help prevent split ends and keep dry, damaged hair manageable.",
+        "Consider a humidifier in your home or office to add moisture back into the air during dry winter months."
+    ]
+}

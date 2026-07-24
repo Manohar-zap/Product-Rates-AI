@@ -1,0 +1,89 @@
+{
+    "name": "Dry Skin",
+    "description": "Dry skin lacks sufficient natural oil and moisture, leading to a rough texture and flakiness. It requires special care to maintain hydration and prevent irritation.",
+    "characteristics": [
+        "Rough texture",
+        "Flaky or scaly appearance",
+        "Tightness and discomfort",
+        "Fine lines may be more visible",
+        "Skin is prone to redness and irritation"
+    ],
+    "common_concerns": [
+        "Intense dryness",
+        "Reddening of the skin",
+        "Sensitive reactions",
+        "Premature aging due to dehydration"
+    ],
+    "recommended_ingredients": [
+        "Humectants (glycerin, hyaluronic acid)",
+        "Emollients (shea butter, squalane)",
+        "Fatty acids (plant oils like jojoba oil, avocado oil)",
+        "Occlusives (petrolatum, ceramides)"
+    ],
+    "ingredients_to_avoid": [
+        "Alcohol",
+        "Sodium lauryl sulfate",
+        "Strong fragrances"
+    ],
+    "recommended_product_categories": [
+        "Hydrating cleansers",
+        "Moisturizing serums",
+        "Rich moisturizers or creams",
+        "Sunscreen with broad-spectrum SPF"
+    ],
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Apply a hydrating cleanser to remove any impurities without stripping the skin.",
+            "purpose": "Prep the skin for daytime moisture and protect against environmental stressors."
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Use a gentle, non-foaming cleanser followed by an intensive hydrating moisturizer or cream.",
+            "purpose": "Replenish skin's natural moisture barrier while you sleep."
+        },
+        {
+            "step": 2,
+            "action": "Apply a nourishing serum rich in hyaluronic acid or ceramides.",
+            "purpose": "Further enhance hydration and support the skin’s lipid layer."
+        }
+    ],
+    "weekly_care": [
+        "Exfoliate with a gentle chemical exfoliant once a week to remove dead skin cells without causing irritation."
+    ],
+    "lifestyle_tips": [
+        "Stay hydrated by drinking plenty of water.",
+        "Use humidifiers in dry environments.",
+        "Protect your skin from harsh weather conditions like wind and cold."
+    ],
+    "common_mistakes": [
+        "Over-cleansing the skin, which can further strip natural oils.",
+        "Skipping moisturizer or using products that are too heavy for daytime use."
+    ],
+    "do": [
+        "Apply a humidifier in dry climates to increase indoor humidity.",
+        "Use lukewarm water when washing your face rather than hot water."
+    ],
+    "dont": [
+        "Skip the sunscreen, even on cloudy days.",
+        "Rinse off all cleansers thoroughly and pat skin dry gently with a soft towel."
+    ],
+    "seasonal_care": {
+        "summer": "Use lighter, oil-free moisturizers to keep skin hydrated without feeling greasy. Protect your skin from sun damage by using a broad-spectrum SPF.",
+        "winter": "Increase the use of rich emollients and occlusives to combat dryness. Consider indoor humidification to maintain optimal skin moisture levels.",
+        "monsoon": "Protect your skin from increased humidity with gentle, hydrating cleansers and moisturizers that are less likely to cause irritation."
+    },
+    "compatible_skin_types": [
+        "Normal Skin",
+        "Combination Skin (dry areas)"
+    ],
+    "avoid_combinations": [
+        "Oily Skin"
+    ],
+    "expert_tips": [
+        "Patch test new products before fully integrating them into your skincare routine to ensure they do not cause irritation.",
+        "Consult a dermatologist for personalized advice on managing dry skin, especially if symptoms are severe or persistent."
+    ]
+}

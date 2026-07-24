@@ -1,0 +1,87 @@
+{
+    "name": "Blackheads",
+    "category": "Skin Conditions",
+    "description": "Blackheads, also known as open comedones, are a common form of acne where the top part of a clogged hair follicle remains visible on the skin surface and appears dark or black.",
+    "causes": [
+        "Sebum production that is excessive for the rate of cell turnover in the hair follicle",
+        "Dead skin cells not being removed properly, leading to partial blockage of the pore",
+        "Genetic factors influencing sebum production and skin cell turnover"
+    ],
+    "symptoms": [
+        "Small black dots on the skin surface, typically found on the nose and forehead",
+        "May be accompanied by slight redness around the affected area",
+        "Occasionally, may develop into larger bumps if irritated or treated improperly"
+    ],
+    "risk_factors": [
+        "Oily skin type",
+        "Hormonal changes such as those during puberty, pregnancy, or menstruation",
+        "Genetic predisposition to acne and blackheads",
+        "Use of heavy cosmetics or greasy skincare products that can clog pores"
+    ],
+    "recommended_ingredients": [
+        "Salicylic acid",
+        "Benzoyl peroxide",
+        "Retinoids (over-the-counter strength)",
+        "Alpha-hydroxy acids (AHAs)"
+    ],
+    "ingredients_to_avoid": [
+        "Heavy oils and creams that can clog pores",
+        "Products with high comedogenic ratings"
+    ],
+    "recommended_product_categories": [
+        "Cleansers",
+        "Toners",
+        "Exfoliants",
+        "Serums",
+        "Moisturizers (non-comedogenic)"
+    ],
+    "daily_routine": [
+        {
+            "step": "Cleansing",
+            "purpose": "Remove excess oil and dead skin cells to prevent pore clogging"
+        },
+        {
+            "step": "Exfoliation",
+            "purpose": "Help remove dead skin cells and unclog pores, but avoid over-exfoliating which can irritate the skin"
+        },
+        {
+            "step": "Treatment Application",
+            "purpose": "Apply products containing active ingredients like salicylic acid or retinoids to target blackheads"
+        }
+    ],
+    "professional_treatments": [
+        "Chemical peels",
+        "Microdermabrasion",
+        "Laser therapy",
+        "Pore minimization treatments"
+    ],
+    "natural_remedies": [
+        "Tea tree oil (diluted and used sparingly)",
+        "Green tea (topical application to soothe inflammation)"
+    ],
+    "lifestyle_tips": [
+        "Maintain a consistent skincare routine",
+        "Stay hydrated by drinking plenty of water",
+        "Avoid touching or squeezing blackheads as this can irritate the skin and potentially lead to infection"
+    ],
+    "common_myths": [
+        "Myth: Eating too much chocolate causes blackheads. Reality: Blackheads are primarily caused by hormonal factors, not diet.",
+        "Myth: Keeping your face oily will make it less prone to blackheads. Reality: This can actually worsen the condition as excess oil can clog pores."
+    ],
+    "when_to_consult_doctor": "If blackheads become painful, inflamed, or cover a large area of the skin; or if they are not responding to at-home treatments after several weeks.",
+    "prevention": [
+        "Regularly cleanse and exfoliate the skin",
+        "Use non-comedogenic products",
+        "Manage stress levels which can affect hormone balance"
+    ],
+    "severity_levels": {
+        "mild": "A few blackheads present, typically requiring minimal treatment or care.",
+        "moderate": "More noticeable presence of blackheads, possibly accompanied by mild redness or irritation. May benefit from more targeted at-home treatments and professional guidance.",
+        "severe": "Large numbers of blackheads, significant redness, pain, or scarring. Requires medical intervention for effective treatment."
+    },
+    "expert_tips": [
+        "Consult a dermatologist to determine the best course of action based on individual skin type and condition severity.",
+        "Be patient with treatments; results may take several weeks to become noticeable.",
+        "Consistency is key in managing blackheads; do not stop using products that are effective even if you notice improvements."
+    ]
+}

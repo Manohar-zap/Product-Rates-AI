@@ -1,0 +1,61 @@
+{
+    "routine_name": "Oily Scalp Hair Routine",
+    "routine_type": "Hair Care",
+    "description": "This routine is designed to manage an oily scalp and promote a healthy hair texture.",
+    "frequency": "Daily for morning steps, weekly for night steps, monthly for deep cleansing treatments",
+    "estimated_time": "20-30 minutes per day, with additional time for deep cleanses once a month",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Gently massage the scalp and hair with a light shampoo designed for oily scalps.",
+            "purpose": "To cleanse excess oil and dirt without stripping natural oils.",
+            "recommended_ingredients": [
+                "Salicylic Acid",
+                "Tea Tree Oil"
+            ]
+        }
+    ],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Apply a clarifying scalp treatment or mud mask to the scalp before bedtime.",
+            "purpose": "To absorb excess oil and soothe the scalp overnight.",
+            "recommended_ingredients": [
+                "Charcoal",
+                "Clay"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Saturday",
+            "action": "Deep condition your hair with a hydrating mask to restore moisture balance."
+        }
+    ],
+    "do": [
+        "Use a wide-tooth comb to detangle hair gently.",
+        "Avoid excessive heat styling and tight hairstyles which can exacerbate oil production."
+    ],
+    "dont": [
+        "Rinse your hair thoroughly when shampooing to ensure all product is removed.",
+        "Over-wash your hair as it can lead to overproduction of sebum, making the scalp oilier."
+    ],
+    "common_mistakes": [
+        "Ignoring the need for deep cleanses and relying solely on daily washes.",
+        "Using too many styling products which can block pores and increase oiliness."
+    ],
+    "best_products_categories": [
+        "Shampoos for oily scalps",
+        "Clarifying scalp treatments",
+        "Hydrating hair masks"
+    ],
+    "expected_results": {
+        "2_weeks": "Reduced oil production, improved scalp health.",
+        "1_month": "Balanced hair and scalp with reduced greasiness during the day.",
+        "3_months": "Sustained improvement in hair texture and scalp condition."
+    },
+    "expert_tips": [
+        "Regular scalp massage can improve blood circulation and help manage sebum levels.",
+        "Stay hydrated as dehydration can lead to an overproduction of oil by the scalp."
+    ]
+}

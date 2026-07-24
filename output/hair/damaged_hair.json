@@ -1,0 +1,97 @@
+{
+    "name": "Damaged Hair",
+    "description": "Hair that has been compromised in structure and appearance due to various external factors such as chemical treatments, thermal styling, physical damage from tools or harsh brushes, and environmental stressors.",
+    "hair_texture": "Can vary widely; can be dry, brittle, frizzy, or have a mix of textures",
+    "porosity": "Highly porous, meaning the cuticles are lifted and more open, leading to faster absorption of moisture but also easier loss of moisture",
+    "characteristics": [
+        "Brittleness and breakage",
+        "Fraying at the ends",
+        "Increased dryness and lack of shine",
+        "Reduced elasticity and manageability"
+    ],
+    "common_problems": [
+        "Split ends",
+        "Hair that is prone to tangling",
+        "Frizz and flyaways",
+        "Uneven texture distribution"
+    ],
+    "recommended_ingredients": [
+        "Hydrolyzed collagen",
+        "Panthenol (pro-Vitamin B5)",
+        "Amino acids",
+        "Biotin",
+        "Proteins (such as keratin or silk proteins)"
+    ],
+    "ingredients_to_avoid": [
+        "Alcohol",
+        "Sulfates",
+        "Parabens",
+        "Formaldehyde releasers",
+        "Fragrance"
+    ],
+    "recommended_product_categories": [
+        "Deep conditioning treatments",
+        "Repairing shampoos and conditioners",
+        "Heat protectants for thermal styling",
+        "Intensive serums with high concentrations of active ingredients"
+    ],
+    "washing_frequency": "Every 2-3 days, or as needed to avoid excessive oiliness while keeping hair clean",
+    "oil_recommendation": "Use light oils that are easily absorbed and do not weigh down the hair",
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Apply a leave-in conditioner or lightweight serum",
+            "purpose": "To hydrate and protect the hair from daily stressors"
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Deep condition or use a overnight treatment",
+            "purpose": "To repair and nourish damaged strands while they are at rest"
+        }
+    ],
+    "weekly_care": [
+        "Use a protein treatment to strengthen the hair structure"
+    ],
+    "deep_conditioning_frequency": "Once a week, for at least 30 minutes",
+    "heat_styling_recommendation": "Minimize heat styling or use heat protectants and limit heat exposure time",
+    "lifestyle_tips": [
+        "Avoid excessive brushing of wet hair to prevent breakage",
+        "Use wide-tooth combs when detangling"
+    ],
+    "foods_for_healthy_hair": [
+        "Protein-rich foods (eggs, fish, chicken)",
+        "Fatty acids from avocados and nuts",
+        "Iron and vitamin C from leafy greens to aid in absorption"
+    ],
+    "common_mistakes": [
+        "Over-washing the hair",
+        "Using harsh chemicals or products without considering compatibility",
+        "Neglecting deep conditioning treatments",
+        "Frequent use of heat styling tools without protection"
+    ],
+    "do": [
+        "Protect hair from environmental damage with hats and scarves",
+        "Stay hydrated to maintain overall health, which reflects in the condition of your hair"
+    ],
+    "dont": [
+        "Roughly handle hair when wet or dry",
+        "Overuse heat styling tools without protection",
+        "Skip regular moisturizing and deep conditioning treatments"
+    ],
+    "seasonal_care": {
+        "summer": "Use lighter products and protect from sun damage with hats or UV-protectant sprays",
+        "winter": "Increase moisture intake to counter dry, cold air, and use more hydrating products",
+        "monsoon": "Keep hair dry to prevent fungal infections; use antifungal shampoos if necessary"
+    },
+    "compatible_hair_types": [
+        "Damaged Hair",
+        "Very Fine Hair",
+        "Normal Hair (can handle a bit of damage)"
+    ],
+    "expert_tips": [
+        "Consult with a dermatologist or trichologist for personalized recommendations and treatment plans",
+        "Be patient; repairing damaged hair takes time and consistent care"
+    ]
+}

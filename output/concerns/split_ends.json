@@ -1,0 +1,91 @@
+{
+    "name": "Split Ends",
+    "category": "Hair Care",
+    "description": "Split ends are a common hair concern characterized by the splitting or fraying of hair strands, typically at the tips. They can lead to brittle, dry, and damaged hair, making it appear unhealthy and unmanageable.",
+    "causes": [
+        "Excessive heat styling (using curling irons, straighteners, or hairdryers)",
+        "Overuse of chemical treatments (coloring, perming, relaxing)",
+        "Aggressive brushing or combing, especially when hair is wet",
+        "Harsh environmental conditions (extreme cold, wind, saltwater exposure)",
+        "Poor diet lacking essential nutrients"
+    ],
+    "symptoms": [
+        "Visible fraying and splitting at the ends of hair strands",
+        "Brittle and easily breakable hair",
+        "Dryness and rough texture along the length of the hair shaft",
+        "Loss of shine and overall hair health"
+    ],
+    "risk_factors": [
+        "Frequent heat styling or use of hot tools",
+        "Regular chemical processing (dyeing, perming, straightening)",
+        "Aggressive brushing or combing practices",
+        "Living in a dry climate",
+        "Poor nutrition and hydration"
+    ],
+    "recommended_ingredients": [
+        "Conditioners with protein (such as keratin, silk amino acids)",
+        "Moisturizing serums",
+        "Heat protectants for styling tools",
+        "Natural oils like argan, coconut, or jojoba oil"
+    ],
+    "ingredients_to_avoid": [
+        "Harsh sulfates and strong detergents in shampoos",
+        "Alcohol-based products that can dry out hair",
+        "Formaldehyde releasers found in some hair products"
+    ],
+    "recommended_product_categories": [
+        "Deep conditioning treatments",
+        "Heat protectant sprays",
+        "Nourishing hair oils and serums",
+        "Protein-rich conditioners"
+    ],
+    "daily_routine": [
+        {
+            "step": "Use a wide-tooth comb or fingers to detangle wet hair gently, starting from the ends.",
+            "purpose": "Reduces breakage during washing and styling."
+        },
+        {
+            "step": "Apply a heat protectant before using any hot tools.",
+            "purpose": "Prevents thermal damage to hair strands."
+        },
+        {
+            "step": "Use a deep conditioning treatment once or twice a week.",
+            "purpose": "Rehydrates and strengthens the hair shaft, reducing split ends."
+        }
+    ],
+    "professional_treatments": [
+        "Thermal styling sessions",
+        "Haircut to remove damaged sections",
+        "Intensive moisturizing treatments"
+    ],
+    "natural_remedies": [
+        "Regular use of avocado or olive oil masks",
+        "Massaging the scalp with castor oil",
+        "Eating a balanced diet rich in vitamins and minerals"
+    ],
+    "lifestyle_tips": [
+        "Limit heat styling to no more than twice a week.",
+        "Wear a protective style like braids or buns when exposing hair to sun or wind.",
+        "Drink plenty of water daily to keep the body and scalp hydrated."
+    ],
+    "common_myths": [
+        "Split ends will travel up the hair shaft if not cut off promptly.",
+        "Using hair oils will make hair greasy and heavy."
+    ],
+    "when_to_consult_doctor": "If split ends progress to hair loss or if there is persistent dryness, brittleness, or other signs of serious hair damage.",
+    "prevention": [
+        "Adopt a gentler brushing technique (use a wide-tooth comb or fingers)",
+        "Use heat protectant before styling with hot tools",
+        "Limit exposure to harsh environmental conditions"
+    ],
+    "severity_levels": {
+        "mild": "Visible split ends on the tips of hair, manageable with regular care routines.",
+        "moderate": "Split ends extending towards mid-lengths, requiring more intensive treatment and frequent maintenance.",
+        "severe": "Significant damage throughout the length of the hair shaft, leading to breakage and loss; may require professional intervention."
+    },
+    "expert_tips": [
+        "Regular trims every 6-8 weeks can help prevent split ends from traveling up the hair shaft.",
+        "Invest in a high-quality brush with soft bristles for better detangling without causing breakage.",
+        "Stay consistent with your hair care routine and avoid over-processing or chemical treatments."
+    ]
+}

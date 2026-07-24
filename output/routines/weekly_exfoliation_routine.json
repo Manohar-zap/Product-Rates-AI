@@ -1,0 +1,64 @@
+{
+    "routine_name": "Weekly Exfoliation Routine",
+    "routine_type": "Skincare",
+    "description": "This routine focuses on gentle exfoliation to remove dead skin cells and improve overall skin texture, leading to a brighter complexion and better skincare product absorption.",
+    "frequency": "Once per week",
+    "estimated_time": "15-20 minutes",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Cleanse face with a gentle cleanser",
+            "purpose": "Pre-cleansing to remove impurities and prepare the skin for exfoliation",
+            "recommended_ingredients": [
+                "Gentle foaming agents"
+            ]
+        }
+    ],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Cleanse face with a gentle cleanser",
+            "purpose": "Pre-cleansing to remove impurities and prepare the skin for exfoliation",
+            "recommended_ingredients": [
+                "Gentle foaming agents"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Saturday or Sunday evening",
+            "action": "Apply a chemical or physical exfoliant, depending on your skin type, to remove dead skin cells"
+        }
+    ],
+    "do": [
+        "Choose an appropriate exfoliant for your skin type (e.g., sensitive, oily, combination, dry)",
+        "Pat the product into the skin with gentle circular motions",
+        "Allow the exfoliant to work for the recommended time",
+        "Gently rinse off and moisturize"
+    ],
+    "dont": [
+        "Over-exfoliate as this can irritate the skin and lead to redness or dryness",
+        "Skip the pre-cleansing step; it’s important for effective exfoliation",
+        "Use harsh scrubs on sensitive or damaged skin"
+    ],
+    "common_mistakes": [
+        "Using too strong an exfoliant for one's skin type, leading to irritation and redness",
+        "Failing to thoroughly cleanse the skin before applying an exfoliant",
+        "Over-exfoliating, which can strip the skin of its natural oils and lead to dryness"
+    ],
+    "best_products_categories": [
+        "Gentle chemical exfoliants (AHA/BHA)",
+        "Gentle physical exfoliants with small, round particles",
+        "Non-comedogenic products for those prone to breakouts"
+    ],
+    "expected_results": {
+        "2_weeks": "Visible improvement in skin texture and tone; improved product absorption",
+        "1_month": "Reduced appearance of fine lines and wrinkles; smoother and more even skin",
+        "3_months": "Hydrated, brighter complexion with enhanced radiance"
+    },
+    "expert_tips": [
+        "Patch test new products before incorporating them into your routine",
+        "Stay hydrated by drinking plenty of water daily",
+        "Protect your skin from environmental stressors like sun and wind"
+    ]
+}

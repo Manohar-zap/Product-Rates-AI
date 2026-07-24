@@ -1,0 +1,43 @@
+{
+    "name": "Green Tea",
+    "scientific_name": "Camellia sinensis",
+    "category": "Natural Ingredient",
+    "description": "Green tea is a popular beverage and an ingredient used in skincare and haircare products due to its rich antioxidant properties. It comes from the leaves of the Camellia sinensis plant, which are harvested and processed without undergoing fermentation.",
+    "benefits_skin": [
+        "Antioxidant protection against free radicals",
+        "Reduces inflammation and redness",
+        "Aids in skin hydration",
+        "Helps reduce signs of aging such as fine lines and wrinkles",
+        "Can soothe irritated or sensitive skin"
+    ],
+    "benefits_hair": [
+        "Promotes hair growth by nourishing the scalp",
+        "Strengthens hair strands, making them more resistant to breakage",
+        "Enhances shine and overall hair health",
+        "May help in preventing dandruff and other scalp issues"
+    ],
+    "best_for": [
+        "Individuals with signs of aging skin",
+        "People seeking natural antioxidants for their skincare routine",
+        "Those looking for a gentle, soothing ingredient for sensitive skin",
+        "Individuals experiencing dry or damaged hair",
+        "People wanting to promote healthy scalp and hair growth"
+    ],
+    "avoid_for": [
+        "Individuals with known allergies to green tea",
+        "People using medications that are photosensitive (check with a dermatologist)"
+    ],
+    "how_to_use": [
+        "In skincare: Use green tea-infused toners, serums, or face masks directly applied to the skin",
+        "In haircare: Add green tea extract to shampoo, conditioner, or use as a scalp treatment"
+    ],
+    "possible_side_effects": [],
+    "works_well_with": [
+        "Aloe vera for soothing properties",
+        "Vitamin E for additional antioxidant benefits",
+        "Coconut oil for added moisture",
+        "Honey for antibacterial and moisturizing qualities"
+    ],
+    "scientific_evidence": "Several studies have shown the anti-inflammatory, antioxidant, and wound-healing properties of green tea. For instance, a study published in the journal 'Phytomedicine' demonstrated that green tea polyphenols can protect against UV-induced skin damage (Chen et al., 2014).",
+    "rating": 4
+}

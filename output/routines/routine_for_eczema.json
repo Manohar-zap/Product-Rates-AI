@@ -1,0 +1,112 @@
+{
+    "routine_name": "Eczema Care Routine",
+    "routine_type": "Skincare",
+    "description": "A dermatologist-inspired routine designed to soothe and hydrate the skin, reducing the severity of eczema symptoms.",
+    "frequency": "Daily (morning and night) with weekly treatments.",
+    "estimated_time": "15-20 minutes per session",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Cleanse the face with a gentle, fragrance-free cleanser.",
+            "purpose": "Remove any oils and impurities from the skin without causing irritation.",
+            "recommended_ingredients": [
+                "Gentle foaming agents",
+                "Hydrolyzed proteins"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Apply a hydrating toner to restore the skin's pH balance.",
+            "purpose": "Help maintain the skin barrier and reduce redness.",
+            "recommended_ingredients": [
+                "Aloe vera extract",
+                "Bisabolol"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Moisturize with an oil-free, fragrance-free moisturizer that is suitable for sensitive skin.",
+            "purpose": "Lock in moisture to keep the skin hydrated and reduce dryness.",
+            "recommended_ingredients": [
+                "Petrolatum",
+                "Squalane"
+            ]
+        }
+    ],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Cleansing the face with a gentle, fragrance-free cleanser.",
+            "purpose": "Remove any oils and impurities from the skin without causing irritation.",
+            "recommended_ingredients": [
+                "Gentle foaming agents",
+                "Hydrolyzed proteins"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Apply a hydrating toner to restore the skin's pH balance.",
+            "purpose": "Help maintain the skin barrier and reduce redness.",
+            "recommended_ingredients": [
+                "Aloe vera extract",
+                "Bisabolol"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Moisturize with a richer, fragrance-free moisturizer to lock in moisture overnight.",
+            "purpose": "Provide deep hydration as the skin repairs itself during sleep.",
+            "recommended_ingredients": [
+                "Petrolatum",
+                "Squalane",
+                "Hyaluronic acid"
+            ]
+        },
+        {
+            "step": 4,
+            "action": "Consider applying a corticosteroid cream or ointment if prescribed by your dermatologist, being careful not to overuse it.",
+            "purpose": "Reduce inflammation and itching as directed by your healthcare provider.",
+            "recommended_ingredients": [
+                "Corticosteroids"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Sunday",
+            "action": "Apply a thick barrier cream or ointment like an emollient to the skin, especially on areas affected by eczema."
+        }
+    ],
+    "do": [
+        "Use lukewarm water for facial cleansers and baths.",
+        "Wear loose-fitting clothing made of soft fabrics like cotton.",
+        "Avoid harsh soaps and detergents that can strip natural oils from the skin."
+    ],
+    "dont": [
+        "Rub or scratch affected areas, as this can worsen eczema.",
+        "Use products with fragrance, alcohol, or other irritants.",
+        "Exfoliate the skin vigorously, which can be too harsh for sensitive skin."
+    ],
+    "common_mistakes": [
+        "Over-washing or scrubbing the skin can disrupt its protective barrier and exacerbate symptoms.",
+        "Neglecting to moisturize regularly, leading to dryness and irritation.",
+        "Using products with irritating ingredients without consulting a dermatologist."
+    ],
+    "best_products_categories": [
+        "Gentle cleansers",
+        "Fragrance-free toners",
+        "Oil-free moisturizers",
+        "Rich moisturizers",
+        "Emollients"
+    ],
+    "expected_results": {
+        "2_weeks": "Reduction in dryness and itching, less visible redness.",
+        "1_month": "Significant improvement in skin hydration and reduced flakiness, fewer outbreaks.",
+        "3_months": "Sustained relief from eczema symptoms with minimal flare-ups."
+    },
+    "expert_tips": [
+        "Always patch test new skincare products before incorporating them into your routine to ensure they are well-tolerated by your skin.",
+        "Keep a journal of your diet, environment, and product use to identify potential triggers and adjust your routine accordingly.",
+        "Stay consistent with your skincare regimen for the best long-term results."
+    ]
+}

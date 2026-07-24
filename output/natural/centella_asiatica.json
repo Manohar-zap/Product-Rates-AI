@@ -1,0 +1,46 @@
+{
+    "name": "Centella Asiatica",
+    "scientific_name": "Centella asiatica",
+    "category": "Herb",
+    "description": "Also known as gotu kola or Indian pennywort, Centella asiatica is a small herb that has been used in traditional medicine for centuries. It grows in warm and humid climates, often found near bodies of water.",
+    "benefits_skin": [
+        "Improves skin healing and regeneration",
+        "Reduces the appearance of scars and stretch marks",
+        "Decreases redness and inflammation",
+        "Moisturizes and soothes irritated skin"
+    ],
+    "benefits_hair": [
+        "Promotes hair growth",
+        "Strengthens hair follicles",
+        "Improves scalp health"
+    ],
+    "best_for": [
+        "Individuals with acne scars or post-inflammatory hyperpigmentation",
+        "People looking to reduce the appearance of stretch marks",
+        "Those experiencing dry or irritated skin",
+        "Hair loss sufferers and those wanting to strengthen their hair",
+        "Those with a dull scalp or dandruff"
+    ],
+    "avoid_for": [
+        "Pregnant women due to lack of research on safety during pregnancy",
+        "Individuals allergic to the plant",
+        "People taking medications that may interact with Centella asiatica, such as blood thinners"
+    ],
+    "how_to_use": [
+        "Extract can be added to skincare products like lotions or serums",
+        "Topical application of tinctures or creams",
+        "Incorporating into hair care routines through shampoos and conditioners",
+        "Consumption of supplements after consulting a healthcare provider"
+    ],
+    "possible_side_effects": [
+        "Skin irritation or allergic reactions",
+        "May cause photosensitivity in some individuals",
+        "Interactions with certain medications, especially blood thinners"
+    ],
+    "works_well_with": [
+        "Other natural ingredients like Aloe vera and Chamomile for skin care",
+        "Herbal hair growth serums containing saw palmetto or biotin"
+    ],
+    "scientific_evidence": "Numerous studies have shown Centella asiatica's effectiveness in wound healing, dermatological conditions, and hair growth. Research has indicated its ability to stimulate collagen production and increase the thickness of skin cells.",
+    "rating": 4
+}

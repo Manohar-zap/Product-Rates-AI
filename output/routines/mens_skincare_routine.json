@@ -1,0 +1,121 @@
+{
+    "routine_name": "Men's Dermatologist-Inspired Skincare Routine",
+    "routine_type": "Daily and Weekly",
+    "description": "A professional skincare routine tailored for men, designed to maintain healthy skin and address common concerns such as dryness, oiliness, and aging.",
+    "frequency": "Everyday with a weekly exfoliation and deep moisturizing treatment",
+    "estimated_time": "15-20 minutes per day, 30-40 minutes on the weekly routine day",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Cleanse the skin using a gentle facial cleanser.",
+            "purpose": "Remove impurities and prepare the skin for other treatments.",
+            "recommended_ingredients": [
+                "Gentle foaming agents",
+                "Hydrating agents"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Apply toner to help balance the skin's pH level.",
+            "purpose": "Restore skin hydration and tighten pores.",
+            "recommended_ingredients": [
+                "Aloe vera",
+                "Jojoba alcohol"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Use a hydrating serum targeted at specific concerns such as dullness or dehydration.",
+            "purpose": "Nourish the skin with essential nutrients to improve texture and tone.",
+            "recommended_ingredients": [
+                "Vitamin C",
+                "Hyaluronic acid"
+            ]
+        },
+        {
+            "step": 4,
+            "action": "Protect the skin by applying a broad-spectrum SPF moisturizer.",
+            "purpose": "Prevent sun damage and maintain hydration throughout the day.",
+            "recommended_ingredients": [
+                "SPF 30+ sunscreen",
+                "Non-comedogenic emollients"
+            ]
+        }
+    ],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Cleanse the skin using a gentle facial cleanser.",
+            "purpose": "Remove impurities and prepare the skin for other treatments.",
+            "recommended_ingredients": [
+                "Gentle foaming agents",
+                "Hydrating agents"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Apply toner to help balance the skin's pH level.",
+            "purpose": "Restore skin hydration and tighten pores.",
+            "recommended_ingredients": [
+                "Aloe vera",
+                "Jojoba alcohol"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Use a retinol-based serum for anti-aging benefits or a hydrating oil for dry skin.",
+            "purpose": "Target signs of aging, promote cell turnover, and provide deep moisturization.",
+            "recommended_ingredients": [
+                "Retinol",
+                "Squalane"
+            ]
+        },
+        {
+            "step": 4,
+            "action": "Moisturize with an intensive cream to lock in hydration overnight.",
+            "purpose": "Replenish moisture and support skin repair processes while you sleep.",
+            "recommended_ingredients": [
+                "Fatty acids",
+                "Shea butter"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Sunday",
+            "action": "Perform a gentle exfoliation followed by a nourishing treatment mask."
+        }
+    ],
+    "do": [
+        "Use sunscreen daily.",
+        "Stay hydrated by drinking plenty of water.",
+        "Eat a balanced diet rich in antioxidants and vitamins."
+    ],
+    "dont": [
+        "Skip the SPF, even on cloudy days.",
+        "Over-exfoliate, which can cause irritation and dryness.",
+        "Smoke or consume excessive alcohol, as these habits can harm your skin."
+    ],
+    "common_mistakes": [
+        "Choosing products that are too harsh for your skin type.",
+        "Not cleansing the skin thoroughly before applying treatments.",
+        "Overapplying products, which can lead to clogged pores and breakouts."
+    ],
+    "best_products_categories": [
+        "Cleansers",
+        "Toners",
+        "Serums",
+        "Moisturizers",
+        "Sunscreen"
+    ],
+    "expected_results": {
+        "2_weeks": "Skin should feel more hydrated, less dry or flaky, and show a slight improvement in texture.",
+        "1_month": "Visible reduction in fine lines and wrinkles, improved skin tone, and enhanced radiance.",
+        "3_months": "Significant improvement in skin texture, fewer blemishes, and overall healthier-looking skin."
+    },
+    "expert_tips": [
+        "Patch test new products before fully incorporating them into your routine.",
+        "Consult with a dermatologist if you have persistent or severe skin concerns.",
+        "Adjust your routine according to seasonal changes or significant lifestyle shifts."
+    ]
+}

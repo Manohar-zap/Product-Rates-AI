@@ -1,0 +1,80 @@
+{
+    "routine_name": "Morning Routine for Dry Skin",
+    "routine_type": "Skincare",
+    "description": "A professional dermatologist-inspired routine designed to hydrate and nourish dry skin in the morning.",
+    "frequency": "Daily",
+    "estimated_time": "10 minutes",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Wash face with a gentle cleanser formulated for dry skin, applying circular motions gently.",
+            "purpose": "Remove impurities and prepare the skin for the day ahead while maintaining its moisture barrier.",
+            "recommended_ingredients": [
+                "Gentle foaming agents",
+                "Hydrating ingredients like glycerin"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Pat dry with a soft towel, leaving the skin slightly damp.",
+            "purpose": "Moisturizers work more effectively when applied to slightly damp skin as it helps them penetrate better and lock in moisture.",
+            "recommended_ingredients": [
+                "Rich emollients like squalane",
+                "Humectants such as hyaluronic acid"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Apply a hydrating serum containing antioxidants, ceramides, or niacinamide to address specific skin concerns while locking in moisture.",
+            "purpose": "Targeted treatment for dryness and other skin issues. Helps strengthen the skin barrier and reduce transepidermal water loss.",
+            "recommended_ingredients": [
+                "Antioxidants like vitamin C",
+                "Ceramides",
+                "Niacinamide"
+            ]
+        },
+        {
+            "step": 4,
+            "action": "Gently massage a lightweight moisturizer into the skin until fully absorbed. Use a thicker cream if the environment is particularly dry or cold.",
+            "purpose": "Lock in moisture and provide long-lasting hydration. Supports the skin barrier function.",
+            "recommended_ingredients": [
+                "Petrolatum",
+                "Shea butter",
+                "Plant oils like jojoba oil"
+            ]
+        }
+    ],
+    "night_steps": [],
+    "weekly_steps": [
+        {
+            "day": "Sunday",
+            "action": "Exfoliate dry patches with a chemical exfoliant once a week."
+        }
+    ],
+    "do": [
+        "Stay consistent with the routine.",
+        "Drink plenty of water daily to support overall skin hydration from within."
+    ],
+    "dont": [
+        "Avoid over-cleansing, which can strip your skin’s natural oils.",
+        "Do not use heavy creams or oils if your skin feels greasy or uncomfortable."
+    ],
+    "common_mistakes": [
+        "Using harsh cleansers that disrupt the skin's barrier.",
+        "Skipping exfoliation entirely, leading to buildup of dead skin cells."
+    ],
+    "best_products_categories": [
+        "Gentle facial cleansers",
+        "Hydrating serums",
+        "Rich moisturizers"
+    ],
+    "expected_results": {
+        "2_weeks": "Improved hydration and reduced flakiness.",
+        "1_month": "More supple, softer skin with a more even texture.",
+        "3_months": "Significantly strengthened skin barrier function."
+    },
+    "expert_tips": [
+        "Choose products that are fragrance-free to avoid irritation.",
+        "Patch test new products before fully integrating them into your routine."
+    ]
+}

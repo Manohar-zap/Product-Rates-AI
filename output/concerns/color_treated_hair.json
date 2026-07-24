@@ -1,0 +1,81 @@
+{
+    "name": "Color Treated Hair",
+    "category": "Hair Care",
+    "description": "Color treated hair refers to hair that has undergone coloring processes such as dyeing, highlighting, or bleaching. This can cause changes in the hair's structure and appearance, affecting its overall health.",
+    "causes": [
+        "Use of chemical hair dyes",
+        "Frequent hair coloring treatments",
+        "Exposure to sunlight and environmental factors",
+        "Incorrect hair care practices"
+    ],
+    "symptoms": [
+        "Dryness and brittleness",
+        "Color fading or uneven color distribution",
+        "Increased hair breakage",
+        "Changed texture (e.g., coarser or softer)"
+    ],
+    "risk_factors": [
+        "Frequent hair coloring",
+        "Use of harsh chemicals during treatment",
+        "Overprocessing with heat styling tools",
+        "Insufficient moisture and nourishment"
+    ],
+    "recommended_ingredients": [
+        "Hydrating oils (e.g., coconut, argan)",
+        "Protein treatments",
+        "Vitamin-enriched shampoos and conditioners",
+        "Moisturizing masks"
+    ],
+    "ingredients_to_avoid": [
+        "Strong acids or alkalis in hair products",
+        "Sulfates in shampoo",
+        "Formaldehyde-releasing preservatives"
+    ],
+    "recommended_product_categories": [
+        "Hydrating shampoos and conditioners",
+        "Color-protecting serums",
+        "Deep conditioning treatments",
+        "UV protection sprays"
+    ],
+    "daily_routine": [
+        {
+            "step": "Use a sulfate-free shampoo",
+            "purpose": "To gently cleanse without stripping natural oils"
+        },
+        {
+            "step": "Apply a hydrating conditioner or mask",
+            "purpose": "To nourish and moisturize the hair"
+        }
+    ],
+    "professional_treatments": [
+        "Therapeutic color treatments",
+        "Professional deep conditioning services",
+        "UV protection treatments"
+    ],
+    "natural_remedies": [],
+    "lifestyle_tips": [
+        "Limit heat styling and chemical processing",
+        "Protect hair from sunlight with a hat or UV spray",
+        "Eat a balanced diet rich in vitamins and minerals"
+    ],
+    "common_myths": [
+        "Hair color treatments permanently damage hair.",
+        "Color-treated hair requires harsher care products."
+    ],
+    "when_to_consult_doctor": "If severe dryness, brittleness, or breakage persists despite proper care routines.",
+    "prevention": [
+        "Regular use of hydrating and nourishing products",
+        "Avoid excessive heat styling",
+        "Protect hair from environmental damage"
+    ],
+    "severity_levels": {
+        "mild": "Dryness and slight color fading; manageable with regular moisturizing routines.",
+        "moderate": "Increased dryness, brittleness, and noticeable color changes; requires more intensive care measures.",
+        "severe": "Severe dryness, frequent breakage, and significant loss of hair color; professional treatment recommended."
+    },
+    "expert_tips": [
+        "Choose products with pH-balancing properties",
+        "Regular trims to remove split ends",
+        "Use microfiber or silk pillowcases"
+    ]
+}

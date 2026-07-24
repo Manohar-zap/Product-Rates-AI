@@ -1,0 +1,48 @@
+{
+    "name": "Rose Water",
+    "scientific_name": "Rosmarinus officinalis L. (common rosemary) and Rosa centifolia",
+    "category": "Natural Ingredient",
+    "description": "Rose water is a natural aromatic water that is derived from the distillation of rose petals, primarily from species such as Rosa damascena. It has been used for centuries in skincare and haircare due to its soothing properties and beneficial effects on both skin and hair.",
+    "benefits_skin": [
+        "Soothes irritation and redness",
+        "Moisturizes the skin without greasiness",
+        "Reduces inflammation",
+        "Helps in treating minor skin infections",
+        "Fights against free radicals, promoting antioxidant activity"
+    ],
+    "benefits_hair": [
+        "Nourishes hair and scalp, making them softer",
+        "Promotes hair growth by improving blood circulation",
+        "Strengthens hair follicles",
+        "Prevents dandruff and flakiness on the scalp"
+    ],
+    "best_for": [
+        "Dry or sensitive skin types",
+        "Individuals with irritated or inflamed skin conditions such as rosacea",
+        "People looking for a natural moisturizer",
+        "Those suffering from minor scalp issues like dandruff or dryness"
+    ],
+    "avoid_for": [
+        "Individuals allergic to roses or experiencing severe dermatitis should avoid rose water",
+        "Those with active acne, as it may exacerbate the condition in some cases",
+        "People who have a history of allergies to other floral extracts"
+    ],
+    "how_to_use": [
+        "Apply directly to the skin or hair after cleansing and toning",
+        "Use as a final step in your skincare routine by spraying onto the face from a spray bottle",
+        "Mix with carrier oils for use in massage treatments",
+        "Add a few drops to facial masks or serums for an extra nourishing boost"
+    ],
+    "possible_side_effects": [
+        "May cause skin irritation in individuals with allergies or sensitivities",
+        "Can lead to increased sensitivity of the skin to sunlight if overused",
+        "Application may cause stinging sensation, especially on sensitive areas"
+    ],
+    "works_well_with": [
+        "Other natural ingredients like aloe vera, chamomile, and cucumber for soothing effects",
+        "Essential oils such as lavender or tea tree for additional therapeutic benefits",
+        "Hydrating serums and lotions to enhance moisture retention"
+    ],
+    "scientific_evidence": "Several studies have shown the anti-inflammatory properties of rose water and its effectiveness in treating mild skin irritations. A study published in the International Journal of Cosmetic Science suggested that rose water can help improve skin hydration and reduce transepidermal water loss.",
+    "rating": 4
+}

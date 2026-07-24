@@ -1,0 +1,83 @@
+{
+    "name": "Dry Scalp",
+    "description": "Hair with a dry scalp is characterized by lack of moisture, often leading to flakiness and discomfort. The scalp may also produce excess oil as a compensatory mechanism.",
+    "hair_texture": "Thinner, more fragile texture that can appear dull and lifeless.",
+    "porosity": "High porosity, where the cuticle layer is lifted or damaged, allowing for easy entry of products but also rapid loss of moisture.",
+    "characteristics": [
+        "Itchy scalp",
+        "Flaking skin on the scalp",
+        "Dryness leading to breakage and brittleness",
+        "Visible dry patches on the hair shaft"
+    ],
+    "common_problems": [
+        "Increased susceptibility to damage from heat styling tools",
+        "Frequent split ends",
+        "Difficulty in holding hairstyles due to lack of moisture"
+    ],
+    "recommended_ingredients": [
+        "Hydrating agents like hyaluronic acid",
+        "Oleic acid and other fatty acids",
+        "Intensive moisturizers such as shea butter, cocoa butter",
+        "Humectants like glycerin, propylene glycol"
+    ],
+    "ingredients_to_avoid": [
+        "Sulfates",
+        "Alcohols (especially those with high volatility)",
+        "Parabens and other preservatives that can be drying"
+    ],
+    "recommended_product_categories": [
+        "Moisturizing shampoos",
+        "Intensive hair masks",
+        "Conditioners with a focus on hydration",
+        "Deep conditioners for regular use"
+    ],
+    "washing_frequency": "No more than twice a week, depending on oil production and scalp health.",
+    "oil_recommendation": "Use of light-to-medium weight oils that can penetrate the scalp without leaving residue, such as jojoba or argan oil.",
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Apply a hydrating serum",
+            "purpose": "To lock in moisture and provide immediate hydration."
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Use an overnight oil treatment or deep conditioner",
+            "purpose": "To deeply moisturize the scalp and hair during sleep, allowing for better absorption."
+        }
+    ],
+    "weekly_care": [
+        "Perform a deep conditioning treatment at least once a week to replenish moisture."
+    ],
+    "deep_conditioning_frequency": "Once a week or as needed based on scalp condition.",
+    "heat_styling_recommendation": "Limit heat styling and use protective styles whenever possible. If using heat, ensure the hair is well-conditioned beforehand.",
+    "lifestyle_tips": [
+        "Stay hydrated by drinking plenty of water",
+        "Use a wide-tooth comb to minimize breakage during detangling"
+    ],
+    "foods_for_healthy_hair": [
+        "Avocados and nuts (rich in healthy fats)",
+        "Fatty fish like salmon (for omega-3 fatty acids)",
+        "Eggs (for biotin)"
+    ],
+    "common_mistakes": [
+        "Over-washing the hair, which can strip natural oils",
+        "Using harsh chemical treatments that further dry out the scalp"
+    ],
+    "do": [],
+    "dont": [
+        "Use heavy styling products",
+        "Rough handling of hair when wet or dry"
+    ],
+    "seasonal_care": {
+        "summer": "Focus on keeping the scalp cool and preventing excess oil production, use lightweight oils.",
+        "winter": "Intensify hydration routines to combat dry air and cold weather, apply extra moisturizing products.",
+        "monsoon": "Be cautious of increased humidity which can lead to more oiliness, but still ensure regular deep conditioning."
+    },
+    "compatible_hair_types": [],
+    "expert_tips": [
+        "Regular scalp massages can help stimulate blood circulation and promote natural oils production.",
+        "Consider using a humidifier in dry environments to prevent hair from drying out too much."
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "routine_name": "Teenage Skincare Routine",
+    "routine_type": "daily_and_weekly",
+    "description": "A balanced skincare routine designed for teenagers to address common skin concerns such as acne, oiliness, and uneven texture. This routine includes morning, night, and weekly steps tailored to maintain healthy, clear skin.",
+    "frequency": "Daily (morning and night) with a weekly exfoliation",
+    "estimated_time": "15-20 minutes per day for skincare, plus 30 minutes on the weekly exfoliation day",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Cleansing face using a gentle foaming cleanser",
+            "purpose": "Remove impurities and excess oil without stripping natural oils from the skin",
+            "recommended_ingredients": [
+                "Gentle surfactants",
+                "Natural emollients"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Applying toner containing salicylic acid or glycolic acid",
+            "purpose": "Pore refinement and light exfoliation to prevent blackheads and whiteheads",
+            "recommended_ingredients": [
+                "Salicylic Acid",
+                "Glycolic Acid"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Using a lightweight, non-comedogenic moisturizer",
+            "purpose": "Hydrate the skin without causing clogged pores",
+            "recommended_ingredients": [
+                "Hyaluronic Acid",
+                "Niacinamide"
+            ]
+        }
+    ],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Cleansing face using a gentle foaming cleanser",
+            "purpose": "Remove impurities and excess oil from the skin before applying nighttime treatments",
+            "recommended_ingredients": [
+                "Gentle surfactants",
+                "Natural emollients"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Applying a retinol serum or treatment at night for cell turnover and anti-aging benefits",
+            "purpose": "Stimulate skin cell renewal and reduce the appearance of fine lines and hyperpigmentation",
+            "recommended_ingredients": [
+                "Retinol"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Applying a hydrating, non-comedogenic moisturizer",
+            "purpose": "Lock in moisture overnight for optimal hydration",
+            "recommended_ingredients": [
+                "Hyaluronic Acid",
+                "Niacinamide"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Sunday",
+            "action": "Performing a chemical peel or using an exfoliating mask to remove dead skin cells"
+        }
+    ],
+    "do": [],
+    "dont": [
+        "Avoid scrubbing the skin harshly during cleansing steps, as this can irritate sensitive skin."
+    ],
+    "common_mistakes": [
+        "Over-exfoliation leading to redness and irritation",
+        "Using heavy, oil-based products that can clog pores"
+    ],
+    "best_products_categories": [
+        "Cleansers for combination/blemish-prone skin",
+        "Toner with alpha-hydroxy acids (AHAs)",
+        "Non-comedogenic moisturizers suitable for all skin types",
+        "Nighttime retinol serums or treatments",
+        "Exfoliating masks or chemical peels"
+    ],
+    "expected_results": {
+        "2_weeks": "Reduction in blackheads and whiteheads, improved skin texture",
+        "1_month": "Slight improvement in acne breakouts, enhanced skin hydration",
+        "3_months": "Reduced appearance of fine lines, smoother skin tone, increased skin radiance"
+    },
+    "expert_tips": [
+        "Always patch test new products before incorporating them into your routine to ensure compatibility with your skin type.",
+        "Stay consistent and patient; noticeable improvements may take several months."
+    ]
+}

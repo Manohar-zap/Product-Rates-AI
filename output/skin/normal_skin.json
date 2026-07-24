@@ -1,0 +1,92 @@
+{
+    "name": "Normal Skin",
+    "description": "Normal skin is characterized by a balanced appearance with neither excess oil nor dryness. It typically has an even texture, minimal visible pores, and a healthy complexion.",
+    "characteristics": [
+        "Even tone",
+        "Balanced oil production",
+        "Smooth texture",
+        "Minimal fine lines"
+    ],
+    "common_concerns": [],
+    "recommended_ingredients": [
+        "Hyaluronic acid",
+        "Vitamin C",
+        "Niacinamide",
+        "Peptides"
+    ],
+    "ingredients_to_avoid": [
+        "Heavy oils and creams",
+        "Harsh exfoliants",
+        "Alcohol-based products"
+    ],
+    "recommended_product_categories": [
+        "Moisturizers with light textures",
+        "Sunscreen",
+        "Anti-aging serums"
+    ],
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Cleanse the face gently with a mild cleanser.",
+            "purpose": "Remove impurities and prepare skin for moisturization."
+        },
+        {
+            "step": 2,
+            "action": "Apply a lightweight moisturizer or serum to hydrate the skin.",
+            "purpose": "Provide necessary hydration and support the skin barrier."
+        },
+        {
+            "step": 3,
+            "action": "Protect your skin with a broad-spectrum SPF moisturizer.",
+            "purpose": "Prevent UV damage and maintain healthy skin texture."
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Gently cleanse the face to remove dirt, oil, and makeup.",
+            "purpose": "Prepare the skin for overnight repair and hydration."
+        },
+        {
+            "step": 2,
+            "action": "Use a hydrating serum or lightweight moisturizer.",
+            "purpose": "Help retain moisture and support natural skin regeneration while you sleep."
+        }
+    ],
+    "weekly_care": [
+        "Exfoliate once or twice a week to remove dead skin cells and promote cell turnover."
+    ],
+    "lifestyle_tips": [
+        "Stay hydrated by drinking plenty of water.",
+        "Maintain a balanced diet rich in fruits, vegetables, and antioxidants.",
+        "Protect your skin from the sun by using sunscreen daily."
+    ],
+    "common_mistakes": [],
+    "do": [
+        "Regularly cleanse and moisturize your skin.",
+        "Apply sunscreen every day to protect against UV damage.",
+        "Drink plenty of water to maintain hydration."
+    ],
+    "dont": [
+        "Skip the use of sunscreen, even on cloudy days.",
+        "Use overly heavy products that can clog pores or cause irritation.",
+        "Over-exfoliate which can lead to skin dryness and irritation."
+    ],
+    "seasonal_care": {
+        "summer": "Use lighter, oil-free moisturizers and increase sun protection.",
+        "winter": "Switch to richer moisturizers and consider using a humidifier.",
+        "monsoon": "Maintain regular skincare routines but be extra gentle with cleansing."
+    },
+    "compatible_skin_types": [
+        "Oily",
+        "Combination"
+    ],
+    "avoid_combinations": [
+        "Dry skin",
+        "Sensitive skin"
+    ],
+    "expert_tips": [
+        "Regularly assess your skin type and adjust products as needed.",
+        "Consult a dermatologist for personalized advice if concerns arise."
+    ]
+}

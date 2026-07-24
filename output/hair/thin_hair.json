@@ -1,0 +1,92 @@
+{
+    "name": "Thin Hair",
+    "description": "Hair that is fine, lightweight, and lacks volume.",
+    "hair_texture": "Fine",
+    "porosity": "High",
+    "characteristics": [
+        "Tends to be lighter in color",
+        "May appear dry or brittle",
+        "Lacks fullness and body"
+    ],
+    "common_problems": [
+        "Increased hair fall",
+        "Difficult to style",
+        "Prone to breakage",
+        "Appears limp and lifeless"
+    ],
+    "recommended_ingredients": [
+        "Protein-rich ingredients like keratin",
+        "Moisturizing agents such as oils and butters",
+        "Humectants like glycerin and honey",
+        "Conditioning agents like panthenol"
+    ],
+    "ingredients_to_avoid": [
+        "Strong sulfates",
+        "Alcohol-based products",
+        "Harsh chemicals"
+    ],
+    "recommended_product_categories": [
+        "Mousse or foam for volume",
+        "Leave-in conditioners",
+        "Heat protectants",
+        "Serums with strengthening ingredients"
+    ],
+    "washing_frequency": "1-2 times a week",
+    "oil_recommendation": "Light oils like jojoba oil or argan oil",
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Apply a leave-in conditioner or serum to damp hair",
+            "purpose": "To moisturize and add manageability"
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Deep condition with a mask once a week",
+            "purpose": "To provide deep hydration and nourishment"
+        }
+    ],
+    "weekly_care": [
+        "Use a volumizing shampoo to help lift hair and give it body"
+    ],
+    "deep_conditioning_frequency": "Once a week",
+    "heat_styling_recommendation": "Limit heat styling or use heat protectants when necessary",
+    "lifestyle_tips": [
+        "Eat a balanced diet rich in vitamins and minerals",
+        "Stay well-hydrated",
+        "Manage stress levels to avoid hormonal imbalances"
+    ],
+    "foods_for_healthy_hair": [
+        "Proteins from lean meats, fish, and legumes",
+        "Iron-rich foods like spinach and lentils",
+        "Omega-3 fatty acids from flaxseeds and walnuts"
+    ],
+    "common_mistakes": [
+        "Over-washing hair",
+        "Using heavy products that can weigh down thin hair",
+        "Ignoring the need for heat protection"
+    ],
+    "do": [
+        "Use lightweight styling products",
+        "Apply oil to ends of hair for extra shine and manageability"
+    ],
+    "dont": [
+        "Use large or round brushes that can cause damage",
+        "Over-brush wet hair, as it is more prone to breakage",
+        "Overstyle with heat tools without proper protection"
+    ],
+    "seasonal_care": {
+        "summer": "Stay hydrated and use lightweight products to avoid weighing down hair.",
+        "winter": "Use hydrating masks and oils to combat dryness due to cold weather.",
+        "monsoon": "Protect hair from moisture by blotting excess water and using heat protectants."
+    },
+    "compatible_hair_types": [
+        "Normal Hair",
+        "Fine Hair"
+    ],
+    "expert_tips": [
+        "Consider a custom scalp treatment for added nourishment if necessary.",
+        "Experiment with different styles to find what works best for your thin hair type."
+    ]
+}

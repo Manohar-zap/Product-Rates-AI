@@ -1,0 +1,84 @@
+{
+    "name": "Oily Scalp",
+    "category": "Dermatological Conditions",
+    "description": "An oily scalp is characterized by an excess production of sebum, which can lead to greasy hair and a shiny appearance. This condition often results in discomfort, flaking, or itching.",
+    "causes": [
+        "Genetic predisposition",
+        "Hormonal changes",
+        "Stress",
+        "Improper hair care practices",
+        "Use of oil-based products"
+    ],
+    "symptoms": [
+        "Greasy scalp",
+        "Shiny appearance",
+        "Itching or discomfort",
+        "Frequent need to wash hair",
+        "Flaking or dandruff"
+    ],
+    "risk_factors": [
+        "Pregnancy and menopause due to hormonal changes",
+        "Adolescence due to increased sebum production",
+        "Alopecia areata",
+        "Seborrheic dermatitis"
+    ],
+    "recommended_ingredients": [
+        "Salicylic acid",
+        "Ketoconazole",
+        "Sulfur",
+        "Tea tree oil",
+        "Zinc pyrithione"
+    ],
+    "ingredients_to_avoid": [
+        "Heavy oils and greasy products",
+        "Alcohol-based shampoos",
+        "SLS (sodium lauryl sulfate) in higher concentrations"
+    ],
+    "recommended_product_categories": [
+        "Anti-dandruff shampoos",
+        "Clarifying shampoos",
+        "Conditioners with light, non-greasy formulas"
+    ],
+    "daily_routine": [
+        {
+            "step": "Washing the hair regularly",
+            "purpose": "To remove excess oil and prevent buildup"
+        },
+        {
+            "step": "Using a shampoo designed for oily scalps",
+            "purpose": "To target sebum production without stripping natural oils"
+        }
+    ],
+    "professional_treatments": [
+        "Prescription-strength topical treatments",
+        "Iontophoresis (for scalp hyperhidrosis)"
+    ],
+    "natural_remedies": [
+        "Applying apple cider vinegar or lemon juice to the scalp for a few minutes before washing",
+        "Using herbs like rosemary and lavender in homemade hair care routines"
+    ],
+    "lifestyle_tips": [
+        "Eating a balanced diet low in refined sugars and fats",
+        "Managing stress through relaxation techniques",
+        "Wearing breathable headwear when necessary"
+    ],
+    "common_myths": [
+        "Oily scalp is caused by poor hygiene",
+        "Using water that is too hot will clean the scalp better"
+    ],
+    "when_to_consult_doctor": "If symptoms persist despite home care or if there are signs of infection (redness, pain, pus)",
+    "prevention": [
+        "Regularly washing hair with appropriate products",
+        "Avoiding stress where possible",
+        "Choosing lightweight hair styling products"
+    ],
+    "severity_levels": {
+        "mild": "Minor greasiness and occasional flaking without significant discomfort.",
+        "moderate": "Frequent greasy scalp, noticeable flaking or dandruff with mild to moderate itching.",
+        "severe": "Constantly oily scalp, excessive flaking, severe itching, and potential hair loss."
+    },
+    "expert_tips": [
+        "Consult a dermatologist for personalized treatment plans",
+        "Patch test new products before full application"
+    ]
+}

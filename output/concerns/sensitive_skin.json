@@ -1,0 +1,89 @@
+{
+    "name": "Sensitive Skin",
+    "category": "Dermatology Conditions",
+    "description": "Sensitive skin is a common condition characterized by irritation, itching, redness, and discomfort that can be triggered by various factors. This type of skin reacts more strongly than normal to external irritants or allergens.",
+    "causes": [
+        "Environmental factors (sunlight, wind, pollution)",
+        "Harsh skincare products",
+        "Chemical ingredients in cosmetics and detergents",
+        "Genetic predisposition",
+        "Certain medical conditions"
+    ],
+    "symptoms": [
+        "Redness and flushing of the skin",
+        "Itching and burning sensations",
+        "Dryness, flakiness, or tightness",
+        "Sensitivity to temperature changes (hot or cold)",
+        "Rashes or hives"
+    ],
+    "risk_factors": [
+        "Exposure to harsh environmental conditions",
+        "Use of inappropriate skincare products",
+        "History of allergic reactions or asthma",
+        "Genetic predisposition",
+        "Pregnancy or hormonal changes"
+    ],
+    "recommended_ingredients": [
+        "Hyaluronic acid for hydration",
+        "Niacinamide (vitamin B3) to reduce redness and inflammation",
+        "Squalane for its non-comedogenic properties and moisturizing benefits",
+        "Green tea extract for anti-inflammatory effects"
+    ],
+    "ingredients_to_avoid": [
+        "Sulfates, as they can be harsh on the skin",
+        "Parabens and other preservatives that might cause irritation",
+        "Fragrances and artificial colors",
+        "Alcohol, which can strip the skin of its natural oils"
+    ],
+    "recommended_product_categories": [
+        "Gentle cleansers",
+        "Hydrating moisturizers",
+        "Sunscreen with physical or chemical filters",
+        "Sensitive-specific skincare lines"
+    ],
+    "daily_routine": [
+        {
+            "step": "Cleansing",
+            "purpose": "Remove dirt and impurities without stripping the skin of its natural oils."
+        },
+        {
+            "step": "Toning",
+            "purpose": "Restore the skin's pH balance and prepare it for further products."
+        },
+        {
+            "step": "Moisturizing",
+            "purpose": "Lock in moisture and provide necessary hydration to maintain skin barrier integrity."
+        }
+    ],
+    "professional_treatments": [
+        "Chemical peels with mild exfoliants",
+        "Intense Pulsed Light (IPL) for hyperpigmentation and redness"
+    ],
+    "natural_remedies": [
+        "Applying aloe vera gel to soothe irritated skin",
+        "Using oatmeal baths or face masks for calming effects"
+    ],
+    "lifestyle_tips": [
+        "Wear protective clothing when outdoors in harsh weather conditions.",
+        "Use fragrance-free and hypoallergenic products.",
+        "Conduct patch tests on new skincare items before full application."
+    ],
+    "common_myths": [
+        "Sensitive skin can be completely cured by stopping use of irritating products.",
+        "All sensitive skin types require the same type of treatment or product line."
+    ],
+    "when_to_consult_doctor": "If symptoms persist despite avoiding known triggers, or if there is a sudden onset of severe irritation and swelling.",
+    "prevention": [
+        "Identify and avoid personal trigger factors",
+        "Use gentle skincare products free from harsh chemicals"
+    ],
+    "severity_levels": {
+        "mild": "Mild cases may show symptoms such as occasional redness, itching, or tightness after using certain products.",
+        "moderate": "Moderate cases might experience more frequent and intense reactions to common irritants. Symptoms could persist for several days following exposure to triggers.",
+        "severe": "Severe cases involve persistent skin issues that affect daily activities and quality of life. There may be significant discomfort, visible signs of inflammation, and increased risk of secondary infections."
+    },
+    "expert_tips": [
+        "Always patch test new products before full application",
+        "Consult a dermatologist regularly to tailor treatment plans according to individual needs"
+    ]
+}

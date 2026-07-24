@@ -1,0 +1,92 @@
+{
+    "routine_name": "Melasma Care Routine",
+    "routine_type": "Skincare",
+    "description": "A professional dermatologist-inspired skincare routine designed to address melasma concerns, focusing on daily and nightly routines with additional weekly treatments.",
+    "frequency": "Daily and Weekly",
+    "estimated_time": "30 minutes per day, including a maximum of 15 minutes for the weekly treatment session.",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Apply sunscreen SPF 30 or higher",
+            "purpose": "Protects skin from UV rays which can worsen melasma",
+            "recommended_ingredients": [
+                "Broad-spectrum SPF"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Use a vitamin C serum",
+            "purpose": "Promotes collagen production and helps lighten hyperpigmentation",
+            "recommended_ingredients": [
+                "Vitamin C, Hyaluronic Acid"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Apply a peptide cream or gel",
+            "purpose": "Improves skin texture and reduces the appearance of melasma patches",
+            "recommended_ingredients": [
+                "Peptides, Hyaluronic Acid"
+            ]
+        }
+    ],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Cleanse with a gentle cleanser",
+            "purpose": "Removes impurities and prepares skin for nighttime treatments",
+            "recommended_ingredients": [
+                "Gentle Cleansers"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Use a retinol cream or serum",
+            "purpose": "Stimulates cell turnover, enhances skin repair, and helps prevent new melasma spots",
+            "recommended_ingredients": [
+                "Retinol",
+                "Hyaluronic Acid"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Apply a broad-spectrum sunscreen SPF 30 or higher",
+            "purpose": "Protects skin from UV rays during the day even when not directly exposed to sunlight",
+            "recommended_ingredients": [
+                "Broad-spectrum SPF"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Sunday",
+            "action": "Apply a chemical peel or use a retinoid treatment mask"
+        }
+    ],
+    "do": [],
+    "dont": [
+        "Avoid excessive sun exposure without proper protection",
+        "Do not pick or scratch the skin, as this can worsen melasma and cause scarring"
+    ],
+    "common_mistakes": [
+        "Failing to protect the skin from UV rays",
+        "Using products that may irritate the skin"
+    ],
+    "best_products_categories": [
+        "Sunscreen",
+        "Vitamin C Serums",
+        "Peptide Creams or Gels",
+        "Retinol Products",
+        "Chemical Peels and Retinoid Treatment Masks"
+    ],
+    "expected_results": {
+        "2_weeks": "Skin appears brighter, fine lines may be less visible, and new melasma spots are reduced",
+        "1_month": "Visible improvement in skin tone and texture with a reduction in the appearance of old melasma spots",
+        "3_months": "Significant improvement in skin tone and texture, with minimal to no active melasma patches"
+    },
+    "expert_tips": [
+        "Consult a dermatologist for personalized treatment recommendations and monitoring",
+        "Be consistent and patient, as results may take several months of continuous use",
+        "Stay hydrated by drinking plenty of water throughout the day"
+    ]
+}

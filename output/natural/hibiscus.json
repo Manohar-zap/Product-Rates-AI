@@ -1,0 +1,40 @@
+{
+    "name": "Hibiscus",
+    "scientific_name": "Hibiscus rosa-sinensis",
+    "category": "Plant",
+    "description": "Hibiscus, often referred to as Chinese hibiscus or scarlet rosemallow, is a flowering plant known for its vibrant red flowers. The plant also has various applications in skincare and haircare due to the presence of antioxidants and other beneficial compounds.",
+    "benefits_skin": [
+        "Anti-aging properties",
+        "Moisturizing effect",
+        "Reduces inflammation",
+        "Improves skin elasticity"
+    ],
+    "benefits_hair": [
+        "Promotes hair growth",
+        "Strengthens hair strands",
+        "Enhances shine and texture",
+        "Nourishes scalp"
+    ],
+    "best_for": [
+        "Dry or mature skin types",
+        "Hair that needs moisture and nutrition",
+        "Individuals looking to improve their skin's elasticity and reduce signs of aging"
+    ],
+    "avoid_for": [],
+    "how_to_use": [
+        "Add hibiscus extract or infused oil to face masks, serums, and moisturizers.",
+        "Use hibiscus tea as a toner for the face.",
+        "Incorporate hibiscus flower essence into hair conditioners or rinse treatments."
+    ],
+    "possible_side_effects": [
+        "Allergic reactions in some individuals",
+        "May cause skin irritation if used undiluted"
+    ],
+    "works_well_with": [
+        "Aloe vera",
+        "Jojoba oil",
+        "Vitamin C serums"
+    ],
+    "scientific_evidence": "Studies have shown that hibiscus extract contains antioxidants like anthocyanins, which can help protect the skin from oxidative stress. Research also indicates that its anti-inflammatory properties may be beneficial for managing certain skin conditions. In hair care, hibiscus has been found to contain compounds that promote scalp health and prevent protein loss in hair.",
+    "rating": 4
+}

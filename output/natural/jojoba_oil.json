@@ -1,0 +1,49 @@
+{
+    "name": "Jojoba Oil",
+    "scientific_name": "Simmondsia chinensis",
+    "category": "Skin and Hair Care Ingredient",
+    "description": "Jojoba oil is a light, non-greasy liquid that closely resembles the natural oils produced by human skin. It's extracted from the seeds of the jojoba plant, which grows primarily in Arizona, California, and Mexico.",
+    "benefits_skin": [
+        "Balances sebum production",
+        "Moisturizes without clogging pores",
+        "Heals minor skin irritations and acne",
+        "Reduces fine lines and wrinkles",
+        "Protects against environmental damage"
+    ],
+    "benefits_hair": [
+        "Strengthens hair strands",
+        "Promotes healthy hair growth",
+        "Adds shine to dull hair",
+        "Helps in preventing split ends",
+        "Acts as a lightweight detangler"
+    ],
+    "best_for": [
+        "Dry skin and hair conditions",
+        "Sensitive skin types",
+        "Acne-prone skin",
+        "Anti-aging skincare routines",
+        "Hair with signs of damage or breakage"
+    ],
+    "avoid_for": [
+        "Individuals allergic to jojoba oil",
+        "Severe acne without professional advice"
+    ],
+    "how_to_use": [
+        "Apply a small amount directly onto the skin or hair after cleansing.",
+        "Massage into the scalp for a few minutes before washing out with shampoo.",
+        "Use as a natural makeup remover by applying a few drops on a cotton pad and gently swiping over the face.",
+        "Add a few drops to your daily moisturizer or serum for an extra boost."
+    ],
+    "possible_side_effects": [
+        "Rash or irritation in cases of sensitivities",
+        "May cause mild redness if used in large quantities"
+    ],
+    "works_well_with": [
+        "Vitamins E and C",
+        "Aloe vera gel",
+        "Avocado oil",
+        "Coconut oil"
+    ],
+    "scientific_evidence": "Studies have shown jojoba oil's effectiveness in moisturizing skin and hair due to its similar chemical composition to sebum. Research has also suggested its benefits in addressing dryness, inflammation, and promoting healthy scalp conditions.",
+    "rating": 4
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Eczema",
+    "category": "Dermatological Conditions",
+    "description": "Eczema, also known as atopic dermatitis, is a common skin condition that causes the skin to become red, itchy, and inflamed. It can affect people of any age but often starts in childhood.",
+    "causes": [
+        "Genetic predisposition",
+        "Environmental factors (allergens, irritants)",
+        "Imbalanced immune system response"
+    ],
+    "symptoms": [
+        "Redness and itching of the skin",
+        "Dry, rough patches",
+        "Skin cracking or bleeding in severe cases",
+        "Swelling and blistering"
+    ],
+    "risk_factors": [
+        "Family history of eczema or allergies",
+        "Personal history of other allergic conditions (asthma, hay fever)",
+        "Stress"
+    ],
+    "recommended_ingredients": [
+        "Emollients (e.g., petroleum jelly, lanolin)",
+        "Steroid creams and ointments",
+        "Calcineurin inhibitors (e.g., tacrolimus)"
+    ],
+    "ingredients_to_avoid": [
+        "Scented soaps and skincare products",
+        "Alcohol-based cleansers",
+        "Preservatives like parabens"
+    ],
+    "recommended_product_categories": [
+        "Moisturizers and emollients",
+        "Topical corticosteroids",
+        "Antihistamines for itching relief"
+    ],
+    "daily_routine": [
+        {
+            "step": "Gentle skin cleansing with lukewarm water",
+            "purpose": "To remove dirt and excess oils without irritating the skin"
+        },
+        {
+            "step": "Application of a fragrance-free moisturizer immediately after bathing",
+            "purpose": "To lock in moisture and prevent dryness"
+        }
+    ],
+    "professional_treatments": [
+        "Phototherapy",
+        "Immunomodulators (e.g., dupilumab)"
+    ],
+    "natural_remedies": [
+        "Applying cold compresses to soothe itchiness",
+        "Using a humidifier in dry environments"
+    ],
+    "lifestyle_tips": [
+        "Avoiding known irritants and allergens",
+        "Stress management techniques (e.g., meditation, yoga)"
+    ],
+    "common_myths": [
+        "Eczema can be 'cured' with home remedies.",
+        "It is contagious."
+    ],
+    "when_to_consult_doctor": "If symptoms persist despite self-care measures or worsen over time",
+    "prevention": [
+        "Identifying and avoiding triggers",
+        "Maintaining a consistent skincare routine"
+    ],
+    "severity_levels": {
+        "mild": "Mild eczema involves occasional itching and dryness, primarily affecting small areas of the skin.",
+        "moderate": "Moderate eczema includes more frequent itching, redness, and dryness in larger areas of the skin.",
+        "severe": "Severe eczema is characterized by intense itching, widespread rash, and possible complications such as infections."
+    },
+    "expert_tips": [
+        "Regular follow-ups with a dermatologist to monitor progress and adjust treatment plans",
+        "Education about eczema to better manage the condition"
+    ]
+}

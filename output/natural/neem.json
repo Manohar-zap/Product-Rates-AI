@@ -1,0 +1,48 @@
+{
+    "name": "Neem",
+    "scientific_name": "Azadirachta indica",
+    "category": "Herb and Plant Extracts",
+    "description": "Neem, also known as Azadirachta indica, is a tree native to the Indian subcontinent. Its leaves, bark, flowers, and seeds are used in traditional medicine and natural skincare and haircare products due to their antimicrobial, anti-inflammatory, and insecticidal properties.",
+    "benefits_skin": [
+        "Antimicrobial and anti-inflammatory properties that help treat skin infections and acne",
+        "Reduces redness and inflammation associated with dermatitis and eczema",
+        "Moisturizes the skin without leaving a greasy residue",
+        "Fights free radicals and helps in reducing the appearance of fine lines and wrinkles"
+    ],
+    "benefits_hair": [
+        "Inhibits dandruff and scalp infections due to its antifungal properties",
+        "Promotes hair growth by improving blood circulation on the scalp",
+        "Reduces hair fall and strengthens hair follicles",
+        "Acts as a natural conditioner, providing shine and managing frizz"
+    ],
+    "best_for": [
+        "Individuals with acne-prone skin",
+        "People dealing with dandruff or scalp infections",
+        "Those looking for natural remedies to improve their hair's health and appearance",
+        "Skin types seeking anti-aging benefits without synthetic chemicals"
+    ],
+    "avoid_for": [
+        "Pregnant women and nursing mothers should consult a healthcare provider before using neem products due to potential effects on the reproductive system",
+        "Individuals with photosensitive skin as some neem extracts can cause irritation when exposed to sunlight",
+        "People allergic to plants in the Meliaceae family, including neem"
+    ],
+    "how_to_use": [
+        "For skincare: Apply neem oil or cream topically after cleansing and toning the face. Can be used daily as a treatment or spot application.",
+        "For haircare: Mix neem extract with other natural ingredients like coconut oil to create a scalp treatment. Apply it directly to the scalp, leave on for 30 minutes, and wash off thoroughly.",
+        "Incorporate neem-based shampoos, conditioners, or masks into your regular haircare routine"
+    ],
+    "possible_side_effects": [
+        "Irritation or allergic reactions in some individuals",
+        "Photosensitivity may occur; avoid direct sunlight after application on the skin",
+        "Neem can interfere with blood clotting, so use with caution if you are taking anticoagulant medications"
+    ],
+    "works_well_with": [
+        "Tea tree oil",
+        "Aloe vera",
+        "Green tea extract",
+        "Vitamin E",
+        "Coconut oil"
+    ],
+    "scientific_evidence": "Neem has been studied for its various medicinal properties. Studies have shown its effectiveness in treating skin conditions such as psoriasis, acne, and dandruff (source: PubMed Central). However, more research is needed to fully understand the extent of its benefits.",
+    "rating": 4
+}

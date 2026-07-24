@@ -1,0 +1,88 @@
+{
+    "name": "Chapped Lips",
+    "category": "Dermatological Concerns",
+    "description": "Chapped lips occur when the skin on the lips becomes dry, cracked, and sometimes painful. This condition can be a result of various factors including environmental conditions, dehydration, certain medical conditions, or the use of certain products.",
+    "causes": [
+        "Exposure to extreme weather (cold, wind, or low humidity)",
+        "Lack of adequate hydration",
+        "Biting the lips",
+        "Using harsh lip balms or lipsticks with drying ingredients",
+        "Certain medical conditions such as cold sores, eczema, or dermatitis"
+    ],
+    "symptoms": [
+        "Dryness and flakiness",
+        "Cracks in the skin",
+        "Pain or burning sensation",
+        "Redness",
+        "Swelling"
+    ],
+    "risk_factors": [
+        "Living in cold climates with dry air",
+        "Excessive sun exposure without protection",
+        "Smoking",
+        "Certain medical conditions that affect skin health",
+        "Aging, as the lips naturally lose moisture and elasticity over time"
+    ],
+    "recommended_ingredients": [
+        "Petroleum jelly",
+        "Coconut oil",
+        "Shea butter",
+        "Olive oil",
+        "Vitamin E"
+    ],
+    "ingredients_to_avoid": [
+        "Parabens",
+        "SLS (sodium lauryl sulfate)",
+        "Artificial dyes or fragrances",
+        "Alcohol",
+        "Preservatives that can irritate the skin"
+    ],
+    "recommended_product_categories": [
+        "Moisturizing lip balms",
+        "Natural oil-based treatments",
+        "Hydrating face masks for lips"
+    ],
+    "daily_routine": [
+        {
+            "step": "Apply a thin layer of moisturizer before going to bed",
+            "purpose": "To lock in moisture overnight and prevent chapping"
+        },
+        {
+            "step": "Avoid licking your lips",
+            "purpose": "Licking can cause further dryness by evaporating the natural lip moisture"
+        }
+    ],
+    "professional_treatments": [
+        "Prescription-strength topical creams or ointments",
+        "Phototherapy for certain medical conditions causing chapped lips"
+    ],
+    "natural_remedies": [
+        "Applying aloe vera gel",
+        "Using honey as a natural humectant",
+        "Rinsing with warm water to soothe the lips"
+    ],
+    "lifestyle_tips": [
+        "Stay hydrated by drinking plenty of water",
+        "Use a humidifier in dry environments",
+        "Wear a lip balm or protective sunscreen when outdoors"
+    ],
+    "common_myths": [
+        "Licking your lips helps moisturize them.",
+        "Chapped lips are always caused by dehydration."
+    ],
+    "when_to_consult_doctor": "If the condition persists, worsens, or is accompanied by fever, swelling, or pus-filled blisters.",
+    "prevention": [
+        "Regularly applying lip balm",
+        "Avoiding harsh exfoliants on your lips",
+        "Protecting your lips from sun and wind"
+    ],
+    "severity_levels": {
+        "mild": "Minor dryness with occasional peeling or flakiness. No significant pain.",
+        "moderate": "Visible cracks, redness, and mild to moderate discomfort. May require topical treatment for relief.",
+        "severe": "Severe cracking, bleeding, and intense pain. Immediate medical attention may be necessary."
+    },
+    "expert_tips": [
+        "Choose lip products that do not contain irritating ingredients",
+        "Do a patch test before applying new products to the lips"
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "name": "Sensitive Skin",
+    "description": "Sensitive skin is characterized by a thinner, more reactive barrier that can be easily irritated or inflamed by various factors such as harsh weather conditions, certain ingredients in skincare products, and even stress.",
+    "characteristics": [
+        "Prone to redness and irritation",
+        "May have visible blood vessels",
+        "Can become flushed or itchy easily",
+        "Sensitive to temperature changes"
+    ],
+    "common_concerns": [
+        "Managing inflammation",
+        "Reducing redness",
+        "Minimizing sensitivity",
+        "Preventing dryness"
+    ],
+    "recommended_ingredients": [
+        "Hyaluronic acid for hydration",
+        "Niacinamide to soothe and brighten",
+        "Bisabolol for calming effects",
+        "Green tea extract as a natural anti-inflammatory"
+    ],
+    "ingredients_to_avoid": [
+        "Sulfates (e.g., sodium lauryl sulfate)",
+        "Alcohol (especially denatured alcohol)",
+        "Fragrances and essential oils",
+        "Preservatives like parabens and formaldehyde releasers"
+    ],
+    "recommended_product_categories": [
+        "Gentle cleansers",
+        "Hydrating moisturizers",
+        "Calming serums or treatments",
+        "SPFs with broad-spectrum protection"
+    ],
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Use a gentle, pH-balanced cleanser.",
+            "purpose": "Remove any impurities without stripping the skin."
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Cleanse the skin with the same gentle cleanser used in the morning.",
+            "purpose": "Prep the skin for overnight recovery and repair."
+        },
+        {
+            "step": 2,
+            "action": "Apply a hydrating toner to balance pH levels.",
+            "purpose": "Prepare the skin for further application of products."
+        },
+        {
+            "step": 3,
+            "action": "Moisturize with a soothing formula containing ingredients like niacinamide or bisabolol.",
+            "purpose": "Lock in moisture and provide protection overnight."
+        }
+    ],
+    "weekly_care": [
+        "Apply a gentle exfoliant once weekly to remove dead skin cells and promote cell turnover without irritation."
+    ],
+    "lifestyle_tips": [],
+    "common_mistakes": [
+        "Using harsh products that can irritate the skin",
+        "Over-washing or scrubbing the skin too aggressively"
+    ],
+    "do": [
+        "Patch test new products before full application",
+        "Use fragrance-free and hypoallergenic skincare products",
+        "Stay hydrated by drinking plenty of water"
+    ],
+    "dont": [
+        "Avoid using products with irritating ingredients",
+        "Don't skip the SPF, even on cloudy days",
+        "Do not use products that cause stinging or burning"
+    ],
+    "seasonal_care": {
+        "summer": "Use sunscreen with a physical blocker like zinc oxide to protect against UV rays and minimize irritation.",
+        "winter": "Increase hydration with richer moisturizers and consider using humidifiers in dry indoor environments.",
+        "monsoon": "Be extra cautious about moisture on the skin; use gentle, oil-free products to avoid clogging pores."
+    },
+    "compatible_skin_types": [],
+    "avoid_combinations": [],
+    "expert_tips": [
+        "Always consult a dermatologist if you experience severe reactions or persistent issues with your sensitive skin.",
+        "Maintain consistent skincare routines and be patient as treatments take time to show results."
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "name": "Uneven Skin Tone",
+    "category": "Skin Concerns",
+    "description": "Uneven skin tone refers to the appearance of dark or light patches on different parts of the face. This condition can be caused by various factors, including sun damage, hormonal changes, and genetic predispositions.",
+    "causes": [
+        "Sun exposure and UV rays",
+        "Hormonal changes (e.g., during pregnancy or taking birth control)",
+        "Aging and natural skin cell turnover slowing down",
+        "Prolonged use of corticosteroid creams",
+        "Genetic factors"
+    ],
+    "symptoms": [
+        "Visible patches of dark or light skin on the face",
+        "Uneven texture appearance",
+        "Hyperpigmentation in certain areas",
+        "Post-inflammatory hyperpigmentation after skin irritation or acne"
+    ],
+    "risk_factors": [
+        "Exposure to sunlight without proper protection",
+        "History of hormonal imbalances",
+        "Previous skin treatments or injuries",
+        "Family history of uneven skin tone",
+        "Pregnancy or use of oral contraceptives"
+    ],
+    "recommended_ingredients": [
+        "Hydroquinone (0.01% to 2%)",
+        "Kojic acid (5% to 45%)",
+        "Azelaic acid (20% solution)",
+        "Niacinamide (10% to 20%)",
+        "Vitamin C (10% to 20%)"
+    ],
+    "ingredients_to_avoid": [
+        "Retinoic acid and other strong retinoids without professional guidance",
+        "High concentrations of hydroquinone (>2%) which can cause skin irritation or damage",
+        "Tetracyclines, as they may interact with other medications and treatments"
+    ],
+    "recommended_product_categories": [
+        "Serums",
+        "Creams",
+        "Moisturizers",
+        "Sunscreens",
+        "Peels (for in-clinic use only)"
+    ],
+    "daily_routine": [
+        {
+            "step": "Cleansing",
+            "purpose": "To remove impurities and prepare the skin for treatment"
+        },
+        {
+            "step": "Exfoliating (2-3 times a week)",
+            "purpose": "To promote cell turnover and improve texture"
+        },
+        {
+            "step": "Hydrating toner",
+            "purpose": "To balance pH levels and soothe the skin"
+        },
+        {
+            "step": "Applying serum containing brightening agents",
+            "purpose": "To target uneven tone at a deeper cellular level"
+        },
+        {
+            "step": "Moisturizing with SPF daily",
+            "purpose": "To protect against further UV damage and maintain hydration"
+        }
+    ],
+    "professional_treatments": [
+        "Chemical peels",
+        "Laser therapy",
+        "Intense pulsed light (IPL) therapy",
+        "Microdermabrasion or dermaplaning",
+        "Micro-needling"
+    ],
+    "natural_remedies": [
+        "Application of aloe vera gel",
+        "Use of green tea as a soothing agent",
+        "Incorporating vitamin E oil into the skincare routine",
+        "Consumption of foods rich in antioxidants (blueberries, leafy greens)"
+    ],
+    "lifestyle_tips": [
+        "Using broad-spectrum sunscreen daily",
+        "Wearing protective clothing and hats when outdoors",
+        "Eating a balanced diet with plenty of fruits and vegetables",
+        "Drinking enough water to maintain skin hydration",
+        "Avoiding smoking and excessive alcohol consumption"
+    ],
+    "common_myths": [
+        "Uneven tone can be completely avoided with proper skincare.",
+        "Using brightening products will cause the skin to thin over time."
+    ],
+    "when_to_consult_doctor": "If uneven skin tone is accompanied by other symptoms like irritation, redness, or pain; if it suddenly appears after starting a new product or treatment; or if home remedies and routine care are not improving the condition.",
+    "prevention": [
+        "Sun protection",
+        "Regular use of skincare products with brightening agents",
+        "Healthy lifestyle habits"
+    ],
+    "severity_levels": {
+        "mild": "Visible patches that may appear in a few areas, affecting only small sections of the skin.",
+        "moderate": "More noticeable patches, covering larger areas of the face. Skin may feel slightly uneven to touch.",
+        "severe": "Large patches of dark or light skin, leading to an overall splotchy appearance. May cause self-consciousness and require professional intervention."
+    },
+    "expert_tips": [
+        "Always consult a dermatologist before starting any new skincare routine, especially if you have sensitive or reactive skin.",
+        "Start with lower concentrations of active ingredients and gradually increase as tolerated by the skin.",
+        "Be patient; consistent use of products over time is key to achieving noticeable results."
+    ]
+}

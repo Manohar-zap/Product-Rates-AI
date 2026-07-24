@@ -1,0 +1,78 @@
+{
+    "routine_name": "Night Routine for Dry Skin",
+    "routine_type": "Skincare",
+    "description": "A targeted evening skincare routine designed to nourish and hydrate dry skin, preparing it for a restful night.",
+    "frequency": "Once per day, before bedtime.",
+    "estimated_time": "10-15 minutes",
+    "morning_steps": [],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Cleanse the face with a gentle, hydrating cleanser.",
+            "purpose": "Remove impurities and prepare the skin for absorption of active ingredients.",
+            "recommended_ingredients": [
+                "Glycerin",
+                "Aloe vera"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Apply a hydrating toner containing hyaluronic acid or rose water.",
+            "purpose": "Balance pH levels and enhance skin hydration.",
+            "recommended_ingredients": [
+                "Hyaluronic Acid",
+                "Rose Water"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Use an intensive moisturizer rich in ceramides, glycerin, and squalane.",
+            "purpose": "Lock in moisture and restore the skin barrier.",
+            "recommended_ingredients": [
+                "Ceramides",
+                "Glycerin",
+                "Squalane"
+            ]
+        },
+        {
+            "step": 4,
+            "action": "Finish with a night oil or serum containing retinol, vitamins C and E.",
+            "purpose": "Support cell turnover and provide antioxidant protection during sleep.",
+            "recommended_ingredients": [
+                "Retinol",
+                "Vitamin C",
+                "Vitamin E"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Sunday",
+            "action": "Exfoliate with a gentle, chemical exfoliant once per week."
+        }
+    ],
+    "do": [],
+    "dont": [
+        "Over-exfoliate as it can irritate dry skin.",
+        "Skip moisturizing steps as they are crucial for hydration."
+    ],
+    "common_mistakes": [
+        "Using harsh products that strip the skin of its natural oils.",
+        "Failing to exfoliate regularly, leading to buildup and dullness."
+    ],
+    "best_products_categories": [
+        "Gentle Cleansers",
+        "Hydrating Toners",
+        "Intensive Moisturizers",
+        "Night Oils or Serums"
+    ],
+    "expected_results": {
+        "2_weeks": "Significantly improved hydration and a softer, smoother complexion.",
+        "1_month": "Noticeable reduction in dryness and rough patches. Skin appears more supple.",
+        "3_months": "Long-term improvement in skin barrier function with reduced sensitivity."
+    },
+    "expert_tips": [
+        "Stay hydrated from the inside out by drinking plenty of water.",
+        "Use a humidifier to add moisture back into the air, especially during dry winter months."
+    ]
+}

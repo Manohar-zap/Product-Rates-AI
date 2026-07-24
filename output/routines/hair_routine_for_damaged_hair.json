@@ -1,0 +1,58 @@
+{
+    "routine_name": "Damaged Hair Revitalization Routine",
+    "routine_type": "Hair Care",
+    "description": "This routine is designed to repair and rejuvenate damaged hair, enhancing its strength, shine, and overall health over a period of several months.",
+    "frequency": "Daily for morning steps; weekly for night and one-day steps",
+    "estimated_time": "15-20 minutes per day for daily steps, additional time required on days with deep conditioning treatments",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Apply a leave-in conditioner or light styling cream.",
+            "purpose": "To protect and hydrate the hair throughout the day.",
+            "recommended_ingredients": [
+                "Hydrating ingredients like glycerin, panthenol"
+            ]
+        }
+    ],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Gently massage a deep conditioning mask into your hair and scalp.",
+            "purpose": "To penetrate and repair the damaged areas of the hair shaft.",
+            "recommended_ingredients": [
+                "Intensive repairing ingredients like biotin, argan oil"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Saturday",
+            "action": "Apply a protein treatment for added strength and elasticity."
+        }
+    ],
+    "do": [
+        "Regularly use heat protectant when styling your hair with heat tools.",
+        "Stay hydrated by drinking plenty of water each day to support overall health, including hair."
+    ],
+    "dont": [
+        "Avoid using excessive heat or harsh chemical treatments on your hair daily."
+    ],
+    "common_mistakes": [
+        "Over-washing can strip natural oils and cause more damage.",
+        "Neglecting deep conditioning can lead to further damage over time."
+    ],
+    "best_products_categories": [
+        "Leave-in conditioners",
+        "Deep conditioning masks",
+        "Protein treatments"
+    ],
+    "expected_results": {
+        "2_weeks": "Hair feels softer and looks less dry; damaged areas start to show signs of repair.",
+        "1_month": "Visible improvement in hair texture, reduced breakage, increased shine and manageability.",
+        "3_months": "Significant enhancement in overall hair health with improved strength and elasticity."
+    },
+    "expert_tips": [
+        "Regular trims can help prevent split ends from traveling up the hair shaft.",
+        "Investing in a wide-tooth comb or detangling brush can reduce breakage during styling."
+    ]
+}

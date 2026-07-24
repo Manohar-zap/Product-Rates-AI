@@ -1,0 +1,94 @@
+{
+    "name": "Rosacea",
+    "category": "Skin Conditions",
+    "description": "Rosacea is a common skin condition that causes redness and visible blood vessels in the face. It can also lead to bumps, pimples, and burning or stinging sensations.",
+    "causes": [
+        "Genetic factors",
+        "Environmental triggers (such as sun exposure, hot weather, cold wind)",
+        "Emotional stress",
+        "Certain foods and beverages (chocolate, alcohol, spicy food)",
+        "Hormonal changes"
+    ],
+    "symptoms": [
+        "Persistent redness on the face",
+        "Visible blood vessels",
+        "Bumps and pimples similar to acne but not inflamed or filled with pus",
+        "Dry patches of skin",
+        "Swelling (in advanced cases)",
+        "Stinging, burning, or itching sensation"
+    ],
+    "risk_factors": [
+        "Fair skin",
+        "Family history of rosacea",
+        "Living in a hot, humid climate",
+        "Having certain medical conditions such as rhinitis and blepharitis",
+        "Being between the ages of 30 and 50"
+    ],
+    "recommended_ingredients": [
+        "Salicylic acid",
+        "Niacinamide",
+        "Green tea extract",
+        "Hyaluronic acid",
+        "Chamomile"
+    ],
+    "ingredients_to_avoid": [
+        "Sulfates",
+        "Alcohols (particularly denatured or high concentrations)",
+        "Essential oils (except for chamomile in low concentration)"
+    ],
+    "recommended_product_categories": [
+        "Sunscreen",
+        "Moisturizers",
+        "Gentle cleansers",
+        "Anti-inflammatory products"
+    ],
+    "daily_routine": [
+        {
+            "step": "Cleansing",
+            "purpose": "Remove dirt and oil from the skin without irritating it."
+        },
+        {
+            "step": "Sun Protection",
+            "purpose": "Apply broad-spectrum sunscreen daily to protect against UV radiation."
+        },
+        {
+            "step": "Moisturizing",
+            "purpose": "Maintain skin hydration which can help reduce redness and irritation."
+        }
+    ],
+    "professional_treatments": [
+        "Topical antibiotics (Metronidazole, Doxycycline)",
+        "Oral antibiotics (Doxycycline, Minocycline)",
+        "Isotretinoin",
+        "Laser therapy"
+    ],
+    "natural_remedies": [
+        "Applying cool compresses to soothe the skin",
+        "Using a humidifier in dry weather conditions",
+        "Avoiding triggers such as spicy foods and hot beverages"
+    ],
+    "lifestyle_tips": [
+        "Wearing protective clothing when outdoors",
+        "Reducing stress through relaxation techniques",
+        "Maintaining a healthy diet and avoiding known dietary triggers"
+    ],
+    "common_myths": [
+        "Rosacea can be cured with antibiotics.",
+        "Cosmetics always worsen rosacea."
+    ],
+    "when_to_consult_doctor": "Seek medical advice if you notice persistent redness, bumps, or other symptoms that do not resolve on their own within a week or two of appearing.",
+    "prevention": [
+        "Avoiding known triggers such as sunlight and spicy foods",
+        "Using gentle skincare products without alcohol or fragrances",
+        "Wearing protective clothing when outdoors"
+    ],
+    "severity_levels": {
+        "mild": "Persistent redness, occasional flushing, mild papules (small bumps) or pustules (pus-filled bumps)",
+        "moderate": "Visible blood vessels, more frequent flushing, and more pronounced skin irritation",
+        "severe": "Erythema (extensive redness), telangiectasia (widened blood vessels), plaques (flat, red patches of skin), rhinophyma (an enlarged, bulbous nose)"
+    },
+    "expert_tips": [
+        "Keep a detailed diary to track what triggers your rosacea",
+        "Regularly consult with a dermatologist for personalized treatment plans"
+    ]
+}

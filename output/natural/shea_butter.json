@@ -1,0 +1,44 @@
+{
+    "name": "Shea Butter",
+    "scientific_name": "Butyrospermum parkii",
+    "category": "Natural Extract",
+    "description": "Shea butter is a natural, fat-rich substance derived from the nuts of the shea tree. It has been used for centuries in traditional African skincare and haircare practices due to its moisturizing and healing properties.",
+    "benefits_skin": [
+        "Hydrates and moisturizes skin",
+        "Reduces fine lines and wrinkles",
+        "Heals dry, irritated, or damaged skin",
+        "Promotes cell regeneration",
+        "Fades scars and stretch marks"
+    ],
+    "benefits_hair": [
+        "Conditions hair and prevents breakage",
+        "Strengthens hair strands",
+        "Protects against heat damage from styling tools",
+        "Reduces dandruff and soothes scalp irritation"
+    ],
+    "best_for": [
+        "Dry, sensitive skin",
+        "Aging or mature skin",
+        "Scalp conditions such as dryness, dandruff, or flakiness",
+        "Hair that is prone to breakage or split ends"
+    ],
+    "avoid_for": [
+        "Individuals with nut allergies (since shea butter contains nuts)",
+        "Those who have allergic reactions to shea butter in the past"
+    ],
+    "how_to_use": [
+        "Apply a small amount directly onto skin for moisturizing",
+        "Massage into hair before styling or use as a deep conditioning treatment",
+        "Can be mixed with other oils for facial application",
+        "Use on dry patches such as elbows, knees, and heels"
+    ],
+    "possible_side_effects": [],
+    "works_well_with": [
+        "Jojoba Oil",
+        "Argan Oil",
+        "Vitamin E Oil",
+        "Almond Oil"
+    ],
+    "scientific_evidence": "Several studies have shown the effectiveness of shea butter in skin and hair care, particularly for its moisturizing properties. Research indicates that it contains compounds like fatty acids and vitamins A and E, which contribute to its skin healing and anti-aging benefits.",
+    "rating": 4
+}

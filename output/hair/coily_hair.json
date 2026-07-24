@@ -1,0 +1,91 @@
+{
+    "name": "Coily Hair",
+    "description": "Coily hair is a texture characterized by tightly coiled strands. It is typically associated with African and Afro-Caribbean descent, but can also be found in other ethnicities.",
+    "hair_texture": "Coily",
+    "porosity": "High to very high",
+    "characteristics": [
+        "Tightly coiled or kinked",
+        "Curly patterns that resemble S-shapes",
+        "Can have a watermelon seed appearance"
+    ],
+    "common_problems": [
+        "Dryness and frizz",
+        "Difficulties with styling and manageability",
+        "Pore buildup leading to breakage"
+    ],
+    "recommended_ingredients": [
+        "Hydrating agents like glycerin, panthenol, and hyaluronic acid",
+        "Humectants such as honey, aloe vera, and coconut water",
+        "Protein treatments for strength (e.g., keratin, silk protein)"
+    ],
+    "ingredients_to_avoid": [
+        "Sulfates, which can strip natural oils from the hair",
+        "Alcohols that are drying (e.g., SD alcohol)",
+        "Formaldehyde-releasing preservatives"
+    ],
+    "recommended_product_categories": [
+        "Moisturizing shampoos and conditioners",
+        " leave-in conditioners and serums",
+        "Deep conditioning treatments"
+    ],
+    "washing_frequency": "Every 2-3 days or as needed, depending on scalp oiliness",
+    "oil_recommendation": "Use lightweight oils that don't weigh the hair down (e.g., argan, jojoba)",
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Rinse hair with cool water to close cuticles and seal in moisture",
+            "purpose": "Minimizes frizz and enhances manageability"
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Apply a deep conditioner or leave-in treatment before bedtime",
+            "purpose": "Penetrates the hair shaft to hydrate and repair overnight"
+        }
+    ],
+    "weekly_care": [
+        "Use a clarifying shampoo once a week to remove buildup",
+        "Deep condition every 1-2 weeks for optimal moisture retention"
+    ],
+    "deep_conditioning_frequency": "Once a week or as needed, depending on hair dryness",
+    "heat_styling_recommendation": "Minimize heat styling; use heat protectant and allow natural air drying when possible",
+    "lifestyle_tips": [
+        "Eat a balanced diet rich in proteins, vitamins, and minerals",
+        "Stay hydrated by drinking plenty of water",
+        "Protect hair from environmental damage with sun hats or scarves"
+    ],
+    "foods_for_healthy_hair": [
+        "Proteins like lean meats, fish, and legumes",
+        "Fruits and vegetables rich in antioxidants (e.g., berries, leafy greens)",
+        "Healthy fats from nuts, seeds, and avocados"
+    ],
+    "common_mistakes": [
+        "Over-washing or using harsh shampoos",
+        "Using too much heat styling tools",
+        "Not moisturizing enough or skipping deep conditioning sessions"
+    ],
+    "do": [
+        "Use a wide-tooth comb to detangle without breaking hair",
+        "Apply products while the hair is damp for better absorption",
+        "Try microfiber towels or air drying instead of towel rubbing"
+    ],
+    "dont": [
+        "Skip moisturizing and deep conditioning steps",
+        "Overstyle with heat tools, as it can cause breakage",
+        "Use heavy oils that can weigh down your coily hair"
+    ],
+    "seasonal_care": {
+        "summer": "Protect hair from sun damage by wearing hats or applying a leave-in UV protectant",
+        "winter": "Stay extra hydrated and use hydrating treatments to combat dryness",
+        "monsoon": "Increase deep conditioning sessions due to increased humidity"
+    },
+    "compatible_hair_types": [
+        "Curly Hair",
+        "Wavy Hair"
+    ],
+    "expert_tips": [
+        "Consistency is key with hair care routines for coily hair",
+        "Experiment with different products and techniques to find what works best for your specific needs"
+    ]
+}

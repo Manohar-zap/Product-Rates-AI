@@ -1,0 +1,77 @@
+{
+    "name": "Thick Hair",
+    "description": "Thick hair is typically characterized by its robust texture and diameter, often requiring more product to achieve the desired style due to higher volume and density.",
+    "hair_texture": "Thick and robust",
+    "porosity": "Moderate to High",
+    "characteristics": [
+        "Higher volume and density",
+        "May require more styling products for control"
+    ],
+    "common_problems": [
+        "Difficulties in achieving a smooth finish",
+        "Increased tendency towards frizz, especially with humidity",
+        "Dandruff or oiliness due to larger hair surface area"
+    ],
+    "recommended_ingredients": [
+        "Hydrating agents like glycerin and hyaluronic acid",
+        "Protein treatments for strength",
+        "Oil-based conditioners to moisturize without weighing down the hair"
+    ],
+    "ingredients_to_avoid": [
+        "Heavy silicones that can weigh thick hair down and make it look greasy",
+        "Alcohol-based products which may cause dryness"
+    ],
+    "recommended_product_categories": [
+        "Hydrating shampoos",
+        "Protein-rich conditioners",
+        "Cream or pomade-style styling products"
+    ],
+    "washing_frequency": "Every other day or as needed, depending on oil production",
+    "oil_recommendation": "Use a light to medium hold product suitable for thick hair",
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Apply a lightweight conditioner focusing on the mid-lengths and ends of the hair.",
+            "purpose": "Moisturize without weighing down the hair."
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Style as usual, using a heat protectant before any heat styling if necessary.",
+            "purpose": "Prevent damage from heat styling tools."
+        }
+    ],
+    "weekly_care": [
+        "Deep conditioning treatments once a week to maintain moisture and prevent breakage"
+    ],
+    "deep_conditioning_frequency": "Once a week",
+    "heat_styling_recommendation": "Use heat protectant and limit the use of high-temperature styling tools.",
+    "lifestyle_tips": [],
+    "foods_for_healthy_hair": [
+        "Protein-rich foods like eggs, fish, and legumes for strength",
+        "Omega-3 rich foods such as flaxseeds and walnuts for moisture"
+    ],
+    "common_mistakes": [
+        "Over-styling with heat tools leading to damage",
+        "Using heavy products that can weigh down the hair and cause oiliness"
+    ],
+    "do": [],
+    "dont": [
+        "Avoid brushing wet thick hair as it is more prone to breakage.",
+        "Do not use too much product, as this may make the hair look greasy."
+    ],
+    "seasonal_care": {
+        "summer": "Use lightweight products and avoid harsh sun exposure that can cause dryness.",
+        "winter": "Focus on deep conditioning and using heavier oils or butters for added moisture.",
+        "monsoon": "Maintain regular washing to prevent oil buildup and use hydrating shampoos."
+    },
+    "compatible_hair_types": [
+        "Curly hair",
+        "Wavy hair"
+    ],
+    "expert_tips": [
+        "Regular trims can help maintain thickness and prevent split ends.",
+        "Experiment with different styles and techniques to find what works best for your specific type of thick hair."
+    ]
+}

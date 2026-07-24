@@ -1,0 +1,82 @@
+{
+    "routine_name": "Night Routine for Normal Skin",
+    "routine_type": "Skincare",
+    "description": "A professional dermatologist-inspired night routine designed to nourish and repair normal skin overnight.",
+    "frequency": "Once a day, at bedtime",
+    "estimated_time": "5-10 minutes",
+    "morning_steps": [],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Cleanse the face gently with a hydrating cleanser",
+            "purpose": "Remove impurities and prepare the skin for further treatment",
+            "recommended_ingredients": [
+                "Hydrating Amino Acids",
+                "Gentle Exfoliants"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Apply a lightweight toner to balance pH levels",
+            "purpose": "Rehydrate the skin and restore its natural barrier function",
+            "recommended_ingredients": [
+                "Hyaluronic Acid",
+                "Niacinamide"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Moisturize with a non-greasy, hydrating cream or gel",
+            "purpose": "Lock in moisture and provide long-lasting hydration throughout the night",
+            "recommended_ingredients": [
+                "Fatty Acids",
+                "Antioxidants"
+            ]
+        },
+        {
+            "step": 4,
+            "action": "Apply a retinol serum for cell turnover and rejuvenation (2-3 times per week)",
+            "purpose": "Promote skin renewal, reduce fine lines, and improve texture",
+            "recommended_ingredients": [
+                "Retinol",
+                "Peptides"
+            ]
+        },
+        {
+            "step": 5,
+            "action": "Protect the skin with a broad-spectrum SPF moisturizer in the morning",
+            "purpose": "Prevent sun damage and maintain youthful appearance"
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Once a week, after cleansing",
+            "action": "Exfoliate gently using a chemical exfoliant containing AHAs or BHAs"
+        }
+    ],
+    "do": [],
+    "dont": [
+        "Do not over-exfoliate; it can lead to irritation and skin damage.",
+        "Avoid heavy creams that may clog pores overnight."
+    ],
+    "common_mistakes": [
+        "Using too many products, which can overload the skin and cause irritation",
+        "Overusing retinol without proper guidance from a dermatologist"
+    ],
+    "best_products_categories": [
+        "Cleansers for sensitive skin",
+        "Toner with hydrating ingredients",
+        "Non-greasy moisturizers",
+        "Retinol serums",
+        "Broad-spectrum SPF moisturizers"
+    ],
+    "expected_results": {
+        "2_weeks": "Skin should appear more hydrated and less flaky.",
+        "1_month": "Fine lines may become less noticeable, and skin texture should improve.",
+        "3_months": "Improved overall skin tone and a smoother appearance."
+    },
+    "expert_tips": [
+        "Patch test new products before fully incorporating them into your routine to ensure compatibility with your skin",
+        "Stay consistent but listen to your skin; if something doesn't work, don’t hesitate to adjust"
+    ]
+}

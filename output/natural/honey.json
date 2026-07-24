@@ -1,0 +1,45 @@
+{
+    "name": "Honey",
+    "scientific_name": "Melissae Florum",
+    "category": "Natural Ingredient",
+    "description": "Honey is a sweet, viscous liquid produced by honey bees. It is rich in antioxidants and has antimicrobial properties.",
+    "benefits_skin": [
+        "Moisturizes and hydrates the skin",
+        "Fades scars and hyperpigmentation",
+        "Reduces redness and inflammation",
+        "Promotes wound healing"
+    ],
+    "benefits_hair": [
+        "Strengthens hair and prevents breakage",
+        "Enhances shine and manageability of hair",
+        "Conditions and detangles hair",
+        "Fights dandruff and flakiness"
+    ],
+    "best_for": [
+        "Dry or damaged skin types",
+        "Oily scalp conditions",
+        "Hair loss or thinning issues",
+        "People with scars or hyperpigmentation on the face"
+    ],
+    "avoid_for": [
+        "Individuals allergic to bees or honey",
+        "Those with severe acne or broken skin"
+    ],
+    "how_to_use": [
+        "Mix honey with a carrier oil and apply to clean, damp skin for a mask.",
+        "Apply raw honey directly to the scalp for 10-20 minutes before washing off.",
+        "Use as a leave-in treatment on hair by applying to damp hair, comb through and style as usual."
+    ],
+    "possible_side_effects": [
+        "May cause an allergic reaction in sensitive individuals",
+        "Can attract bacteria if not properly stored"
+    ],
+    "works_well_with": [
+        "Aloe vera",
+        "Coconut oil",
+        "Avocado",
+        "Lemon juice"
+    ],
+    "scientific_evidence": "Studies have shown honey's antibacterial properties and its effectiveness in treating various skin conditions. Research also supports the use of honey as a natural hair conditioner.",
+    "rating": 8
+}

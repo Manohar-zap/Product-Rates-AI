@@ -1,0 +1,86 @@
+{
+    "name": "Sensitive Scalp",
+    "description": "A hair type characterized by a scalp that is prone to irritation, redness, and discomfort. Individuals with this hair type often experience dry or itchy scalps and may be sensitive to certain ingredients in hair care products.",
+    "hair_texture": "Varies widely; can range from fine to thick but is more likely to be on the finer side due to potential sensitivity issues that might affect texture",
+    "porosity": "Moderate to high, as sensitivities often lead to an increased need for moisture retention",
+    "characteristics": [
+        "Prone to dryness and flakiness",
+        "May experience redness or itching",
+        "Can be sensitive to certain ingredients in hair care products"
+    ],
+    "common_problems": [
+        "Irritation",
+        "Itching",
+        "Dry scalp",
+        "Redness"
+    ],
+    "recommended_ingredients": [
+        "Hydrating agents like hyaluronic acid and glycerin",
+        "Anti-inflammatory ingredients such as chamomile, oatmeal, and aloe vera",
+        "Natural moisturizers like shea butter and jojoba oil"
+    ],
+    "ingredients_to_avoid": [
+        "Sulfates",
+        "Alcohol",
+        "Parabens",
+        "Artificial fragrances and dyes",
+        "Formaldehyde-releasing preservatives"
+    ],
+    "recommended_product_categories": [
+        "Moisturizing shampoos and conditioners",
+        "Anti-dandruff products without harsh chemicals",
+        "Natural, organic hair care brands"
+    ],
+    "washing_frequency": "2-3 times per week; avoid over-washing as it can strip the scalp of its natural oils",
+    "oil_recommendation": "Use light, non-comedogenic oils like coconut or jojoba oil in small amounts for deep conditioning and hair treatment",
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Apply a thin layer of soothing hair serum to the scalp",
+            "purpose": "Provides immediate relief from any irritation and keeps the scalp hydrated"
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Wash hair with a gentle, hydrating shampoo followed by a deep conditioner focused on moisture",
+            "purpose": "Prepares the scalp for overnight repair and hydration while avoiding potential irritants"
+        }
+    ],
+    "weekly_care": [
+        "Deep condition your hair using a mask enriched with soothing ingredients like aloe vera or oatmeal once a week to address dryness and irritation"
+    ],
+    "deep_conditioning_frequency": "Once a week",
+    "heat_styling_recommendation": "Use heat protectants formulated for sensitive skin, limit heat styling sessions, and cool down hair under running water after using heat tools",
+    "lifestyle_tips": [
+        "Manage stress through relaxation techniques as it can exacerbate scalp sensitivity",
+        "Maintain a balanced diet rich in vitamins and minerals that support overall health"
+    ],
+    "foods_for_healthy_hair": [
+        "Fatty fish (omega-3 fatty acids)",
+        "Nuts and seeds (vitamin E, zinc)",
+        "Leafy greens (iron, vitamin C)"
+    ],
+    "common_mistakes": [
+        "Using harsh chemicals or products that irritate the scalp",
+        "Over-washing hair, leading to dryness and more irritation",
+        "Ignoring early signs of sensitivity"
+    ],
+    "do": [],
+    "dont": [
+        "Do not use overly hot water when washing your hair; it can further irritate a sensitive scalp.",
+        "Do not skip the patch test with new products before full application."
+    ],
+    "seasonal_care": {
+        "summer": "Use lighter, more hydrating products to manage sweat and prevent dryness",
+        "winter": "Opt for thicker, richer moisturizers to combat dry winter air",
+        "monsoon": "Focus on anti-dandruff products that can help with moisture retention while preventing fungal growth"
+    },
+    "compatible_hair_types": [
+        "Oily Scalp",
+        "Normal Scalp"
+    ],
+    "expert_tips": [
+        "Consult a dermatologist or trichologist if persistent issues arise, as underlying conditions might need professional attention."
+    ]
+}

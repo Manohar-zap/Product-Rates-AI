@@ -1,0 +1,61 @@
+{
+    "routine_name": "Curly Hair Care Routine",
+    "routine_type": "Hair",
+    "description": "A professional dermatologist-inspired routine for managing and maintaining healthy curly hair.",
+    "frequency": "Daily, with additional deep conditioning weekly",
+    "estimated_time": "30-45 minutes per day, plus 1 hour for weekly treatments",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Apply a light leave-in conditioner or texturizing spray to damp hair.",
+            "purpose": "To detangle and define curls without weighing down the hair.",
+            "recommended_ingredients": [
+                "Ceramides",
+                "Proteins",
+                "Quaternium-10"
+            ]
+        }
+    ],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Rinse out leave-in conditioner or texturizing spray with cool water.",
+            "purpose": "To seal the cuticle and prevent frizz, while also refreshing the hair for the next day.",
+            "recommended_ingredients": [
+                "Cool water"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Saturday",
+            "action": "Apply a deep conditioning mask or leave-in treatment to moisturize and repair curly hair."
+        }
+    ],
+    "do": [
+        "Use natural bristle brushes or wide-tooth combs when detangling.",
+        "Maintain consistent moisture levels by using appropriate products based on the humidity in your environment."
+    ],
+    "dont": [
+        "Over-wash or use hot water, as this can strip natural oils from curly hair.",
+        "Apply heat styling tools directly to damp or wet hair."
+    ],
+    "common_mistakes": [
+        "Failing to address dryness with regular moisturizing treatments.",
+        "Using the wrong type of shampoo or conditioner for curly hair, leading to excessive frizz and tangling."
+    ],
+    "best_products_categories": [
+        "Hydrating shampoos and conditioners",
+        "Leave-in conditioners and texturizers",
+        "Deep conditioning treatments"
+    ],
+    "expected_results": {
+        "2_weeks": "Improved manageability and reduced frizz.",
+        "1_month": "Healthier-looking curls with enhanced definition and elasticity.",
+        "3_months": "Significantly improved hair texture, reduced breakage, and overall satisfaction with the curl pattern."
+    },
+    "expert_tips": [
+        "Invest in high-quality tools that are suitable for curly hair to ensure gentle handling and better results.",
+        "Consider consulting a trichologist or dermatologist who specializes in curly hair care for personalized advice."
+    ]
+}

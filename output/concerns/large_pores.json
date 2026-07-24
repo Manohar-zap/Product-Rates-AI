@@ -1,0 +1,94 @@
+{
+    "name": "Large Pores",
+    "category": "Skin Concerns",
+    "description": "Large pores are a common skin concern where the openings of hair follicles appear more noticeable on the face and other body parts. This can lead to an open, uneven texture that may make one's complexion look oily or rough.",
+    "causes": [
+        "Genetics",
+        "Oily Skin",
+        "Sun Exposure",
+        "Aging",
+        "Hormonal Changes"
+    ],
+    "symptoms": [
+        "Visible pores on the skin surface",
+        "Uneven texture of the skin",
+        "Potential for blackheads and whiteheads in larger pores"
+    ],
+    "risk_factors": [
+        "Dark Skin Tone",
+        "Tropical or Humid Climate",
+        "Use of Heavy Cosmetics",
+        "Excessive Exfoliation or Harsh Cleansing",
+        "Using Products with High Comedogenic Ratings"
+    ],
+    "recommended_ingredients": [
+        "Salicylic Acid",
+        "Retinol",
+        "Niacinamide",
+        "Bearberry Extract",
+        "Green Tea Extract"
+    ],
+    "ingredients_to_avoid": [
+        "Heavy Oils and Fatty Compounds",
+        "Comedogenic Ingredients"
+    ],
+    "recommended_product_categories": [
+        "Clay Masks",
+        "Toner",
+        "Exfoliating Products (Gentle)",
+        "Moisturizers with Non-Comedogenic Formulations"
+    ],
+    "daily_routine": [
+        {
+            "step": "Cleansing",
+            "purpose": "Remove dirt, oil, and makeup without stripping the skin."
+        },
+        {
+            "step": "Exfoliation",
+            "purpose": "Gently remove dead skin cells to reduce appearance of pores."
+        },
+        {
+            "step": "Toning",
+            "purpose": "Balance skin pH and prepare it for moisturization."
+        },
+        {
+            "step": "Moisturizing",
+            "purpose": "Keep the skin hydrated without making it appear oily."
+        }
+    ],
+    "professional_treatments": [
+        "Chemical Peels",
+        "Microdermabrasion",
+        "Laser Resurfacing"
+    ],
+    "natural_remedies": [
+        "Applying Aloe Vera Gel",
+        "Using Honey as a Mask",
+        "Consuming Foods Rich in Antioxidants"
+    ],
+    "lifestyle_tips": [
+        "Regular Sun Protection",
+        "Healthy Diet and Hydration",
+        "Avoiding Picking or Scrubbing Skin Aggressively"
+    ],
+    "common_myths": [
+        "Larger pores cannot be reduced through skincare routines.",
+        "Exfoliating aggressively will make pores smaller."
+    ],
+    "when_to_consult_doctor": "If large pores are accompanied by persistent redness, inflammation, or if you have concerns about bacterial infections in the skin.",
+    "prevention": [
+        "Maintain a consistent and gentle skincare routine",
+        "Use oil-free products suitable for your skin type",
+        "Protect your skin from sun damage"
+    ],
+    "severity_levels": {
+        "mild": "Visible pores that are not causing significant cosmetic concerns.",
+        "moderate": "Pores appear larger than average, may cause occasional blackheads or whiteheads but do not significantly disrupt the skin texture.",
+        "severe": "Very noticeable and potentially problematic for self-esteem, requiring more intensive treatments such as chemical peels or laser therapy."
+    },
+    "expert_tips": [
+        "Consult a dermatologist to determine the underlying causes of large pores and develop an appropriate treatment plan.",
+        "Understand your skin type and tailor skincare products accordingly.",
+        "Be patient; results from treatments can take time, especially with severe cases."
+    ]
+}

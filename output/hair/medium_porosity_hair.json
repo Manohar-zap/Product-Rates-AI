@@ -1,0 +1,78 @@
+{
+    "name": "Medium Porosity Hair",
+    "description": "Medium porosity hair falls between low and high porosities, absorbing moisture at a moderate rate. This type of hair is usually wavy or curly and requires balanced care to prevent dryness and overhydration.",
+    "hair_texture": "Wavy to Curly",
+    "porosity": "Moderate",
+    "characteristics": [
+        "Absorbs moisture at an average rate",
+        "May feel dry if not properly hydrated",
+        "Subject to split ends"
+    ],
+    "common_problems": [
+        "Dryness and frizz",
+        "Split ends"
+    ],
+    "recommended_ingredients": [
+        "Hydrating oils (Argan, Coconut)",
+        "Moisturizing butters (Shea, Cocoa)",
+        "Humectants (Aloe Vera, Honey)"
+    ],
+    "ingredients_to_avoid": [
+        "Very heavy oils",
+        "Highly alcohol-based products",
+        "Sulfates"
+    ],
+    "recommended_product_categories": [
+        "Hydrating shampoos and conditioners",
+        "Leave-in conditioners",
+        "Deep conditioning treatments"
+    ],
+    "washing_frequency": "Every other day or as needed",
+    "oil_recommendation": "Use oils sparingly to avoid overhydration",
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Apply a small amount of leave-in conditioner",
+            "purpose": "Moisturizes and defines curls"
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Deep condition with a moisturizing mask",
+            "purpose": "Rehydrates the hair overnight"
+        }
+    ],
+    "weekly_care": [
+        "Trim split ends to maintain healthy strands"
+    ],
+    "deep_conditioning_frequency": "Once or twice a week",
+    "heat_styling_recommendation": "Use heat protectant and limit heat styling",
+    "lifestyle_tips": [],
+    "foods_for_healthy_hair": [
+        "Protein-rich foods (eggs, lean meats)",
+        "Fatty fish (salmon, mackerel)"
+    ],
+    "common_mistakes": [
+        "Over-washing the hair",
+        "Using too much product"
+    ],
+    "do": [],
+    "dont": [
+        "Rely solely on water to hydrate your hair",
+        "Use very heavy or greasy products that can weigh down the curls"
+    ],
+    "seasonal_care": {
+        "summer": "Stay hydrated and avoid excessive sun exposure",
+        "winter": "Increase moisture intake and use more hydrating products",
+        "monsoon": "Manage humidity with appropriate styling techniques"
+    },
+    "compatible_hair_types": [
+        "Curly hair",
+        "Wavy hair"
+    ],
+    "expert_tips": [
+        "Listen to your hair's needs and adjust care routines accordingly.",
+        "Regular trims can prevent split ends and maintain healthy hair."
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Aloe Vera",
+    "scientific_name": "Aloe barbadensis",
+    "category": "Herb, Plant",
+    "description": "Aloe vera is a species of plant known for its thick, fleshy leaves containing a clear gel-like substance. The plant has been used for thousands of years in traditional medicine and as a cosmetic ingredient.",
+    "benefits_skin": [
+        "Anti-inflammatory properties that can soothe irritated skin",
+        "Hydrating effects to moisturize the skin",
+        "Promotes wound healing and reduces scarring",
+        "Potential reduction in redness and irritation",
+        "Helps in treating sunburn"
+    ],
+    "benefits_hair": [
+        "Moisturizes hair, making it softer and more manageable",
+        "Can help prevent dandruff due to its antifungal properties",
+        "May promote hair growth by improving blood circulation",
+        "Reduces frizz and adds shine to the hair"
+    ],
+    "best_for": [
+        "Dry skin conditions such as eczema or psoriasis",
+        "Irritated, inflamed, or sunburnt skin",
+        "People looking for a natural alternative in skincare",
+        "Hair that is dry, damaged, or prone to breakage"
+    ],
+    "avoid_for": [
+        "Individuals allergic to plants in the Liliaceae family (like onions and garlic)",
+        "Those with sensitive skin who may experience irritation from direct application",
+        "Pregnant women should consult a healthcare provider before use as it can have uterine-stimulating effects"
+    ],
+    "how_to_use": [
+        "Apply fresh aloe vera gel directly to the skin or hair after cutting open an aloe leaf and squeezing out the gel",
+        "Mix with other ingredients like honey, yogurt, or tea tree oil for added benefits",
+        "Use as a facial mask by applying the gel to the face for 15-20 minutes before rinsing off",
+        "Massage into scalp and hair for 5-10 minutes before washing out"
+    ],
+    "possible_side_effects": [
+        "Can cause skin irritation or allergic reactions in some individuals",
+        "May increase sun sensitivity, leading to increased risk of burns if used topically followed by sun exposure",
+        "Should be avoided near the eyes and mucous membranes as it can cause stinging or burning"
+    ],
+    "works_well_with": [
+        "Other natural ingredients like coconut oil, jojoba oil, or shea butter for enhanced skin hydration and nourishment",
+        "Herbal extracts such as chamomile or green tea for additional anti-inflammatory benefits",
+        "Fruit acids like lactic acid for exfoliation when combined with aloe vera's hydrating properties"
+    ],
+    "scientific_evidence": "Numerous studies have shown the effectiveness of aloe vera in treating skin conditions, including burns and dermatitis. Research also supports its use in promoting hair growth and reducing scalp issues.",
+    "rating": 4
+}

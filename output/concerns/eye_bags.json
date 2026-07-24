@@ -1,0 +1,90 @@
+{
+    "name": "Eye Bags",
+    "category": "Dermatological Concerns",
+    "description": "Eye bags, also known as under-eye puffiness or dark circles, are a common skin issue that can make an individual appear tired and aged. They are often caused by fluid accumulation beneath the eyes, leading to a swollen appearance.",
+    "causes": [
+        "Fluid retention",
+        "Allergic reactions",
+        "Genetics",
+        "Ageing",
+        "Overproduction of collagen"
+    ],
+    "symptoms": [
+        "Swollen or puffy eyelids",
+        "Dark circles around the eyes",
+        "Sagging skin under the eyes"
+    ],
+    "risk_factors": [
+        "Sleep deprivation",
+        "Pregnancy",
+        "Use of corticosteroids",
+        "Excessive alcohol consumption",
+        "A sedentary lifestyle"
+    ],
+    "recommended_ingredients": [
+        "Caffeine",
+        "Hyaluronic acid",
+        "Green tea extract",
+        "Glycolic acid"
+    ],
+    "ingredients_to_avoid": [
+        "Sodium stearate",
+        "Parabens",
+        "Artificial fragrances",
+        "Petrochemicals"
+    ],
+    "recommended_product_categories": [
+        "Serums",
+        "Eye creams",
+        "Gels and gelsheets"
+    ],
+    "daily_routine": [
+        {
+            "step": "Cleanse the skin gently",
+            "purpose": "Prepares the skin for further treatments."
+        },
+        {
+            "step": "Apply a cooling eye gel or serum",
+            "purpose": "Reduces puffiness and soothes the area."
+        },
+        {
+            "step": "Use an eye cream with targeted ingredients",
+            "purpose": "Helps to reduce dark circles and improve skin texture."
+        }
+    ],
+    "professional_treatments": [
+        "Laser therapy",
+        "Microneedling",
+        "Chemical peels"
+    ],
+    "natural_remedies": [
+        "Cold compresses with green tea bags or cucumber slices",
+        "Applying a mixture of honey and lemon to the under-eye area",
+        "Massaging the eye area in circular motions"
+    ],
+    "lifestyle_tips": [
+        "Ensure adequate sleep",
+        "Stay hydrated",
+        "Maintain a healthy diet",
+        "Protect your eyes from excessive sun exposure"
+    ],
+    "common_myths": [
+        "Eating too much salt can cause eye bags.",
+        "Rubbing the eyes makes them less noticeable."
+    ],
+    "when_to_consult_doctor": "If eye bags are accompanied by severe pain, redness, or other concerning symptoms.",
+    "prevention": [
+        "Maintain a healthy diet and lifestyle",
+        "Stay well-hydrated",
+        "Use sunscreen daily"
+    ],
+    "severity_levels": {
+        "mild": "Gentle puffiness with no significant dark circles.",
+        "moderate": "Moderate to severe puffiness, noticeable dark circles that may be visible under most makeup.",
+        "severe": "Severe puffiness and dark circles that are difficult to conceal."
+    },
+    "expert_tips": [
+        "Consistency is key in treating eye bags. Daily care routines can significantly improve the appearance over time.",
+        "Consult a dermatologist if home remedies do not provide sufficient relief."
+    ]
+}

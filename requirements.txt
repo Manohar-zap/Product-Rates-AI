@@ -3,3 +3,4 @@ flask-cors
 Pillow
 google-genai
 python-dotenv
+requests

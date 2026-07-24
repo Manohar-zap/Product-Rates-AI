@@ -1,0 +1,44 @@
+{
+    "name": "Rice Water",
+    "scientific_name": "",
+    "category": "Natural Skincare and Haircare Ingredient",
+    "description": "Rice water is the liquid left over from washing rice. It has been used in various cultures for centuries due to its nourishing properties, making it a natural remedy for skin and hair care.",
+    "benefits_skin": [
+        "Moisturizes",
+        "Fades dark spots",
+        "Soothes irritated skin",
+        "Balances pH levels"
+    ],
+    "benefits_hair": [
+        "Strengthens hair",
+        "Promotes hair growth",
+        "Reduces frizz",
+        "Conditions and detangles"
+    ],
+    "best_for": [
+        "Dry or sensitive skin",
+        "Individuals with dull, lifeless hair",
+        "People seeking natural alternatives to synthetic products"
+    ],
+    "avoid_for": [
+        "Individuals with severe allergies to rice",
+        "Those with oily skin who may experience increased sebum production from rice water"
+    ],
+    "how_to_use": [
+        "Rinse rice and collect the water after washing it. Use this water directly on your face or hair.",
+        "Allow the liquid to sit on the skin for a few minutes before rinsing off with cool water.",
+        "For hair, apply the rice water as a pre-wash treatment or mix with your regular shampoo."
+    ],
+    "possible_side_effects": [
+        "May cause allergic reactions in individuals sensitive to rice",
+        "Potential increased sebum production in those with oily skin"
+    ],
+    "works_well_with": [
+        "Natural oils and extracts",
+        "Gentle facial cleansers",
+        "Herbal toners",
+        "Natural shampoos"
+    ],
+    "scientific_evidence": "Research indicates that the antioxidants, vitamins, and minerals present in rice water contribute to its beneficial effects. However, more studies are needed for a comprehensive understanding of its efficacy.",
+    "rating": 4
+}

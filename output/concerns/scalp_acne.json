@@ -1,0 +1,95 @@
+{
+    "name": "Scalp Acne",
+    "category": "Dermatological Conditions",
+    "description": "Scalp acne, also known as seborrheic dermatitis or dandruff, is a common skin condition that affects the scalp. It can manifest in various forms and may be accompanied by redness, itching, and flaky skin.",
+    "causes": [
+        "Sebaceous gland overactivity",
+        "Fungal infections",
+        "Stress",
+        "Environmental factors",
+        "Genetics"
+    ],
+    "symptoms": [
+        "Redness of the scalp",
+        "Itching and discomfort",
+        "Flaky skin or dandruff",
+        "Pimples and whiteheads on the scalp",
+        "Hair loss in severe cases"
+    ],
+    "risk_factors": [
+        "Oily scalp",
+        "Certain skin conditions like acne or eczema",
+        "Use of oil-based hair products",
+        "Genetic predisposition",
+        "Stress"
+    ],
+    "recommended_ingredients": [
+        "Salicylic acid",
+        "Benzoyl peroxide",
+        "Tea tree oil",
+        "Niacinamide",
+        "Green tea extract"
+    ],
+    "ingredients_to_avoid": [
+        "Sulfates",
+        "Alcohols (especially fatty alcohols)",
+        "Parabens"
+    ],
+    "recommended_product_categories": [
+        "Anti-dandruff shampoos",
+        "Scalp treatments",
+        "Haircare products with natural ingredients"
+    ],
+    "daily_routine": [
+        {
+            "step": "Gentle cleansing",
+            "purpose": "Remove excess oil and dead skin cells without irritating the scalp."
+        },
+        {
+            "step": "Apply anti-dandruff shampoo",
+            "purpose": "Help reduce inflammation and control sebum production."
+        },
+        {
+            "step": "Conditioner application",
+            "purpose": "Nourish and moisturize the hair and scalp, but avoid applying it to the scalp directly."
+        }
+    ],
+    "professional_treatments": [
+        "Prescription-strength topical treatments",
+        "Phototherapy",
+        "Antifungal medications"
+    ],
+    "natural_remedies": [
+        "Apple cider vinegar rinse",
+        "Coconut oil treatment",
+        "Aloe vera gel application"
+    ],
+    "lifestyle_tips": [
+        "Maintain a balanced diet",
+        "Stay hydrated",
+        "Reduce stress through relaxation techniques",
+        "Avoid tight hairstyles and excessive heat styling",
+        "Regular scalp massages to stimulate blood circulation"
+    ],
+    "common_myths": [
+        "Scalp acne is caused by poor hygiene.",
+        "Using harsh shampoos will clear up scalp acne."
+    ],
+    "when_to_consult_doctor": "If symptoms persist or worsen, if there is significant hair loss, or if you experience severe itching and discomfort.",
+    "prevention": [
+        "Regularly clean your hair and scalp",
+        "Choose appropriate hair care products",
+        "Manage stress levels",
+        "Maintain a healthy diet"
+    ],
+    "severity_levels": {
+        "mild": "Mild scalp acne may present with minimal redness, mild itching, and occasional flakiness. Treatment often involves over-the-counter anti-dandruff shampoos.",
+        "moderate": "Moderate scalp acne includes more frequent symptoms such as increased redness, persistent flakiness, and more visible dandruff or pimples on the scalp. Prescription-strength treatments may be necessary for effective management.",
+        "severe": "Severe scalp acne can lead to significant hair loss, intense itching, and noticeable lesions on the scalp. Professional treatment is essential, including prescription medications and possibly phototherapy."
+    },
+    "expert_tips": [
+        "Consistency in using recommended products is key to managing scalp acne.",
+        "Avoid scratching or rubbing the scalp as it can irritate the skin further.",
+        "Consider consulting a dermatologist for personalized treatment plans."
+    ]
+}

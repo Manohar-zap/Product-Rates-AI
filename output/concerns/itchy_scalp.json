@@ -1,0 +1,86 @@
+{
+    "name": "Itchy Scalp",
+    "category": "Dermatological Conditions",
+    "description": "An itchy scalp is a common condition that can be caused by various factors such as dermatitis, dandruff, seborrheic dermatitis, or other underlying health issues.",
+    "causes": [
+        "Dandruff",
+        "Seborrheic Dermatitis",
+        "Atopic Dermatitis",
+        "Contact Dermatitis",
+        "Psoriasis",
+        "Fungal Infections (like ringworm)",
+        "Eczema",
+        "Allergies to Hair Products"
+    ],
+    "symptoms": [
+        "Persistent itching of the scalp",
+        "Redness and inflammation",
+        "Scaly or flaky skin on the scalp",
+        "Thinning hair due to scratching",
+        "Possible hair loss in severe cases"
+    ],
+    "risk_factors": [
+        "Seborrheic conditions (oily scalp)",
+        "Stress",
+        "Harsh hair care products",
+        "Weakened immune system",
+        "Certain medications"
+    ],
+    "recommended_ingredients": [
+        "Salicylic acid",
+        "Coal tar",
+        "Zinc pyrithione",
+        "Ketoconazole",
+        "Corticosteroids (for severe cases under medical supervision)"
+    ],
+    "ingredients_to_avoid": [
+        "Sulfates (as they can irritate the scalp)",
+        "Alcohol (can dry out the skin)",
+        "Perfumes and strong fragrances"
+    ],
+    "recommended_product_categories": [
+        "Anti-dandruff shampoos",
+        "Scalp treatments containing active ingredients like salicylic acid or coal tar"
+    ],
+    "daily_routine": [
+        {
+            "step": "Use a gentle shampoo",
+            "purpose": "To cleanse the scalp without causing irritation"
+        },
+        {
+            "step": "Apply an anti-dandruff treatment",
+            "purpose": "To address and prevent flakiness and itching"
+        }
+    ],
+    "professional_treatments": [
+        "Prescription-strength shampoos or treatments",
+        "In-office scalp treatments (e.g., light therapy for psoriasis)"
+    ],
+    "natural_remedies": [
+        "Applying a mixture of coconut oil and tea tree oil to the scalp",
+        "Using apple cider vinegar as a rinse after shampooing"
+    ],
+    "lifestyle_tips": [
+        "Regularly wash your pillowcases and hats",
+        "Limit the use of heat styling tools on your hair",
+        "Avoid scratching the scalp, which can worsen irritation"
+    ],
+    "common_myths": [
+        "Itchy scalp is always due to dandruff",
+        "Using hot water for washing hair will make it cleaner."
+    ],
+    "when_to_consult_doctor": "If symptoms persist despite home remedies or if there is significant hair loss, redness, or signs of infection.",
+    "prevention": [
+        "Maintain a balanced diet and good hygiene habits",
+        "Avoid harsh chemicals in hair care products"
+    ],
+    "severity_levels": {
+        "mild": "Mild itching with occasional flakiness. Can be managed with over-the-counter treatments.",
+        "moderate": "Frequent itching, more noticeable flakiness or redness. May require prescription treatments for effective management.",
+        "severe": "Intense itching and visible signs of inflammation, possibly leading to significant hair loss. Requires immediate medical attention."
+    },
+    "expert_tips": [
+        "Regularly check your scalp for changes in color, texture, or presence of lice",
+        "Stay informed about new treatments and products that can help manage itchy scalp"
+    ]
+}

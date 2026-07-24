@@ -1,0 +1,117 @@
+{
+    "routine_name": "Radiant Skin Care Routine",
+    "routine_type": "Women's Skincare",
+    "description": "A professional dermatologist-inspired skincare routine designed to provide daily and weekly care for radiant skin.",
+    "frequency": "Daily and once a week",
+    "estimated_time": "30 minutes per day, 1 hour every week",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Cleansing with gentle cleanser",
+            "purpose": "Remove impurities and prepare skin for the day.",
+            "recommended_ingredients": [
+                "Glycerin",
+                "Sodium Cocoyl Isethionate"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Toning with hydrating toner",
+            "purpose": "Balance skin's pH levels and provide initial hydration.",
+            "recommended_ingredients": [
+                "Aloe Vera",
+                "Glycerin"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Applying serum containing Vitamin C or Hyaluronic Acid",
+            "purpose": "Target specific concerns like hyperpigmentation, fine lines, and dehydration.",
+            "recommended_ingredients": [
+                "Vitamin C",
+                "Hyaluronic Acid"
+            ]
+        },
+        {
+            "step": 4,
+            "action": "Moisturizing with a lightweight formula",
+            "purpose": "Lock in hydration for the day ahead.",
+            "recommended_ingredients": [
+                "Glycerin",
+                "Dimethicone"
+            ]
+        }
+    ],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Cleansing with gentle cleanser",
+            "purpose": "Remove impurities and prepare skin for nighttime treatments.",
+            "recommended_ingredients": [
+                "Sodium Cocoyl Isethionate",
+                "Glycerin"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Exfoliating once a week using chemical exfoliants like AHAs or BHAs",
+            "purpose": "Remove dead skin cells and promote cell turnover.",
+            "recommended_ingredients": [
+                "Alpha Hydroxy Acids (AHAs)",
+                "Beta Hydroxy Acids (BHAs)"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Applying retinol or a retinoid product",
+            "purpose": "Stimulate collagen production and reduce the appearance of fine lines.",
+            "recommended_ingredients": [
+                "Retinol",
+                "Tretinoin"
+            ]
+        },
+        {
+            "step": 4,
+            "action": "Moisturizing with richer formulas suitable for nighttime use",
+            "purpose": "Provide deep hydration and support skin repair while you sleep.",
+            "recommended_ingredients": [
+                "Jojoba Oil",
+                "Shea Butter"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Sunday",
+            "action": "Deep-cleansing mask or facial steam"
+        }
+    ],
+    "do": [
+        "Use sunscreen every day",
+        "Stay hydrated by drinking plenty of water"
+    ],
+    "dont": [
+        "Over-exfoliate, which can lead to irritation and dryness",
+        "Skip the morning SPF"
+    ],
+    "common_mistakes": [
+        "Using too many products at once, leading to overloading the skin with active ingredients",
+        "Ignoring sunscreen use even on cloudy days"
+    ],
+    "best_products_categories": [
+        "Cleansers for all skin types",
+        "Toning waters and sprays",
+        "Serums with antioxidants and hydrators",
+        "Moisturizers suitable for your specific skin type (oily, dry, combination)",
+        "Exfoliating products appropriate for your skin's condition"
+    ],
+    "expected_results": {
+        "2_weeks": "Improved hydration and reduced surface-level imperfections like blackheads.",
+        "1_month": "Increased skin elasticity and a more even texture due to consistent exfoliation and retinol use.",
+        "3_months": "Significant improvement in fine lines, wrinkles, and skin tone with continued adherence to the routine."
+    },
+    "expert_tips": [
+        "Patch test new products before incorporating them into your daily routine",
+        "Monitor skin response closely and adjust as necessary"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Argan Oil",
+    "scientific_name": "Argania spinosa kernel oil",
+    "category": "Skin and Hair Care Product",
+    "description": "Argan oil is a natural, cold-pressed extract from the kernels of the argan tree (Argania spinosa), native to Morocco. It is known for its rich content in vitamins A, E, and fatty acids which contribute to its moisturizing and restorative properties.",
+    "benefits_skin": [
+        "Moisturizes and hydrates the skin",
+        "Fades fine lines and wrinkles",
+        "Reduces inflammation and redness",
+        "Improves skin elasticity and firmness",
+        "Protects against environmental damage"
+    ],
+    "benefits_hair": [
+        "Strengthens hair strands",
+        "Conditions and detangles hair",
+        "Promotes hair growth",
+        "Reduces split ends and breakage",
+        "Leaves hair soft and manageable"
+    ],
+    "best_for": [
+        "Dry, damaged, or aging skin",
+        "Thinning hair or hair loss concerns",
+        "Sensitive scalp conditions"
+    ],
+    "avoid_for": [
+        "Individuals with known allergies to argan oil or similar oils",
+        "Those on medications that cause photosensitivity (seek medical advice)"
+    ],
+    "how_to_use": [
+        "Apply a small amount directly onto the skin and massage in gently for face or body care",
+        "Use as a leave-on treatment after shaving or exfoliation to soothe and moisturize",
+        "Warm a few drops in palms, then apply to hair from roots to ends for detangling and conditioning",
+        "Can be used as a finishing touch on styled hair to add shine and control"
+    ],
+    "possible_side_effects": [
+        "Allergic reactions such as itching or rash (rare)",
+        "Photosensitivity may occur; use caution when applying directly to skin before sun exposure"
+    ],
+    "works_well_with": [
+        "Vitamin E oil",
+        "Rosehip oil",
+        "Jojoba oil",
+        "Shea butter",
+        "Nourishing hair serums or treatments"
+    ],
+    "scientific_evidence": "Research supports argan oil's antioxidant and anti-inflammatory properties, contributing to its effectiveness in skin care. Studies also suggest its potential benefits for promoting hair health.",
+    "rating": 4
+}

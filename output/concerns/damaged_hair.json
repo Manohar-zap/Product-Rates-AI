@@ -1,0 +1,91 @@
+{
+    "name": "Damaged Hair",
+    "category": "Hair Care",
+    "description": "Damaged hair refers to hair that has been compromised by external factors, leading to breakage, brittleness, dryness, and split ends. This condition can significantly affect the overall appearance and health of hair.",
+    "causes": [
+        "Overuse of heat styling tools (e.g., flat irons, blow dryers)",
+        "Regular use of chemical treatments such as perms or relaxers",
+        "Excessive shampooing with harsh detergents",
+        "Prolonged exposure to environmental elements like saltwater and chlorine",
+        "Frequent hair dyeing or bleaching"
+    ],
+    "symptoms": [
+        "Brittle strands that break easily",
+        "Split ends",
+        "Dryness and lack of shine",
+        "Thinning texture",
+        "Increased hair fall out"
+    ],
+    "risk_factors": [
+        "Chemical processing of the hair (e.g., coloring, perming)",
+        "Using heat styling tools frequently without protective measures",
+        "Living in areas with high humidity or frequent swimming",
+        "Inadequate moisture and nutrition for the scalp and hair",
+        "Genetic predisposition to weak hair"
+    ],
+    "recommended_ingredients": [
+        "Proteins (such as keratin, silk peptides)",
+        "Fatty acids (like biotin, omega-3s)",
+        "Moisturizers (such as glycerin, hyaluronic acid)"
+    ],
+    "ingredients_to_avoid": [
+        "Sulfates",
+        "Alcohol",
+        "Formaldehyde releasers"
+    ],
+    "recommended_product_categories": [
+        "Deep conditioners",
+        "Heat protectant sprays",
+        "Moisturizing shampoos and conditioners",
+        "Hair masks"
+    ],
+    "daily_routine": [
+        {
+            "step": "Use a heat protectant spray before styling with heat tools.",
+            "purpose": "To reduce damage from high temperatures."
+        },
+        {
+            "step": "Apply a deep conditioner or hair mask weekly.",
+            "purpose": "To provide intensive nourishment and repair to the hair shaft."
+        },
+        {
+            "step": "Wash your hair with a gentle, sulfate-free shampoo.",
+            "purpose": "To maintain scalp health without stripping natural oils."
+        }
+    ],
+    "professional_treatments": [
+        "Chemical treatments (such as keratin smoothing or protein treatments)",
+        "Hair masks and intensive conditioning sessions",
+        "Scalp microneedling for improved hair growth"
+    ],
+    "natural_remedies": [
+        "Using avocado or olive oil for homemade hair masques",
+        "Incorporating aloe vera in your daily routine as it soothes the scalp and nourishes the hair.",
+        "Eating a balanced diet rich in vitamins and minerals, particularly biotin and omega-3 fatty acids."
+    ],
+    "lifestyle_tips": [
+        "Minimize the use of heat styling tools to reduce thermal damage.",
+        "Allow your hair to air dry as much as possible instead of using hot water or blow dryers.",
+        "Regularly exfoliate your scalp to remove dead skin cells and improve circulation."
+    ],
+    "common_myths": [
+        "Myth: Washing your hair every day will keep it clean and healthy.\nFact: Overwashing can strip the scalp and hair of natural oils, leading to dryness and damage.",
+        "Myth: Damaged hair can be completely restored in a few days.\nFact: Significant improvements require consistent care over several weeks or months."
+    ],
+    "when_to_consult_doctor": "If you notice rapid thinning, persistent hair fall, or severe scalp issues like dandruff or infections.",
+    "prevention": [
+        "Protect your hair from environmental stressors with hats and scarves.",
+        "Eat a nutritious diet to support hair health from the inside out.",
+        "Avoid tight hairstyles that pull on the hair too much."
+    ],
+    "severity_levels": {
+        "mild": "Minor breakage, occasional split ends, some dryness but manageable.",
+        "moderate": "Frequent split ends, increased brittleness, noticeable thinning or breakage after styling.",
+        "severe": "Extensive damage with visible thinning, constant breakage, and difficulty in managing hair."
+    },
+    "expert_tips": [
+        "Regular trims can help prevent split ends from traveling up the hair shaft, maintaining hair length over time.",
+        "Investing in quality products formulated for damaged hair can provide better results than cheaper alternatives.",
+        "Hydration is key; drink plenty of water and ensure your hair care routine includes sufficient moisture."
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "routine_name": "Morning Routine for Normal Skin",
+    "routine_type": "Skincare",
+    "description": "This routine is designed for individuals with normal skin, focusing on maintaining hydration and even skin tone without overstimulating the skin.",
+    "frequency": "Daily",
+    "estimated_time": "15 minutes",
+    "morning_steps": [
+        {
+            "step": 1,
+            "action": "Cleanse face using a gentle foaming cleanser.",
+            "purpose": "Remove any impurities and wake up your skin for the day.",
+            "recommended_ingredients": [
+                "Gentle foaming agents",
+                "Soothing ingredients like chamomile or green tea"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Apply a hydrating toner to balance pH levels.",
+            "purpose": "Restore skin's natural barrier and prepare it for further products.",
+            "recommended_ingredients": [
+                "Hyaluronic acid",
+                "Rose water"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Apply a lightweight moisturizer that matches your skin type.",
+            "purpose": "Provide necessary hydration without feeling heavy or greasy.",
+            "recommended_ingredients": [
+                "Light emollients like squalane",
+                "Non-comedogenic oils"
+            ]
+        },
+        {
+            "step": 4,
+            "action": "Use a broad-spectrum sunscreen with at least SPF 30 to protect against UV damage.",
+            "purpose": "Prevent premature aging and sun-induced skin issues.",
+            "recommended_ingredients": [
+                "Titanium dioxide or zinc oxide",
+                "Vitamin C"
+            ]
+        }
+    ],
+    "night_steps": [],
+    "weekly_steps": [
+        {
+            "day": "Sunday",
+            "action": "Exfoliate with a chemical peel to remove dead skin cells."
+        }
+    ],
+    "do": [
+        "Consistently follow the routine.",
+        "Stay hydrated and maintain a healthy diet.",
+        "Ensure hands are clean before applying skincare products."
+    ],
+    "dont": [
+        "Skip sunscreen during the day, even on cloudy days.",
+        "Use multiple layers of heavy moisturizers or oils.",
+        "Over-exfoliate as it can cause skin irritation."
+    ],
+    "common_mistakes": [
+        "Using too many products that can be too stimulating for normal skin",
+        "Neglecting to apply sunscreen daily"
+    ],
+    "best_products_categories": [
+        "Cleansers",
+        "Toners",
+        "Moisturizers",
+        "Sunscreens"
+    ],
+    "expected_results": {
+        "2_weeks": "Skin appears more even and hydrated, minor imperfections may be minimized.",
+        "1_month": "Skin texture improves, fine lines appear less noticeable, skin tone evens out.",
+        "3_months": "Visible reduction in blemishes, skin feels smoother with an overall healthy glow."
+    },
+    "expert_tips": [
+        "Patch test new products before fully incorporating them into your routine.",
+        "Adjust products based on seasonal changes and environmental factors.",
+        "Maintain a consistent but gentle approach to skincare."
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "name": "Dehydrated Skin",
+    "category": "Dermatology",
+    "description": "Dehydrated skin lacks sufficient moisture, leading to a dull appearance and other issues such as fine lines and sensitivity. It is different from oily or dry skin types and requires specific care to manage effectively.",
+    "causes": [
+        "Environmental factors (low humidity, extreme temperatures)",
+        "Over-washing or using harsh cleansers",
+        "Dehydration from internal sources (not drinking enough water)",
+        "Aging process",
+        "Certain medications"
+    ],
+    "symptoms": [
+        "Dryness and flakiness of the skin",
+        "Loss of elasticity and appearance of fine lines",
+        "Tight feeling, especially after washing or applying products",
+        "Increased sensitivity to environmental factors",
+        "Patches of redness or irritation"
+    ],
+    "risk_factors": [
+        "Living in dry climates",
+        "Frequent exposure to wind or cold weather",
+        "Use of air conditioning and central heating",
+        "Genetic predisposition",
+        "Certain medical conditions (e.g., Sjögren's syndrome)"
+    ],
+    "recommended_ingredients": [
+        "Humectants (glycerin, hyaluronic acid)",
+        "Emollients (shea butter, squalane)",
+        "Oils (avocado oil, jojoba oil)",
+        "Antioxidants (vitamin C, vitamin E)"
+    ],
+    "ingredients_to_avoid": [
+        "Alcohol",
+        "Sulfates",
+        "Strong fragrances"
+    ],
+    "recommended_product_categories": [
+        "Hydrating facial cleansers",
+        "Moisturizing lotions and creams",
+        "Intensive hydrating masks",
+        "Sunscreen with high SPF to protect from environmental damage"
+    ],
+    "daily_routine": [
+        {
+            "step": "Cleansing",
+            "purpose": "Gentle removal of impurities without stripping the skin's natural oils"
+        },
+        {
+            "step": "Toning",
+            "purpose": "Balances the skin’s pH and prepares it for better absorption of serums and moisturizers"
+        },
+        {
+            "step": "Serum application",
+            "purpose": "Provides concentrated hydration and anti-aging benefits"
+        },
+        {
+            "step": "Moisturizing",
+            "purpose": "Locks in moisture to keep the skin hydrated throughout the day"
+        },
+        {
+            "step": "Sun protection",
+            "purpose": "Prevents further dehydration from UV rays"
+        }
+    ],
+    "professional_treatments": [
+        "Intense hydration facials with hydrating masks and serums",
+        "Laser therapy to improve skin texture and reduce the appearance of fine lines",
+        "Microdermabrasion or chemical peels to exfoliate and refresh the skin"
+    ],
+    "natural_remedies": [
+        "Drinking plenty of water daily",
+        "Using a humidifier in dry environments",
+        "Eating foods rich in omega-3 fatty acids (e.g., fish, flaxseeds)"
+    ],
+    "lifestyle_tips": [
+        "Limiting exposure to harsh environmental conditions",
+        "Avoiding excessive exfoliation",
+        "Using sunscreen consistently"
+    ],
+    "common_myths": [
+        "Dehydrated skin is the same as dry skin. (In fact, they are different and require different treatments.)",
+        "Applying heavy creams will block pores and make the skin feel worse. (Lightweight hydrating products can be effective without clogging pores.)"
+    ],
+    "when_to_consult_doctor": "If symptoms persist despite home care or if there is an increase in irritation, redness, or pain.",
+    "prevention": [
+        "Maintaining a consistent skincare routine",
+        "Drinking sufficient water daily",
+        "Using appropriate moisturizers and humectants"
+    ],
+    "severity_levels": {
+        "mild": "Visible dry patches and tightness but no significant irritation or discomfort.",
+        "moderate": "Dryness, flakiness, and some redness with occasional itching.",
+        "severe": "Severe dryness leading to cracking, bleeding, and intense sensitivity."
+    },
+    "expert_tips": [
+        "Regularly assess your skin type and adapt your skincare routine accordingly.",
+        "Consult a dermatologist for personalized advice on addressing specific concerns."
+    ]
+}

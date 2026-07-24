@@ -1,0 +1,92 @@
+{
+    "name": "Curly Hair",
+    "description": "Curly hair typically has a coiled or kinked texture, with more defined curls and less overall volume than other hair types. It can vary from loose waves to tightly coiled spirals.",
+    "hair_texture": "Coily",
+    "porosity": "Variable but generally high due to the shape of the cuticle scales, which can lead to issues like frizz and tangling.",
+    "characteristics": [
+        "Defined curls or coils",
+        "Higher porosity leading to potential dryness if not properly cared for",
+        "Tendency towards frizz and kinkiness",
+        "Naturally drier than straight hair due to the shape of the cuticle"
+    ],
+    "common_problems": [
+        "Frizz",
+        "Tangling and knots",
+        "Dryness and lack of hydration",
+        "Damage from heat styling tools"
+    ],
+    "recommended_ingredients": [
+        "Humectants (e.g., glycerin, honey)",
+        "Hydrators (e.g., avocado oil, coconut oil)",
+        "Moisturizers (e.g., shea butter, jojoba oil)",
+        "Conditioners with protein",
+        "Leave-in conditioners"
+    ],
+    "ingredients_to_avoid": [
+        "Sulfates",
+        "Alcohol",
+        "Formaldehyde-releasing preservatives",
+        "Silicones"
+    ],
+    "recommended_product_categories": [
+        "Moisturizing shampoos and conditioners",
+        "Leave-in conditioners",
+        "Detangling sprays",
+        "Natural hair oils (e.g., avocado, coconut)"
+    ],
+    "washing_frequency": "Every 2-3 days or as needed to avoid over-washing which can strip natural oils",
+    "oil_recommendation": "Regular application of lightweight oils like jojoba or argan oil for added moisture and shine",
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Apply a leave-in conditioner or curl-defining cream to damp hair.",
+            "purpose": "To enhance the definition and manageability of curls."
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Deep condition your hair once a week using a mask or intensive treatment.",
+            "purpose": "To hydrate and strengthen the hair overnight, promoting healthier growth."
+        }
+    ],
+    "weekly_care": [
+        "Use a clarifying shampoo occasionally to remove product buildup and impurities."
+    ],
+    "deep_conditioning_frequency": "Once a week",
+    "heat_styling_recommendation": "Limit heat styling to reduce damage. Use heat protectants when necessary.",
+    "lifestyle_tips": [],
+    "foods_for_healthy_hair": [
+        "Protein-rich foods (e.g., eggs, lean meats)",
+        "Healthy fats (e.g., avocados, nuts, seeds)",
+        "Vitamins and minerals (e.g., biotin, zinc, iron)"
+    ],
+    "common_mistakes": [
+        "Over-washing curly hair",
+        "Using the wrong heat protection products",
+        "Not moisturizing enough"
+    ],
+    "do": [
+        "Regularly apply leave-in conditioners or scrunching creams",
+        "Use wide-tooth combs and fingers to detangle",
+        "Protect your curls during sleep with silk or satin pillowcases"
+    ],
+    "dont": [
+        "Rely too heavily on heat styling tools",
+        "Use products that are heavy or greasy",
+        "Ignore the need for moisture in curly hair"
+    ],
+    "seasonal_care": {
+        "summer": "Stay hydrated, use lighter oils and avoid excessive sun exposure which can dry out curls.",
+        "winter": "Increase moisturizing routines to combat dry air and indoor heating.",
+        "monsoon": "Protect your curls from rain and humidity with hats or leave-in conditioners."
+    },
+    "compatible_hair_types": [
+        "Wavy hair",
+        "Textured hair"
+    ],
+    "expert_tips": [
+        "Experiment with different styling techniques to find what works best for your specific curl pattern.",
+        "Regularly visit a trichologist or dermatologist specializing in curly hair care for personalized advice."
+    ]
+}

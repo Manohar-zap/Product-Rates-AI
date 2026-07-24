@@ -1,0 +1,85 @@
+{
+    "name": "Whiteheads",
+    "category": "Acne",
+    "description": "Whiteheads are a type of acne that appears as small, white bumps on the skin. They form when the hair follicles become clogged with sebum (oil), dead skin cells, and bacteria, but remain closed beneath the skin surface.",
+    "causes": [
+        "Overproduction of sebum",
+        "Dead skin cell accumulation",
+        "Clogging of hair follicles"
+    ],
+    "symptoms": [
+        "Small, white bumps on the skin",
+        "May appear on the face, chest, or back",
+        "Do not contain pus and do not protrude from the skin surface"
+    ],
+    "risk_factors": [
+        "Hormonal changes",
+        "Genetics",
+        "Use of oil-based skincare products",
+        "Stress"
+    ],
+    "recommended_ingredients": [
+        "Salicylic acid",
+        "Benzoyl peroxide",
+        "Retinoids"
+    ],
+    "ingredients_to_avoid": [
+        "Heavy oils and creams",
+        "Comedogenic ingredients"
+    ],
+    "recommended_product_categories": [
+        "Gel-based cleansers",
+        "Non-comedogenic moisturizers",
+        "Exfoliating scrubs with gentle exfoliants"
+    ],
+    "daily_routine": [
+        {
+            "step": "Cleansing",
+            "purpose": "Remove dirt and excess oil from the skin"
+        },
+        {
+            "step": "Exfoliation",
+            "purpose": "Gently remove dead skin cells to prevent clogs"
+        },
+        {
+            "step": "Moisturizing",
+            "purpose": "Keep the skin hydrated without clogging pores"
+        }
+    ],
+    "professional_treatments": [
+        "Chemical peels",
+        "Microdermabrasion",
+        "Laser therapy"
+    ],
+    "natural_remedies": [
+        "Tea tree oil",
+        "Aloe vera gel",
+        "Honey and cinnamon mask"
+    ],
+    "lifestyle_tips": [
+        "Wear non-comedogenic makeup",
+        "Regularly wash linens and clothing",
+        "Maintain a healthy diet",
+        "Stay hydrated"
+    ],
+    "common_myths": [
+        "Whiteheads are caused by dirt on the skin.",
+        "Picking at whiteheads can help them go away faster."
+    ],
+    "when_to_consult_doctor": "If whiteheads persist despite home care or worsen in severity, consult a dermatologist.",
+    "prevention": [
+        "Maintain good hygiene",
+        "Use non-comedogenic products",
+        "Manage stress levels"
+    ],
+    "severity_levels": {
+        "mild": "A few scattered whiteheads on the skin that do not cause significant discomfort or irritation.",
+        "moderate": "Several whiteheads present, occasionally accompanied by mild redness and tenderness.",
+        "severe": "A high number of whiteheads covering large areas of the skin, leading to potential scarring if left untreated."
+    },
+    "expert_tips": [
+        "Avoid touching or squeezing whiteheads as it can lead to inflammation and scarring.",
+        "Regularly change pillowcases and towels to prevent bacteria buildup.",
+        "Consult a dermatologist for personalized treatment plans."
+    ]
+}

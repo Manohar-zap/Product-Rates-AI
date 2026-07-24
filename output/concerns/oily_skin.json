@@ -1,0 +1,103 @@
+{
+    "name": "Oily Skin",
+    "category": "Skin Concerns",
+    "description": "Oily skin is characterized by the overproduction of sebum, a natural oil produced by the glands in the skin. This can lead to shiny skin, enlarged pores, and a higher likelihood of acne breakouts.",
+    "causes": [
+        "Genetics",
+        "Hormonal Changes (e.g., during puberty, menstruation, pregnancy)",
+        "Environmental Factors (e.g., high humidity, heat)",
+        "Dietary Habits (e.g., high intake of sugar and dairy products)",
+        "Certain Medications"
+    ],
+    "symptoms": [
+        "Shiny appearance",
+        "Enlarged pores",
+        "Increased likelihood of acne breakouts",
+        "Oily patches on the skin, particularly T-zone area (forehead, nose, chin)"
+    ],
+    "risk_factors": [
+        "Age (adolescence to early adulthood)",
+        "Genetic predisposition",
+        "Race/ethnicity (more common in individuals with darker skin tones)",
+        "Gender (more prevalent in males during puberty)"
+    ],
+    "recommended_ingredients": [
+        "Salicylic Acid",
+        "Benzoyl Peroxide",
+        "Niacinamide",
+        "Sulfur",
+        "Tea Tree Oil"
+    ],
+    "ingredients_to_avoid": [
+        "Heavy Oils and Fatty Compounds",
+        "Alcohol-Based Products",
+        "Synthetic Fragrances and Preservatives"
+    ],
+    "recommended_product_categories": [
+        "Oil-Free Moisturizers",
+        "Non-Comedogenic Sunscreens",
+        "Clay-Based Cleansers",
+        "Gentle Exfoliants (e.g., AHAs, BHAs)"
+    ],
+    "daily_routine": [
+        {
+            "step": "Cleansing",
+            "purpose": "Remove excess oil and impurities"
+        },
+        {
+            "step": "Exfoliating",
+            "purpose": "Help remove dead skin cells and prevent clogged pores"
+        },
+        {
+            "step": "Tonifying",
+            "purpose": "Balance the skin's pH level and reduce inflammation"
+        },
+        {
+            "step": "Moisturizing",
+            "purpose": "Maintain hydration without adding extra oils to the skin"
+        },
+        {
+            "step": "Sun Protection",
+            "purpose": "Prevent further damage from UV rays"
+        }
+    ],
+    "professional_treatments": [
+        "Chemical Peels",
+        "Laser Therapy",
+        "LED Light Therapy",
+        "Microdermabrasion"
+    ],
+    "natural_remedies": [
+        "Green Tea Compresses",
+        "Aloe Vera Gel Application",
+        "Apple Cider Vinegar Toner"
+    ],
+    "lifestyle_tips": [
+        "Maintain a balanced diet low in sugar and dairy",
+        "Stay hydrated by drinking plenty of water",
+        "Get regular exercise to boost circulation and sweat out excess oil",
+        "Manage stress through relaxation techniques like meditation or yoga"
+    ],
+    "common_myths": [
+        "Using harsh soaps will make your skin less oily",
+        "Oily skin does not need moisturizer",
+        "Skipping sunscreen can help reduce shine"
+    ],
+    "when_to_consult_doctor": "If symptoms are severe, persistent, or if you experience pain, redness, or irritation.",
+    "prevention": [
+        "Regular Cleansing",
+        "Consistent Use of Non-Comedogenic Products",
+        "Avoid Touching Your Face",
+        "Wear Breathable Clothing"
+    ],
+    "severity_levels": {
+        "mild": "Mild oiliness is characterized by a slightly shiny appearance and minimal acne. It can be managed with over-the-counter products and good skincare habits.",
+        "moderate": "Moderate oiliness involves more pronounced shine, visible pores, and occasional breakouts. Professional treatments may be necessary to control the condition.",
+        "severe": "Severe oiliness leads to frequent breakouts, significant pore enlargement, and potential scarring. This often requires a combination of skincare routines and professional medical interventions."
+    },
+    "expert_tips": [
+        "Consistency is key in managing oily skin; stick to your routine for best results.",
+        "Consider trying different products until you find the ones that work best for your unique skin type and concerns.",
+        "Be patient with treatments, as it can take time to see significant improvements."
+    ]
+}

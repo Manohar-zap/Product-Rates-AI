@@ -1,0 +1,89 @@
+{
+    "name": "Oily Skin",
+    "description": "Oily skin is characterized by a higher than normal production of sebum, leading to an appearance of shininess, enlarged pores, and a tendency towards acne.",
+    "characteristics": [
+        "Increased sebum production",
+        "Shiny appearance",
+        "Enlarged pores",
+        "Potential for blackheads and whiteheads"
+    ],
+    "common_concerns": [
+        "Acne",
+        "Shininess",
+        "Large pores",
+        "Breakouts"
+    ],
+    "recommended_ingredients": [
+        "Salicylic acid",
+        "Niacinamide",
+        "Tea tree oil",
+        "Water-soluble vitamins"
+    ],
+    "ingredients_to_avoid": [
+        "Heavy oils",
+        "Fragrances",
+        "Alcohol-based products"
+    ],
+    "recommended_product_categories": [
+        "Oil-free moisturizers",
+        "Non-comedogenic sunscreen",
+        "Benzoyl peroxide for acne treatment"
+    ],
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Cleanse with a gentle, oil-free cleanser",
+            "purpose": "Remove overnight sebum and impurities"
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Cleansing with an oil-free cleanser to remove excess sebum and daytime grime",
+            "purpose": "Prepare the skin for nighttime care"
+        },
+        {
+            "step": 2,
+            "action": "Apply a lightweight, non-comedogenic moisturizer",
+            "purpose": "Hydrate without clogging pores"
+        }
+    ],
+    "weekly_care": [
+        "Exfoliate with a mild scrub or chemical exfoliant to remove dead skin cells"
+    ],
+    "lifestyle_tips": [
+        "Maintain a balanced diet",
+        "Stay hydrated",
+        "Avoid touching your face frequently"
+    ],
+    "common_mistakes": [
+        "Over-exfoliating",
+        "Using heavy moisturizers",
+        "Not wearing sunscreen daily"
+    ],
+    "do": [
+        "Use oil-free and non-comedogenic products",
+        "Cleanse regularly but not excessively",
+        "Apply a light, water-based moisturizer"
+    ],
+    "dont": [
+        "Skip the SPF even on cloudy days",
+        "Use greasy or heavy skincare products",
+        "Rub your face vigorously when cleansing"
+    ],
+    "seasonal_care": {
+        "summer": "Increase frequency of exfoliation to manage excess oil",
+        "winter": "Be cautious about over-drying skin and use hydrating toners",
+        "monsoon": "Focus on controlling sebum production with salicylic acid"
+    },
+    "compatible_skin_types": [
+        "Normal skin"
+    ],
+    "avoid_combinations": [
+        "Dryness",
+        "Sensitive skin"
+    ],
+    "expert_tips": [
+        "Consult a dermatologist for personalized skincare recommendations"
+    ]
+}

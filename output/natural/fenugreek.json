@@ -1,0 +1,44 @@
+{
+    "name": "Fenugreek",
+    "scientific_name": "Trigonella foenum-graecum",
+    "category": "Herbal Remedy",
+    "description": "Fenugreek is an herb with a long history of use in traditional medicine, particularly in Ayurveda. The seeds and leaves are commonly used for culinary purposes as well as for their potential health benefits.",
+    "benefits_skin": [
+        "Moisturizes the skin",
+        "Reduces inflammation",
+        "Fights acne due to its anti-inflammatory properties",
+        "Promotes wound healing"
+    ],
+    "benefits_hair": [
+        "Strengthens hair and prevents breakage",
+        "Promotes hair growth",
+        "Improves scalp health by moisturizing and reducing dryness"
+    ],
+    "best_for": [
+        "Dry skin conditions like eczema or psoriasis",
+        "Acne-prone skin",
+        "Hair loss",
+        "Thickening fine or thinning hair",
+        "Itchy or flaky scalp"
+    ],
+    "avoid_for": [
+        "People with diabetes (due to its potential effect on blood sugar levels)",
+        "Pregnant women (can cause uterine contractions and potentially lead to miscarriage)"
+    ],
+    "how_to_use": [
+        "For skin: Grind the seeds into a paste, mix with water or honey, and apply as a mask. Rinse off after 15-20 minutes.",
+        "For hair: Soak fenugreek leaves in water overnight, strain, and use the liquid as a hair rinse to strengthen and moisturize the scalp."
+    ],
+    "possible_side_effects": [
+        "Diabetes patients may experience fluctuations in blood sugar levels",
+        "May cause stomach upset or diarrhea if consumed in large quantities",
+        "Can be irritating to some individuals with sensitive skin"
+    ],
+    "works_well_with": [
+        "Aloe vera for soothing and moisturizing the skin",
+        "Coconut oil as a carrier for applying fenugreek seeds to the hair",
+        "Turmeric for its anti-inflammatory properties when used in skin care"
+    ],
+    "scientific_evidence": "Research has shown potential anti-inflammatory, antimicrobial, and antioxidant effects of fenugreek which may benefit both skin and hair. However, more studies are needed to fully understand its applications.",
+    "rating": 3
+}

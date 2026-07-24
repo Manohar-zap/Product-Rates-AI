@@ -1,0 +1,86 @@
+{
+    "routine_name": "Night Routine for Oily Skin",
+    "routine_type": "Skincare",
+    "description": "A professional dermatologist-inspired nighttime skincare routine designed to target and manage oily skin, focusing on deep cleansing, hydrating, and balancing the skin overnight.",
+    "frequency": "Once per day, recommended before bed.",
+    "estimated_time": "15 minutes",
+    "morning_steps": [],
+    "night_steps": [
+        {
+            "step": 1,
+            "action": "Cleansing with a gentle yet effective cleanser",
+            "purpose": "Remove excess oil and impurities without stripping the skin of its natural oils.",
+            "recommended_ingredients": [
+                "Salicylic acid",
+                "Niacinamide"
+            ]
+        },
+        {
+            "step": 2,
+            "action": "Toning to balance the pH level and tighten pores",
+            "purpose": "Helps in reducing excess oil production and refines skin texture.",
+            "recommended_ingredients": [
+                "Tea tree oil",
+                "Willow bark extract"
+            ]
+        },
+        {
+            "step": 3,
+            "action": "Applying a lightweight, non-comedogenic moisturizer",
+            "purpose": "Prevents skin from overcompensating and producing more oil to compensate for the lack of moisture.",
+            "recommended_ingredients": [
+                "Hyaluronic acid",
+                "Glycerin"
+            ]
+        },
+        {
+            "step": 4,
+            "action": "Using a targeted serum with antioxidants",
+            "purpose": "Protects against environmental stressors and promotes skin cell turnover, reducing the appearance of pores and fine lines.",
+            "recommended_ingredients": [
+                "Vitamin C",
+                "Retinol"
+            ]
+        },
+        {
+            "step": 5,
+            "action": "Applying a non-greasy, oil-free night cream or balm",
+            "purpose": "Provides deep hydration for the skin while you sleep and helps in repairing the skin barrier.",
+            "recommended_ingredients": [
+                "Fatty acids",
+                "Chamomile extract"
+            ]
+        }
+    ],
+    "weekly_steps": [
+        {
+            "day": "Sunday",
+            "action": "Exfoliating with a chemical or physical exfoliant"
+        }
+    ],
+    "do": [],
+    "dont": [
+        "Avoid using heavy, greasy products that can clog pores and exacerbate oiliness.",
+        "Do not wash your face excessively as this can irritate the skin and worsen acne."
+    ],
+    "common_mistakes": [
+        "Over-exfoliating which can lead to dryness and irritation.",
+        "Using too many heavy moisturizers at night, leading to excess oil production."
+    ],
+    "best_products_categories": [
+        "Cleansers for oily skin",
+        "Toner for oily skin",
+        "Moisturizers for oily skin",
+        "Serums with antioxidants",
+        "Night creams for oily skin"
+    ],
+    "expected_results": {
+        "2_weeks": "Reduction in oiliness, clearer and smoother skin texture.",
+        "1_month": "Enhanced skin hydration and a reduction in the appearance of pores.",
+        "3_months": "Significant improvement in overall skin health, with reduced breakouts and an even complexion."
+    },
+    "expert_tips": [
+        "Always use products that are oil-free and non-comedogenic to avoid clogging pores.",
+        "Stay hydrated both from within (through water intake) and without (by using hydrating skincare products)."
+    ]
+}

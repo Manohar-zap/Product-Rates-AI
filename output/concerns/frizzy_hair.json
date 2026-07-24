@@ -1,0 +1,91 @@
+{
+    "name": "Frizzy Hair",
+    "category": "Hair Concerns",
+    "description": "Frizz is a common hair condition where the hair appears wiry, flyaway, and lacks smoothness. It can be exacerbated by environmental factors like humidity and heat, as well as by certain hair care practices.",
+    "causes": [
+        "High humidity levels",
+        "Harsh water (high mineral content)",
+        "Overprocessing of hair (bleaching, dyeing)",
+        "Use of heat styling tools without protection",
+        "Wearing tight hairstyles"
+    ],
+    "symptoms": [
+        "Hair appears uneven and lacks smoothness",
+        "Flyaway ends",
+        "Difficult to style",
+        "Increased hair breakage"
+    ],
+    "risk_factors": [
+        "Dry or damaged hair",
+        "Chemically treated hair",
+        "Genetic predisposition",
+        "Environmental factors like low humidity or high altitude",
+        "Use of incorrect hair care products"
+    ],
+    "recommended_ingredients": [
+        "Hydrating agents (like glycerin, hyaluronic acid)",
+        "Humectants (like honey, aloe vera)",
+        "Sealants (like oils and butters)"
+    ],
+    "ingredients_to_avoid": [
+        "Sulfates",
+        "Alcohols (especially sulfated)",
+        "Formaldehyde-releasing preservatives"
+    ],
+    "recommended_product_categories": [
+        "Moisturizing shampoos",
+        "Conditioners with hydrating properties",
+        "Heat protectant sprays",
+        "Frizz-fighting serums"
+    ],
+    "daily_routine": [
+        {
+            "step": "Use a moisturizing shampoo and conditioner",
+            "purpose": "Maintain hair hydration"
+        },
+        {
+            "step": "Apply a leave-in conditioner or serum",
+            "purpose": "Smooth the cuticle and prevent frizz"
+        },
+        {
+            "step": "Style with a heat protectant spray before using hot tools",
+            "purpose": "Prevent damage from styling"
+        }
+    ],
+    "professional_treatments": [
+        "Chemical treatments like smoothing serums or keratin treatments",
+        "Frequent trims to prevent split ends"
+    ],
+    "natural_remedies": [
+        "Use a mixture of olive oil and honey as a leave-in treatment",
+        "Apply avocado or coconut oil for deep conditioning",
+        "Regular use of apple cider vinegar rinse to balance pH levels"
+    ],
+    "lifestyle_tips": [
+        "Avoid excessive heat styling",
+        "Use wide-tooth combs instead of brushes",
+        "Protect hair from environmental damage with hats and scarves",
+        "Stay hydrated by drinking plenty of water daily"
+    ],
+    "common_myths": [
+        "Frizz can be completely eliminated with the right products",
+        "Heat styling tools are always harmful to frizzy hair"
+    ],
+    "when_to_consult_doctor": "If frizz is accompanied by other symptoms like itching, redness, or excessive hair loss.",
+    "prevention": [
+        "Use sulfate-free shampoos and conditioners",
+        "Regular trims to maintain healthy ends",
+        "Avoid over-washing your hair",
+        "Use gentle handling techniques when detangling"
+    ],
+    "severity_levels": {
+        "mild": "Hair may have slight frizz but is generally manageable with proper care.",
+        "moderate": "Frizz is more noticeable and difficult to manage, requiring regular use of styling products.",
+        "severe": "Hair is extremely prone to frizz, even in low humidity environments, making it hard to maintain a consistent style."
+    },
+    "expert_tips": [
+        "Invest in high-quality hair care products that are designed for your specific hair type",
+        "Consider getting regular trims to prevent split ends and maintain healthy hair structure",
+        "Experiment with different styling techniques and products to find what works best for you"
+    ]
+}

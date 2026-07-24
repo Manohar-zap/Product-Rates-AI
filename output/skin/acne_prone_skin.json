@@ -1,0 +1,108 @@
+{
+    "name": "Acne-Prone Skin",
+    "description": "Acne-prone skin is characterized by frequent breakouts, blackheads, whiteheads, and possible inflammation. This type of skin often requires a more targeted skincare regimen to manage oil production and prevent bacteria from causing further irritation.",
+    "characteristics": [
+        "Frequent breakouts",
+        "Oily appearance",
+        "Blackheads and whiteheads"
+    ],
+    "common_concerns": [
+        "Breakouts",
+        "Inflammation",
+        "Visible pores"
+    ],
+    "recommended_ingredients": [
+        "Salicylic acid",
+        "Benzoyl peroxide",
+        "Niacinamide",
+        "Retinol",
+        "Green tea extract"
+    ],
+    "ingredients_to_avoid": [
+        "Heavy oils and butters",
+        "Alcohol-based toners",
+        "Sulfates",
+        "Harsh exfoliants"
+    ],
+    "recommended_product_categories": [
+        "Cleansers",
+        "Toners",
+        "Serums",
+        "Moisturizers",
+        "Sunscreens"
+    ],
+    "morning_routine": [
+        {
+            "step": 1,
+            "action": "Apply a gentle cleanser",
+            "purpose": "Remove surface oils and impurities"
+        },
+        {
+            "step": 2,
+            "action": "Pat skin dry",
+            "purpose": "Prevent irritation from excessive water exposure"
+        }
+    ],
+    "night_routine": [
+        {
+            "step": 1,
+            "action": "Apply a gentle cleanser",
+            "purpose": "Remove surface oils and impurities"
+        },
+        {
+            "step": 2,
+            "action": "Gently exfoliate once or twice weekly (using a mild exfoliant)",
+            "purpose": "Remove dead skin cells without causing irritation"
+        },
+        {
+            "step": 3,
+            "action": "Apply a retinol serum",
+            "purpose": "Promote cell turnover and reduce breakouts"
+        },
+        {
+            "step": 4,
+            "action": "Moisturize with a lightweight formula",
+            "purpose": "Hydrate skin without causing additional oiliness"
+        }
+    ],
+    "weekly_care": [
+        "Deep clean with a clay mask"
+    ],
+    "lifestyle_tips": [
+        "Maintain a healthy diet",
+        "Stay hydrated",
+        "Get regular exercise",
+        "Manage stress levels"
+    ],
+    "common_mistakes": [
+        "Over-exfoliating",
+        "Using harsh products",
+        "Neglecting sunscreen use"
+    ],
+    "do": [
+        "Regularly cleanse the skin",
+        "Use non-comedogenic products",
+        "Apply sunscreen daily"
+    ],
+    "dont": [
+        "Skip cleansing in the morning",
+        "Rush through skincare routines",
+        "Assume all acne is due to dirt or poor hygiene"
+    ],
+    "seasonal_care": {
+        "summer": "Use lighter, oil-free formulas and increase product frequency",
+        "winter": "Increase hydration by using more moisturizing products",
+        "monsoon": "Adjust product consistency based on skin's reaction; consider heavier formulations"
+    },
+    "compatible_skin_types": [
+        "Sensitive",
+        "Normal"
+    ],
+    "avoid_combinations": [
+        "Dry",
+        "Oily combination with dry patches"
+    ],
+    "expert_tips": [
+        "Consult a dermatologist for personalized advice and treatment plans"
+    ]
+}
